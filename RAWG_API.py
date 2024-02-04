@@ -41,10 +41,11 @@ def fetch_games_by_year(api_key: str, start_year: int, end_year: int) -> None:
                     games_list.append({
                         "name": game['name'],
                         "release_date": game['released'],
-                        "rating": game.get('rating', None),
+                        "rating": game.get('rating', None),  # Already extracting 'rating'
+                        "rating_top": game.get('rating_top', None),
                         "metacritic": game.get('metacritic', None),
                         "playtime": game.get('playtime', None),
-                        "genres": ", ".join([genre['name'] for genre in game.get('genres', [])] if game.get('genres') else [])
+                        "genres": ", ".join([genre['name'] for genre in game.get('genres', [])] if game.get('genres') else []),
                     })
                 
                 page += 1  # Increment to fetch the next page
@@ -54,7 +55,7 @@ def fetch_games_by_year(api_key: str, start_year: int, end_year: int) -> None:
 
         # Convert the list to a DataFrame and save to a CSV file
         games_df = pd.DataFrame(games_list)
-        filename = f"games_{year}.csv"
+        filename = f"RAWG_gameinfo_{year}.csv"
         games_df.to_csv(filename, index=False)
         print(f"Data for {year} saved to {filename}")
 
