@@ -36,7 +36,7 @@ TBA
 - **RAWG Video Games Database API**: Provides extensive data on video games, their ratings, platforms, and release dates.
 [RAWG API](https://rawg.io/)
 
-- **Steam Spy API**: Used for gathering additional data on game sales and player numbers.
+- **Steam Spy API**: Used for gathering additional data on video games, including publisher, developer, player numbers, original pricing, average playtime of games, .[Steam Spy](https://steamspy.com/api.php)
 
 ### Data Description
 The dataset includes over XXXXX video games released from 1980 to 2024, with variables covering game titles, release dates, platforms, ratings, and metacritic scores. Data preprocessing involved cleaning, normalization, and merging data from multiple sources.
