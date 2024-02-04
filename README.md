@@ -5,7 +5,7 @@ This project explores the evolution of video games from 1980 to the present, aim
 
 ## Technologies and Tools Used
 - **Programming Languages**: Python
-- **Data Analysis Libraries**: Pandas, NumPy, Matplotlib
+- **Data Analysis Libraries**: Pandas, NumPy, Matplotlib, Seaborn,
 - **Other Tools**: VSCode 2023, Jupyter Notebooks
 
 ## Installation and Setup Instructions
@@ -21,7 +21,7 @@ This project explores the evolution of video games from 1980 to the present, aim
 ### Installation Instructions
 1. Clone the repository:
 ```
-git clone https://github.com/yourgithub/gaming_analysis.git
+git clone https://github.com/GeneKri/Golden-Age-of-Gaming--1980-2024-.git
 ```
 2. Navigate to the project directory and install the required packages using pip:
 ```
@@ -29,22 +29,17 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-To run the analysis, execute the following command in the terminal:
-```
-python analysis_script.py
-```
-For detailed analysis, open the Jupyter Notebooks in the `notebooks` directory:
-```
-jupyter notebook exploration.ipynb
-```
+TBA
 
 ## Data
 ### Data Sources
 - **RAWG Video Games Database API**: Provides extensive data on video games, their ratings, platforms, and release dates.
+[RAWG API](https://rawg.io/)
+
 - **Steam Spy API**: Used for gathering additional data on game sales and player numbers.
 
 ### Data Description
-The dataset includes over 20,000 video games released from 1980 to 2023, with variables covering game titles, release dates, platforms, ratings, and metacritic scores. Data preprocessing involved cleaning, normalization, and merging data from multiple sources.
+The dataset includes over XXXXX video games released from 1980 to 2024, with variables covering game titles, release dates, platforms, ratings, and metacritic scores. Data preprocessing involved cleaning, normalization, and merging data from multiple sources.
 
 ## Methodology
 Our analysis employs statistical methods and time series analysis to examine trends over time. We focused on correlating game release volumes, ratings, and sales data to identify peak periods of gaming innovation and engagement.
@@ -55,8 +50,7 @@ Our analysis employs statistical methods and time series analysis to examine tre
 - Platform analysis revealed the dominance of PC and console gaming in different eras.
 
 ### Visualizations
-![Game Releases Over Time](images/releases_over_time.png)
-*Figure 1: Trends in game releases over the years.*
+TBA
 
 ## Conclusion and Future Work
 This project highlights several key periods in gaming history that could be considered the "Golden Age." Future work will delve deeper into genre-specific trends and the impact of online gaming and digital distribution on the industry.
@@ -68,12 +62,9 @@ Contributions are welcome! If you're interested in collaborating or have suggest
 This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Contact Information
-For any queries or discussions, feel free to contact me at your.email@example.com.
+For any queries or discussions, feel free to contact me at k4dooley@gmail.com.
 
 ## Acknowledgments
 - RAWG for providing access to their comprehensive video games database.
-- Steam Spy for additional sales data.
+- Steam Spy for additional data.
 - My mentor and peers who provided invaluable feedback and support.
-
-
-
