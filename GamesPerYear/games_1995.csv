@@ -1,0 +1,876 @@
+name,release_date,rating,metacritic,playtime,genres
+Star Wars: Dark Forces,1995-02-28,3.67,,1,"Shooter, Action"
+NiGHTS into dreams...,1995-02-11,3.05,,1,"Platformer, Adventure"
+Ultimate Doom,1995-12-31,4.43,,1,"Shooter, Action"
+"I Have No Mouth, and I Must Scream",1995-10-31,3.31,,3,"Adventure, Puzzle"
+Worms,1995-01-01,3.78,,1,"Strategy, Arcade, Action"
+Master Levels for Doom II,1995-08-03,3.86,,1,"Shooter, Action"
+X-COM: Terror From the Deep,1995-03-31,3.47,,1,Strategy
+Flight of the Amazon Queen,1995-01-01,2.34,,1,"Adventure, Puzzle"
+Chrono Trigger,1995-03-11,4.34,82.0,6,RPG
+HeXen: Beyond Heretic,1995-10-30,3.78,,1,"Shooter, Action"
+Slipstream 5000,1995-12-30,2.0,,4,"Racing, Arcade, Action, Sports"
+The Dig,1995-11-30,3.9,,2,Adventure
+Comix Zone,1995-01-01,4.32,,0,Action
+Ultimate Mortal Kombat 3,1995-11-06,4.43,62.0,0,Fighting
+Phantasmagoria,1995-07-30,3.57,,1,Adventure
+Earthworm Jim 2,1995-09-18,4.3,45.0,1,"Adventure, Action"
+Warcraft II: Tides of Darkness,1995-12-09,4.36,,0,Strategy
+Super Mario World 2: Yoshi's Island,1995-08-05,4.34,91.0,0,Platformer
+Warhammer: Shadow of the Horned Rat,1995-11-11,2.54,,1,Strategy
+Mortal Kombat 3,1995-01-01,4.25,,0,"Arcade, Fighting"
+The 11th Hour,1995-12-12,3.45,,1,Adventure
+Donkey Kong Country 2: Diddy's Kong Quest,1995-11-20,4.38,,10,Platformer
+Terminal Velocity,1995-04-06,3.54,,1,"Racing, Shooter, Action, Casual, Simulation"
+Realms of Chaos,1995-11-10,2.58,,1,"Adventure, Action"
+Full Throttle,1995-04-30,4.38,86.0,0,Adventure
+Heroes of Might and Magic: A Strategic Quest,1995-08-31,4.01,,1,Strategy
+Rayman,1995-09-01,3.84,84.0,3,"Arcade, Adventure, Action"
+Command & Conquer,1995-08-31,4.31,94.0,0,Strategy
+Descent (1996),1995-03-17,4.12,,1,"Shooter, Action"
+Tekken 2 (1995),1995-09-29,4.0,89.0,0,Fighting
+Killing Time,1995-12-31,3.06,,4,"Shooter, Indie, Action, RPG"
+Crusader: No Remorse,1995-08-31,3.69,,1,"Adventure, Action"
+Gabriel Knight 2: The Beast Within,1995-06-29,3.53,,1,Adventure
+Putt-Putt Saves the Zoo,1995-03-30,4.16,,3,"Casual, Educational, Adventure"
+Chaos Control,1995-01-01,0.0,,1,"Arcade, Adventure, Action"
+Gex,1995-01-05,4.16,,1,"Platformer, Action"
+3D Pinball: Space Cadet,1995-01-01,4.05,,0,"Arcade, Action"
+Wing Commander 4: The Price of Freedom,1995-12-30,3.88,,1,"Shooter, Action"
+WWF WrestleMania: The Arcade Game,1995-01-01,4.25,,0,"Arcade, Fighting"
+Twisted Metal (1995),1995-11-05,3.8,,0,Simulation
+Suikoden,1995-12-15,4.16,,19,RPG
+Stonekeep,1995-11-07,3.69,,1,"Adventure, Action, RPG"
+Fields of Battle,1995-01-01,0.0,,1,"Strategy, Action, Sports"
+Batman Forever,1995-01-01,3.38,,0,"Arcade, Action, Fighting"
+Mega Man X3 (1995),1995-12-01,3.97,,0,Action
+Tactics Ogre: Let Us Cling Together,1995-10-06,4.38,87.0,42,Strategy
+Judge Dredd,1995-01-01,3.43,,1,"Arcade, Action"
+Clock Tower (1995),1995-09-14,4.1,,0,"Adventure, Action"
+Mega Man 7 (1995),1995-03-24,4.11,,0,"Platformer, Action"
+Destruction Derby,1995-01-01,3.95,,0,"Racing, Action"
+Kirby's Dream Land 2 (1995),1995-03-21,3.94,,0,"Platformer, Adventure"
+Tales of Phantasia,1995-12-15,4.0,56.0,0,RPG
+Ristar,1995-02-16,4.16,,1,"Platformer, Action"
+Magic Carpet 2: The Netherworlds,1995-09-07,3.89,,3,"Shooter, Action"
+Pitfall: The Mayan Adventure,1995-01-01,4.08,,0,"Platformer, Arcade"
+Afterlife,1995-12-31,3.0,,1,"Adventure, Action, Strategy, Simulation, Indie"
+Screamer,1995-10-30,2.12,,1,"Racing, Action, Simulation, Sports"
+Vectorman (1995),1995-10-24,3.91,,0,"Platformer, Arcade, Action"
+Romancing SaGa 3,1995-11-11,3.86,,3,RPG
+Bioforge,1995-03-28,3.27,,1,"Adventure, Action"
+Anvil of Dawn,1995-10-31,4.11,,1,RPG
+Primal Rage,1995-01-01,3.51,,0,"Arcade, Fighting"
+Road Rash 3,1995-05-15,4.42,,0,Racing
+Wipeout (1995),1995-01-01,3.59,,0,"Racing, Arcade"
+Witchaven,1995-09-29,3.14,,1,"Shooter, Action, RPG"
+Simon the Sorcerer 2,1995-01-01,3.92,,1,Adventure
+Trials of Mana,1995-09-30,4.19,,0,"Action, RPG"
+Torin's Passage,1995-10-30,4.08,,1,Adventure
+Transport Tycoon Deluxe,1995-01-01,4.36,,0,Strategy
+Across the Rhine,1995-06-30,0.0,,1,Strategy
+Kingdom: The Far Reaches,1995-01-01,0.0,,1,"Adventure, Action, RPG"
+Final Fight 3,1995-12-21,4.19,,0,
+Castlevania: Dracula X,1995-07-21,3.74,,0,"Platformer, Adventure, Action"
+X-Men 2: Clone Wars,1995-01-01,4.18,,0,Action
+Doom Troopers: Mutant Chronicles,1995-05-01,3.96,,0,Action
+Toy Story (1995),1995-12-20,4.0,,0,"Platformer, Adventure, Action"
+Secret of Evermore,1995-10-01,4.39,,0,RPG
+X-Men: Mutant Apocalypse,1995-01-03,3.71,,0,Action
+The King of Fighters '95,1995-07-25,3.62,,1,Fighting
+Discworld,1995-01-01,3.93,,3,Adventure
+Lufia II: Rise of the Sinistrals,1995-02-24,4.0,,0,RPG
+Asterix & Obelix,1995-01-01,3.78,,0,
+Sega Rally Championship (1995),1995-12-19,4.18,,0,Racing
+Virtua Fighter 2 (1995),1995-10-30,3.65,,0,Fighting
+Venom/Spider-Man: Separation Anxiety,1995-11-01,3.64,,0,
+Front Mission: The First (1995),1995-02-24,3.74,,0,"Strategy, RPG"
+Flip-Flop,1995-01-01,3.91,,0,Puzzle
+International Superstar Soccer Deluxe,1995-09-22,4.45,,0,Sports
+Doom for Windows,1995-01-01,4.39,,0,"Shooter, Action"
+The Journeyman Project 2: Buried in Time,1995-01-01,0.0,,9,"Adventure, Puzzle"
+Super Bomberman 3,1995-04-28,4.38,,0,Action
+Alien Soldier,1995-02-24,4.0,,0,Action
+Ridge Racer (1995),1995-09-09,3.76,,0,Racing
+Marvel Super Heroes,1995-10-24,3.89,,0,Fighting
+Toy Story,1995-01-01,3.47,,5,Puzzle
+X-Men: Children of the Atom (1995),1995-11-22,3.71,,0,"Arcade, Fighting"
+Super Street Fighter 2 Turbo,1995-03-01,4.07,,0,"Arcade, Fighting"
+Thunderscape,1995-08-30,0.0,,0,RPG
+Tetris Attack,1995-10-27,4.06,,0,Puzzle
+Spider-Man (1995),1995-05-31,3.6,,0,Action
+Jumping Flash! (1995),1995-04-28,3.71,,0,"Platformer, Action"
+Gargoyles,1995-05-15,4.11,,0,Platformer
+Battle Arena Toshinden,1995-01-01,3.17,69.0,0,"Arcade, Fighting"
+Donkey Kong Land,1995-06-26,3.89,,0,
+Dragon Ball Z: Ultimate Battle 22,1995-07-28,2.78,25.0,0,"Action, Fighting"
+Beavis and Butt-Head in Virtual Stupidity,1995-01-01,3.86,,0,"Arcade, Adventure"
+Shin Megami Tensei: Devil Summoner,1995-12-25,0.0,,0,RPG
+Fade to Black,1995-01-01,3.08,,0,"Shooter, Action"
+Desert Demolition,1995-02-01,4.06,,0,Action
+FIFA Soccer 96,1995-01-01,3.93,,0,Sports
+Mission Critical,1995-10-31,0.0,,0,"Strategy, Adventure"
+Garfield: Caught in the Act,1995-10-31,3.36,,0,"Platformer, Arcade"
+Scooby-Doo Mystery,1995-01-01,3.64,,0,Adventure
+Entomorph: Plague of the Darkfall,1995-09-09,0.0,,1,"Adventure, Action"
+The Incredible Machine Version 3.0,1995-01-01,4.38,,0,Puzzle
+The Mask,1995-10-26,3.5,,0,"Platformer, Action"
+The Ultimate Doom: Thy Flesh Consumed,1995-01-01,4.1,,0,"Shooter, Action"
+Mighty Morphin Power Rangers: The Movie (BG),1995-06-30,3.8,,0,"Action, Fighting"
+SimCity 2000 for Windows,1995-01-01,4.0,,0,Strategy
+Light Crusader (1995),1995-05-25,3.5,,0,
+Donald in Maui Mallard,1995-12-08,3.9,,0,Platformer
+Mario's Picross,1995-03-14,3.0,,9,Puzzle
+Metal Warriors,1995-02-01,4.0,,0,"Platformer, Action"
+Woodruff and the Schnibble of Azimuth,1995-01-01,4.0,,0,Adventure
+D,1995-01-01,0.0,,0,"Adventure, Puzzle"
+MechWarrior 2: 31st Century Combat,1995-01-01,4.12,,0,Simulation
+Aaahh!!! Real Monsters,1995-08-15,2.8,,0,"Adventure, Action"
+Hi-Octane,1995-01-01,3.7,,0,"Racing, Arcade"
+King's Field II,1995-07-21,3.33,,0,RPG
+Asterix and the Power of the Gods,1995-01-01,4.14,,0,Platformer
+Tyrian,1995-01-01,4.0,,0,Arcade
+Grand Prix 2,1995-01-01,2.5,,0,"Racing, Simulation, Sports"
+仙剑奇侠传,1995-07-07,3.9,,0,RPG
+Doom Trooper,1995-01-01,3.54,,0,
+Star Wars: Rebel Assault II: The Hidden Empire,1995-11-01,3.67,,0,"Arcade, Action"
+Dragon Quest 6: Realms of Revelation,1995-12-09,0.0,,0,RPG
+NEO TURF MASTERS,1995-12-31,0.0,,0,"Casual, Arcade, Sports"
+Knuckles' Chaotix,1995-04-20,3.18,,0,Action
+Arc the Lad,1995-06-30,3.33,,0,"Strategy, RPG"
+Sea Legends,1995-01-01,0.0,,0,"Strategy, Adventure, Action, RPG"
+Star Wars: TIE Fighter Collector's CD-ROM,1995-01-01,4.12,,0,Simulation
+Kyuuyaku Megami Tensei,1995-03-31,4.11,,0,RPG
+Ecco Jr. (1995),1995-08-15,3.43,,0,Adventure
+Ridge Racer Revolution,1995-12-03,3.44,,0,Racing
+NHL 96,1995-10-26,3.38,,0,Sports
+Подземелья Кремля,1995-01-01,2.86,,0,"Shooter, Action"
+3D Lemmings,1995-01-01,0.0,,0,Puzzle
+Space Quest 6: Roger Wilco in the Spinal Frontier,1995-01-01,0.0,,0,Adventure
+"Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe",1995-01-01,3.86,,0,Adventure
+Apache Longbow,1995-01-01,0.0,,0,Simulation
+Dark Seed,1995-07-07,3.83,,0,
+Battle Arena Toshinden 2,1995-01-01,3.43,,0,"Arcade, Fighting"
+Stargate (1995),1995-04-17,3.62,,0,"Platformer, Action"
+Addams Family Values,1995-01-01,0.0,,0,RPG
+Mighty Morphin Power Rangers: The Fighting Edition,1995-09-01,4.11,,0,Fighting
+Pulstar (1995),1995-01-01,0.0,,0,"Shooter, Arcade, Action"
+Disney's Magical Quest 3 Starring Mickey & Donald,1995-12-08,3.88,,0,Platformer
+In the Hunt,1995-11-10,4.12,,0,"Shooter, Action"
+Air Combat (1995),1995-06-29,3.5,,0,"Action, Simulation"
+Timon & Pumbaa's Jungle Games,1995-12-15,3.88,,0,Action
+Tintin in Tibet,1995-01-01,0.0,,0,"Platformer, Adventure, Action"
+Justice League Task Force,1995-09-01,3.14,,0,Fighting
+Weaponlord,1995-01-01,3.29,,0,Fighting
+Ravenloft: Stone Prophet,1995-03-01,0.0,,0,RPG
+Mario's Super Picross,1995-09-14,3.73,,0,Puzzle
+SimTown,1995-01-01,3.83,,0,Strategy
+Strikers 1945,1995-01-01,0.0,,0,
+Galaxy Fight: Universal Warriors,1995-01-24,0.0,,0,Fighting
+ESPN Extreme Games,1995-09-09,3.75,,0,"Racing, Sports"
+Lighthouse: The Dark Being,1995-12-31,0.0,,0,"Adventure, Puzzle"
+Panzer Dragoon (1995),1995-05-11,0.0,,0,Arcade
+The Dark Eye,1995-10-31,0.0,,0,Adventure
+Looney Tunes B-Ball,1995-02-01,0.0,,0,Sports
+Prisoner of Ice,1995-01-01,0.0,,0,Adventure
+Rapid Reload,1995-04-28,0.0,,0,"Shooter, Action"
+Pray for Death,1995-12-31,0.0,,0,"Action, Fighting"
+NBA Jam Tournament Edition,1995-01-01,3.43,,0,Sports
+Ascendancy,1995-01-02,4.5,,0,Strategy
+Ghoul Patrol (1995),1995-05-26,0.0,,0,"Shooter, Adventure, Action"
+Tails Adventure,1995-09-22,0.0,,0,Adventure
+Namco Museum (1995),1995-11-22,0.0,,0,
+Pinball World,1995-01-01,0.0,,1,"Action, Simulation"
+DeathKeep,1995-01-01,0.0,,0,"Adventure, Action, RPG"
+Actua Soccer,1995-01-01,0.0,,0,Sports
+Bermuda Syndrome,1995-01-01,0.0,,0,Arcade
+Top Gear 3000,1995-04-28,4.17,,0,Racing
+Might and Magic: Swords of Xeen,1995-01-01,0.0,,0,RPG
+Kirby's Avalanche (1995),1995-02-01,0.0,,0,Puzzle
+Sonic Labyrinth,1995-10-01,2.5,,0,"Action, Puzzle"
+Gunbird,1995-12-15,0.0,,0,"Shooter, Action"
+Beyond the Beyond,1995-11-03,0.0,,0,RPG
+Mystery Dungeon: Shiren the Wanderer (1995),1995-12-01,0.0,,0,RPG
+Space Quest 4+5+6,1995-11-26,0.0,,0,Adventure
+Panel de Pon,1995-10-27,4.33,,0,Puzzle
+FX Fighter,1995-01-01,0.0,,0,"Arcade, Fighting"
+Cyberbots: Full Metal Madness,1995-04-20,0.0,,0,"Action, Fighting"
+Samurai Shodown III: Blades of Blood,1995-11-15,0.0,,0,Fighting
+Porky Pig's Haunted Holiday,1995-10-01,3.5,,0,"Platformer, Action"
+Exosquad,1995-05-19,2.67,,0,Action
+Monopoly (1995),1995-09-30,0.0,,0,"Strategy, Board Games"
+Sid Meier's CivNet,1995-01-01,0.0,,0,Strategy
+Su-27 Flanker,1995-01-01,3.5,,0,Simulation
+Space Hulk: Venegance of the Blood Angels,1995-01-01,3.0,,0,"Shooter, Strategy, Action"
+Earthworm Jim for Windows 95,1995-01-01,0.0,,0,Platformer
+Alien Odyssey,1995-01-01,0.0,,0,"Adventure, Action"
+NBA Live 96,1995-12-31,0.0,,0,Sports
+Super Turrican 2,1995-09-29,0.0,,0,Action
+Battle Beast,1995-01-01,1.83,,0,"Arcade, Fighting"
+Chronicles of the Sword,1995-01-01,0.0,,0,Adventure
+Frankenstein: Through the Eyes of the Monster,1995-01-01,0.0,,0,Adventure
+Dark Seed II,1995-11-30,0.0,,0,Adventure
+Brain Dead 13,1995-01-01,0.0,,0,Arcade
+MechWarrior 2: Ghost Bear's Legacy,1995-11-01,0.0,,0,Simulation
+Iron Commando,1995-02-09,0.0,,0,
+CyberMage: Darklight Awakening,1995-01-01,0.0,,0,"Shooter, Action"
+BS The Legend of Zelda,1995-04-06,0.0,,0,"Adventure, Action, RPG"
+Loaded,1995-12-12,3.29,,0,"Shooter, Action"
+Return Fire,1995-01-01,4.0,,0,Arcade
+The Adventures of Batman & Robin (SegaDC),1995-07-01,0.0,,0,"Educational, Platformer, Action"
+The Big Red Adventure,1995-01-01,0.0,,0,Adventure
+Dungeon Master 2: The Legend of Skullkeep,1995-01-01,0.0,,0,RPG
+Mario's Game Gallery,1995-01-01,0.0,,0,Card
+Street Fighter: The Movie,1995-06-10,0.0,,0,Fighting
+Space Empires I,1995-01-01,0.0,,0,Strategy
+The Orion Conspiracy: Trust No One,1995-01-01,0.0,,0,Adventure
+Magical Drop,1995-10-20,0.0,,0,Puzzle
+Super Adventure Island II (1995),1995-01-03,0.0,,0,"Platformer, Adventure"
+Extreme Pinball,1995-01-01,0.0,,0,Arcade
+Phantom 2040,1995-05-04,0.0,,0,Adventure
+SuperKarts,1995-01-01,0.0,,0,"Racing, Arcade"
+Celtic Tales: Balor of the Evil Eye,1995-01-01,0.0,,0,"Strategy, RPG"
+Turrican 2: The Final Fight,1995-12-01,0.0,,0,Arcade
+WORLD HEROES PERFECT,1995-06-30,0.0,,0,"Action, Fighting"
+The Civil War,1995-01-01,0.0,,0,Strategy
+Psychic Detective,1995-01-01,0.0,,0,Adventure
+Prehistorik Man (1995),1995-06-23,0.0,,0,
+Pajama Sam Vol. 1,1995-12-31,0.0,,0,"Educational, Adventure, Puzzle"
+"Simon the Sorcerer 2: The Lion, the Wizard and the Wardrobe",1995-01-01,0.0,,0,Adventure
+Disney's Animated Storybook: Pocahontas,1995-12-01,0.0,,0,"Educational, Family"
+Igor: Objective Uikokahonia,1995-01-01,0.0,,0,Adventure
+Fatal Racing,1995-01-01,0.0,,0,Arcade
+Nocturnal Illusion,1995-04-22,0.0,,0,Adventure
+Wings of Glory,1995-01-01,0.0,,1,"Strategy, Indie, Board Games, Simulation"
+Power Instinct,1995-01-01,0.0,,0,"Action, Fighting"
+NHL Hockey '96,1995-10-01,0.0,,0,Sports
+Hong Kong 97,1995-04-02,0.0,,0,"Shooter, Action"
+Cutthroat Island,1995-01-01,0.0,,0,
+Lost Paradise,1995-01-01,0.0,,0,"Adventure, RPG"
+Touche: The Adventures of the Fifth Musketeer,1995-01-01,0.0,,0,Adventure
+Lemmings for Windows 95,1995-01-01,0.0,,0,Arcade
+3-D Ultra Pinball,1995-01-01,0.0,,0,Arcade
+Shannara,1995-01-01,0.0,,0,Adventure
+Johnny Bazookatone,1995-01-01,0.0,,0,Arcade
+Gizmos & Gadgets!,1995-01-01,0.0,,0,Educational
+Big Red Racing,1995-01-01,0.0,,0,"Racing, Arcade"
+Spider-Man: Separation Anxiety,1995-01-01,0.0,,0,"Arcade, Fighting"
+Championship Manager 2,1995-01-01,0.0,,0,"Strategy, Sports"
+Baldies,1995-01-01,0.0,,0,
+Total Distortion,1995-11-01,0.0,,0,Adventure
+Sonic Drift 2,1995-03-17,0.0,,0,Racing
+ClayFighter 2: Judgment Clay,1995-05-23,0.0,,0,"Action, Fighting"
+Capitalism,1995-01-01,0.0,,0,Strategy
+Virtual Pool,1995-01-01,0.0,,0,"Casual, Sports"
+Emerald Dragon,1995-07-28,0.0,,0,RPG
+Chess Kids,1995-01-01,0.0,,0,
+PO'ed,1995-11-06,0.0,,0,
+Once Upon a Forest,1995-01-01,0.0,,0,Adventure
+Strip Blackjack Part Three: Fashion Girls Collection,1995-01-01,0.0,,0,Card
+Mr. Do!,1995-06-23,0.0,,0,
+Spirou,1995-01-01,0.0,,0,"Platformer, Action"
+William Shatner's TekWar,1995-01-01,0.0,,0,"Shooter, Action"
+Skeleton Krew,1995-05-12,0.0,,0,Shooter
+Warlock,1995-08-15,0.0,,0,Action
+The Residents' Bad Day on the Midway,1995-01-01,0.0,,0,Adventure
+Tube,1995-01-01,0.0,,0,"Racing, Arcade"
+Michael Ninn's Latex: The Game,1995-01-01,0.0,,0,Adventure
+Happy Birthday,1995-01-01,0.0,,0,"Educational, Adventure"
+Chronomaster,1995-01-01,0.0,,0,Adventure
+Captain Tsubasa J: Get In The Tomorrow,1995-05-03,0.0,,0,Sports
+Tail's Skypatrol,1995-04-28,0.0,,0,"Platformer, Shooter, Strategy"
+Total Control,1995-01-01,0.0,,0,Strategy
+RoadWarrior,1995-01-01,0.0,,0,"Racing, Action"
+Street Fighter Alpha: Warriors' Dreams,1995-06-27,0.0,,0,Fighting
+Wayne Gretzky and the NHLPA All-Stars,1995-11-01,0.0,,0,Sports
+Pinball Illusions,1995-01-01,0.0,,0,Arcade
+The Jetsons: Invasion of the Planet Pirates,1995-06-09,0.0,,0,"Platformer, Action"
+Jazz Jackrabbit Holiday Hare '95,1995-01-01,0.0,,0,Arcade
+U95,1995-01-01,0.0,,0,Arcade
+Last Bible III,1995-03-04,0.0,,0,RPG
+Front Lines,1995-01-01,0.0,,0,"Adventure, Action, Casual, Strategy, Simulation, Indie"
+Skunny,1995-01-01,0.0,,0,Arcade
+Dime City,1995-01-01,0.0,,0,Adventure
+SimIsle: Missions in the Rainforest,1995-11-01,0.0,,0,"Strategy, Educational"
+Treasure of the Rudras,1995-04-05,0.0,,0,RPG
+Off-World Interceptor,1995-11-22,0.0,,0,"Racing, Action"
+Player Manager 2,1995-01-01,0.0,,0,"Strategy, Sports"
+Ultimate Soccer Manager,1995-01-01,0.0,,0,"Strategy, Sports"
+Guilty,1995-01-01,0.0,,0,"Indie, Adventure"
+Radix: Beyond the Void,1995-01-01,0.0,,0,"Shooter, Action"
+Survival,1995-01-01,0.0,,0,"Adventure, Action, Strategy, Arcade, Massively Multiplayer"
+Mega Man: The Power Battle,1995-10-01,0.0,,0,"Action, Fighting"
+Alien Breed 3D,1995-01-01,0.0,,0,
+The Ooze (1995),1995-09-22,0.0,,0,Action
+Ganbare Goemon Kirakira Dōchū: Boku ga Dancer ni Natta Wake,1995-12-22,0.0,,0,"Platformer, Adventure, Action"
+Microsoft Flight Simulator 5.0,1995-01-01,0.0,,0,Simulation
+3D Cyber Puck,1995-01-01,0.0,,0,Arcade
+Floppy Killer,1995-01-01,0.0,,0,Arcade
+Corel Wild Board Games,1995-01-01,0.0,,0,"Board Games, Puzzle"
+Марьяж 4,1995-12-01,0.0,,0,Card
+Double Dragon (Neo-Geo),1995-01-01,0.0,,0,Fighting
+Frank Thomas Big Hurt Baseball,1995-12-01,0.0,,0,"Simulation, Sports"
+"Ys V: Lost Kefin, Kingdom of Sand",1995-12-29,0.0,,0,"Action, RPG"
+Minnesota Fats: Pool Legend,1995-03-31,0.0,,0,
+Alien Virus,1995-01-01,0.0,,0,Adventure
+Super Bonk,1995-11-01,0.0,,0,"Platformer, Adventure, Action"
+Vinyl Goddess from Mars,1995-01-01,0.0,,0,Arcade
+Druid: Daemons of the Mind,1995-01-01,0.0,,0,"Adventure, RPG"
+Battle Isle 3: Shadow of the Emperor,1995-01-01,0.0,,0,Strategy
+Darkseed 2,1995-11-01,0.0,,0,Adventure
+Sołtys,1995-05-23,0.0,,0,Adventure
+1830: Railroads & Robber Barons,1995-01-01,0.0,,0,Strategy
+Commander Blood,1995-01-01,0.0,,0,Adventure
+EF2000,1995-01-01,0.0,,0,Simulation
+FX Fighter Turbo,1995-01-01,0.0,,0,"Arcade, Fighting"
+Brett Hull Hockey '95,1995-01-01,0.0,,0,"Simulation, Sports"
+Magical pop'n,1995-03-10,0.0,,0,"Platformer, Adventure, Action"
+Yuu Yuu Hakusho Final,1995-03-24,0.0,,0,Fighting
+Zorro,1995-01-01,0.0,,0,Arcade
+Shinobi Legions,1995-06-30,0.0,,0,"Platformer, Arcade"
+Corel Wild Cards,1995-01-01,0.0,,0,Card
+CyberSpeed,1995-09-15,0.0,,0,Racing
+Tank Commander,1995-01-01,0.0,,0,"Indie, Action, Simulation"
+Pinball Mania,1995-02-01,0.0,,0,Arcade
+Monopoly CD-ROM,1995-01-01,0.0,,0,Board Games
+Thunderscape: World of Aden,1995-01-01,0.0,,0,RPG
+Pinball 2000,1995-01-01,0.0,,0,Arcade
+Slicks 'n' Slide,1995-01-01,0.0,,0,"Racing, Arcade"
+L'Affaire Morlov,1995-01-01,0.0,,0,Adventure
+Space Pirates (American Laser Games),1995-01-01,0.0,,0,Arcade
+Megami Tensei Gaiden: Last Bible Special,1995-03-24,0.0,,0,RPG
+IndyCar Racing 2,1995-01-01,0.0,,0,"Racing, Sports"
+Rollin',1995-01-01,0.0,,0,Arcade
+Wrath of Earth,1995-01-01,0.0,,0,"Shooter, Action"
+Arctic Moves,1995-01-01,0.0,,0,Arcade
+Zyclunt: Blade Warrior,1995-10-01,0.0,,0,Arcade
+SFPD Homicide,1995-01-01,0.0,,0,Adventure
+Aliens: A Comic Book Adventure,1995-01-01,0.0,,0,Adventure
+Bad Toys,1995-01-01,0.0,,0,"Shooter, Action"
+Action Soccer,1995-03-01,0.0,,0,Sports
+Crazy Hospital 2,1995-01-01,0.0,,0,Strategy
+Zeek the Geek,1995-01-01,0.0,,0,Puzzle
+Toy Story (SNES),1995-11-22,0.0,,0,Platformer
+Midnight Run: Road Fighter 2,1995-12-01,0.0,,0,Racing
+Lucienne's Quest,1995-09-15,0.0,,0,RPG
+Madden NFL '96,1995-11-10,0.0,,0,Sports
+High Seas Trader,1995-01-01,0.0,,0,Strategy
+Roketz,1995-01-01,0.0,,0,Arcade
+King Arthur & the Knights of Justice,1995-05-01,0.0,,0,
+Squirrel King,1995-01-01,0.0,,0,Action
+Cheese Cat-Astrophe Starring Speedy Gonzales,1995-02-01,0.0,,0,Action
+Daryl F. Gates' Police Quest: SWAT,1995-01-01,0.0,,0,"Arcade, Adventure"
+Solitaire Deluxe,1995-01-01,0.0,,0,Card
+Pinball Fantasies Deluxe,1995-01-01,0.0,,0,Arcade
+Atari 2600 Action Pack,1995-01-01,0.0,,0,Arcade
+Wirehead,1995-01-01,0.0,,0,Adventure
+Apache,1995-01-01,0.0,,0,Shooter
+Skaut Kwatermaster,1995-07-31,0.0,,0,Adventure
+Krazy Ivan,1995-01-01,0.0,,0,"Shooter, Action"
+Majin Tensei II: Spiral Nemesis,1995-02-19,0.0,,0,RPG
+Hoyle Classic Games,1995-01-01,0.0,,0,"Card, Board Games"
+Zero Divide (1995),1995-08-25,0.0,,0,Fighting
+Amy's Shapes,1995-01-01,0.0,,0,
+Congo: Descent into Zinj,1995-01-01,0.0,,0,Adventure
+Fuzzy's World of Miniature Space Golf,1995-01-01,0.0,,0,
+Bureau 13,1995-01-01,0.0,,0,Adventure
+Xixit,1995-01-01,0.0,,0,Arcade
+JumpStart 1st Grade,1995-08-28,0.0,,0,Educational
+The 11th Hour: The Sequel to The 7th Guest,1995-12-01,0.0,,0,"Adventure, Puzzle"
+Dinotopia,1995-01-01,0.0,,0,Adventure
+Exile: Escape from the Pit,1995-01-01,0.0,,0,RPG
+Densha de Go!,1995-01-01,0.0,,0,
+Marko's Magic Football,1995-02-01,0.0,,0,"Platformer, Adventure, Action"
+Pretty Soldier Sailor Moon S,1995-03-17,0.0,,0,Fighting
+Mirage (1995),1995-01-01,0.0,,0,"Adventure, Puzzle"
+U.S. Navy Fighters,1995-01-01,0.0,,0,Simulation
+Panda Bowling,1995-01-01,0.0,,0,"Arcade, Sports"
+Gore Galore: The Breakout,1995-01-01,0.0,,0,"Shooter, Action"
+3-D Table Sports,1995-01-01,0.0,,0,Arcade
+"Al Unser, Jr. Arcade Racing",1995-01-01,0.0,,0,"Racing, Arcade"
+Warlords 2 Deluxe CD,1995-01-01,0.0,,0,Strategy
+Magic Knight Rayearth,1995-11-30,0.0,,0,"Action, RPG"
+Старое золото,1995-04-01,0.0,,0,"Shooter, Action"
+Microsoft Hover!,1995-06-01,0.0,,0,Arcade
+Kirby's Block Ball (1995),1995-12-14,0.0,,0,Action
+Clyde's Revenge,1995-01-02,0.0,,0,"Platformer, Action, Puzzle"
+Blind Justice,1995-01-01,0.0,,2,"Strategy, Indie, RPG, Simulation"
+Allied General,1995-01-01,0.0,,0,Strategy
+Frontier: First Encounters,1995-01-01,0.0,,0,Simulation
+Carnage Heart,1995-12-08,0.0,,0,Strategy
+Defcon 5,1995-01-01,0.0,,0,"Shooter, Adventure, Action"
+Silverload,1995-01-01,0.0,,0,Adventure
+Game & Watch,1995-01-01,0.0,,0,
+Oregon Trail II,1995-02-13,0.0,,0,"Educational, Adventure"
+Super Skidmarks,1995-01-01,0.0,,0,Racing
+Mark Davis' The Fishing Master,1995-06-30,0.0,,0,Sports
+Bronkie the Bronchiasaurus,1995-09-01,0.0,,0,"Educational, Platformer"
+Casino Tournament of Champions,1995-01-01,0.0,,0,Card
+Manic Karts,1995-01-01,0.0,,0,"Racing, Arcade"
+Ocean Trader,1995-01-01,0.0,,0,Strategy
+Speed Haste,1995-01-01,0.0,,0,"Racing, Simulation"
+MVP Bridge for Windows,1995-01-01,0.0,,0,Card
+Mortal Coil: Adrenalin Intelligence,1995-10-01,0.0,,0,"Shooter, Action"
+Home Run Derby,1995-01-01,0.0,,0,Sports
+Sammy's Science House,1995-01-01,0.0,,0,Educational
+Stars!,1995-01-01,0.0,,0,Strategy
+The Daedalus Encounter,1995-01-01,0.0,,0,Adventure
+"Bicycle Casino: Blackjack, Poker, Baccarat, Roulette",1995-01-01,0.0,,0,Card
+Widget Workshop,1995-01-01,0.0,,0,Puzzle
+Вира!!!,1995-01-01,0.0,,0,Puzzle
+Multimedia IQ Test,1995-01-01,0.0,,0,Educational
+The Atlas,1995-01-01,0.0,,0,Strategy
+Waterworld (1995),1995-11-21,0.0,,0,"Platformer, Action"
+Cho Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko,1995-09-08,0.0,,0,"Shooter, Action"
+Endorfun,1995-01-01,0.0,,0,"Strategy, Puzzle"
+The Amazing Spider Man: Lethal Foes,1995-03-17,0.0,,0,Action
+Tecmo Super Bowl III: Final Edition,1995-08-04,0.0,,0,"Simulation, Sports"
+C.E.O. (AIV Network$),1995-01-01,0.0,,0,Strategy
+Little Fighter,1995-01-01,0.0,,0,"Arcade, Fighting"
+Nerves of Steel,1995-01-01,0.0,,0,"Shooter, Action"
+Front Page Sports: Football Pro '96,1995-01-01,0.0,,0,Sports
+Qin: Tomb of the Middle Kingdom,1995-01-01,0.0,,0,"Adventure, Puzzle"
+BrickBuster,1995-01-01,0.0,,0,Arcade
+Thor's Hammer Trilogy,1995-01-01,0.0,,0,RPG
+HardBall 5,1995-01-01,0.0,,0,Sports
+Offensive: Western Front 1944-45,1995-01-01,0.0,,0,Strategy
+World Class Rugby '95,1995-01-01,0.0,,0,Sports
+Fighter Wing,1995-01-01,0.0,,0,Simulation
+Empire 2: The Art of War,1995-08-01,0.0,,0,Strategy
+Jack the Ripper (1995),1995-01-01,0.0,,0,Adventure
+Lode Runner On-Line: The Mad Monks' Revenge,1995-01-01,0.0,,0,Arcade
+The Firemen 2: Pete & Danny,1995-01-01,0.0,,0,Action
+Corpse Killer,1995-08-25,0.0,,0,Action
+Big Sky Trooper,1995-10-01,0.0,,0,Action
+P.T.O. II,1995-02-17,0.0,,0,
+Fever Pitch Soccer,1995-01-01,0.0,,0,Sports
+Barkley Shut Up and Jam! 2,1995-06-01,0.0,,0,Sports
+Disney's Animated Storybook: Winnie The Pooh and the Honey Tree,1995-08-28,0.0,,0,"Educational, Family"
+Eternal Champions: Challenge from the Dark Side,1995-02-01,0.0,,0,Fighting
+Clockwork Knight: Pepperouchau's Adventure,1995-05-11,0.0,,0,"Platformer, Action"
+Player of the Year,1995-01-01,0.0,,0,Sports
+Zone Raiders,1995-01-01,0.0,,0,"Racing, Action"
+Pyrotechnica,1995-01-01,0.0,,0,Arcade
+Darker,1995-01-01,0.0,,0,Simulation
+Honey Lines,1995-01-01,0.0,,0,
+Solitaire Suite,1995-01-01,0.0,,0,Card
+Pool Champion,1995-01-01,0.0,,0,"Adventure, Sports"
+BreakFree,1995-01-01,0.0,,0,Arcade
+Millie's Math House,1995-01-01,0.0,,0,Educational
+Cyber Bikes,1995-01-01,0.0,,0,"Racing, Action"
+Travel Gunner,1995-01-01,0.0,,0,Adventure
+Titanic: Une aventure hors du temps,1995-12-31,0.0,,0,"Adventure, Puzzle"
+Black Zone,1995-01-01,0.0,,0,Arcade
+Побег,1995-01-01,0.0,,0,Arcade
+Worlds.com,1995-08-01,0.0,,0,"Casual, Simulation"
+Shadows of Cairn,1995-01-01,0.0,,0,"Arcade, Adventure"
+World Series Baseball '95,1995-12-01,0.0,,0,"Simulation, Sports"
+Nightmare Circus,1995-01-01,0.0,,0,
+Air Cavalry,1995-01-01,0.0,,0,
+Wild C.A.T.s,1995-01-01,0.0,,0,"Action, Fighting"
+Another Bible,1995-03-03,0.0,,0,RPG
+Kingdom at War,1995-01-01,0.0,,0,Strategy
+Bridge Deluxe 2 with Omar Sharif Enhanced CD-ROM,1995-01-01,0.0,,0,Card
+UEFA Champions League 1995-96,1995-01-01,0.0,,0,Sports
+2 Fast 4 You,1995-01-01,0.0,,0,"Racing, Arcade"
+KA-50 Hokum,1995-01-01,0.0,,0,Simulation
+PowerHouse,1995-01-01,0.0,,0,Strategy
+World Hockey '95,1995-01-01,0.0,,0,Sports
+Expect No Mercy,1995-01-01,0.0,,0,"Arcade, Fighting"
+Biprolex,1995-01-01,0.0,,0,Arcade
+Mephisto Chess Genius 2,1995-01-01,0.0,,0,
+Terror in Christmas Town,1995-01-01,0.0,,0,"Shooter, Action"
+Baryon,1995-01-01,0.0,,0,Arcade
+Threat,1995-01-10,0.0,,0,Arcade
+Виселица,1995-08-12,0.0,,0,
+Impact,1995-01-01,0.0,,0,"Adventure, Action, Casual, Arcade, Indie"
+My Fearless Friend,1995-01-01,0.0,,0,"Educational, Adventure, Puzzle"
+Championship Pool for Windows,1995-01-01,0.0,,0,Sports
+In the Dead of Night,1995-01-01,0.0,,0,Adventure
+G-Netix,1995-01-01,0.0,,0,"Strategy, Educational, Simulation"
+Hardwood Solitaire,1995-01-01,0.0,,0,Card
+Shadow Squadron,1995-04-26,0.0,,0,Shooter
+You Don't Know Jack (1995),1995-01-01,0.0,,0,
+Everest: The Ultimate Challenge,1995-01-01,0.0,,0,Arcade
+Twisted Mini Golf,1995-01-01,0.0,,0,Action
+Ice & Fire,1995-01-01,0.0,,0,"Shooter, Arcade, Action"
+Black Knight: Marine Strike Fighter,1995-01-01,0.0,,0,Simulation
+Blood Bowl: Touchdown,1995-01-01,0.0,,0,"Strategy, Sports"
+Casino De Luxe,1995-01-01,0.0,,0,
+777: Triple 7,1995-01-01,0.0,,0,Card
+Twin Road,1995-01-01,0.0,,0,"Adventure, RPG"
+Command: Aces of the Deep,1995-01-01,0.0,,0,Simulation
+PC Rally,1995-01-01,0.0,,0,"Racing, Arcade"
+Prototype (1995),1995-01-01,0.0,,0,Arcade
+Total Carnage,1995-01-01,0.0,,0,Arcade
+I.M. Meen,1995-01-01,0.0,,0,"Shooter, Action, Educational"
+FlameDragon 2: Legend of Golden Castle,1995-01-01,0.0,,0,RPG
+Sango Fighter 2,1995-01-01,0.0,,0,"Arcade, Fighting"
+Vikings: The Strategy of Ultimate Conquest,1995-01-01,0.0,,0,Strategy
+K-1 Tank,1995-01-01,0.0,,0,Simulation
+The Real Deal,1995-01-01,0.0,,0,Card
+Perfect Partner Bridge,1995-01-01,0.0,,0,Card
+"Great Naval Battles, Vol. 4: Burning Steel, 1939-1942",1995-01-01,0.0,,0,"Strategy, Simulation"
+Mordor: Depths of Dejenol,1995-01-01,0.0,,0,RPG
+Blood & Magic,1995-01-01,0.0,,0,Strategy
+Lords of Midnight 3: The Citadel,1995-01-01,0.0,,0,RPG
+Fun 'N Games,1995-01-01,0.0,,0,Arcade
+Paparazzi!: Tales of Tinseltown,1995-01-01,0.0,,0,
+Advanced Civilization,1995-01-01,0.0,,0,Strategy
+Jungledyret,1995-01-01,0.0,,0,Arcade
+ClockWerx,1995-01-01,0.0,,0,"Arcade, Puzzle"
+Bases Loaded '96: Double Header,1995-11-22,0.0,,0,"Simulation, Sports"
+The Hive (1995),1995-01-01,0.0,,0,
+Dirt Trax FX,1995-06-01,0.0,,0,Racing
+Emmitt Smith Football,1995-11-01,0.0,,0,Sports
+Doraemon 4: Nobita in the Moon Kingdom,1995-12-14,0.0,,0,Platformer
+Space Waste,1995-01-01,0.0,,0,"Casual, Shooter, Arcade, Action"
+Clash of Steel 2: The Future Edition or What Is After World War III?,1995-01-01,0.0,,0,Strategy
+Dagger's Rage,1995-01-01,0.0,,0,Arcade
+Striker '95,1995-01-01,0.0,,0,Sports
+SuperSpeed Deluxe Edition,1995-01-01,0.0,,0,"Racing, Arcade"
+Cargo Bay,1995-01-01,0.0,,0,Puzzle
+Pacific Theater of Operations 2,1995-01-01,0.0,,0,Strategy
+RISS Solitaire Card Games,1995-01-01,0.0,,0,Card
+Crusade,1995-01-01,0.0,,0,Strategy
+Motor City,1995-01-01,0.0,,0,Strategy
+Muppet Brighter Child,1995-01-01,0.0,,0,Educational
+Absolute Zero,1995-01-01,0.0,,0,Simulation
+Lion,1995-01-01,0.0,,0,"Strategy, Adventure, Educational"
+Space Empires 2,1995-01-01,0.0,,0,Strategy
+Flight Light Plus,1995-01-01,0.0,,0,Simulation
+Цирк,1995-01-01,0.0,,0,
+APBA Football,1995-01-01,0.0,,0,"Simulation, Sports"
+Future Dimension,1995-01-01,0.0,,0,Arcade
+Fury3,1995-08-01,0.0,,0,"Shooter, Action"
+Royal Stone: Hirakareshi Toki no Tobira,1995-02-24,0.0,,0,"Strategy, Adventure, Action, RPG"
+Kolibri,1995-11-30,0.0,,0,
+Foreman For Real,1995-09-28,0.0,,0,Sports
+Triad Campain/Wargame System,1995-01-01,0.0,,0,Strategy
+Dice a Woman 2,1995-01-01,0.0,,0,
+Girlfriend,1995-01-01,0.0,,0,Adventure
+Virocop,1995-01-01,0.0,,0,
+Zoop,1995-01-01,0.0,,0,Arcade
+Welcome to the Future,1995-01-01,0.0,,0,Adventure
+Aquanaut's Holiday,1995-06-30,0.0,,0,Simulation
+NFL Quarterback Club 96,1995-10-27,0.0,,0,Sports
+Tempo,1995-03-24,0.0,,0,
+Montana Solitaire,1995-01-01,0.0,,0,"Card, Family"
+Johnny Mnemonic,1995-05-26,0.0,,0,Adventure
+Jupiter Strike,1995-08-25,0.0,,0,
+Super Asteroids & Missile Command,1995-01-01,0.0,,0,Shooter
+Timecop,1995-02-17,0.0,,0,"Platformer, Action"
+Farland Story,1995-02-24,0.0,,0,"Strategy, RPG"
+Go Go Ackman 3,1995-12-15,0.0,,0,"Platformer, Adventure, Action"
+Operation: Carnage,1995-01-01,0.0,,0,Arcade
+Pressure Drop,1995-01-01,0.0,,0,Arcade
+Old Time Baseball,1995-01-01,0.0,,0,Sports
+The Raven Project,1995-01-01,0.0,,0,"Arcade, Simulation"
+Loadstar: The Legend of Tully Bodine,1995-01-01,0.0,,0,Arcade
+Alien Checkers,1995-01-01,0.0,,0,Board Games
+Rings of the Magi,1995-01-01,0.0,,0,Puzzle
+Steel Panthers,1995-01-01,0.0,,0,Strategy
+Virtual Snooker,1995-01-01,0.0,,0,Sports
+Kid Works Deluxe,1995-01-01,0.0,,0,Educational
+Shanghai: Great Moments,1995-01-01,0.0,,0,
+Rapid Assault,1995-01-01,0.0,,0,"Racing, Action"
+Solitaire Devil,1995-01-01,0.0,,0,Card
+NFL Quarterback Club '96,1995-01-01,0.0,,0,Sports
+The Scroll,1995-01-01,0.0,,0,Adventure
+The Curse of Armand Castle,1995-01-01,0.0,,0,Arcade
+Rodge Rock in Retro Active,1995-01-01,0.0,,0,Arcade
+Classics Arcade Action for Windows,1995-01-01,0.0,,0,Arcade
+Shakii the Wolf,1995-01-01,0.0,,0,Arcade
+Playskool Puzzles,1995-01-01,0.0,,0,
+Iron Assault,1995-01-01,0.0,,0,Simulation
+Breach 3,1995-07-01,0.0,,0,Strategy
+Immoral Cumbat,1995-01-01,0.0,,0,"Shooter, Action"
+Lunar Commander 2,1995-01-01,0.0,,0,Strategy
+Super Solitaire,1995-07-23,0.0,,0,Board Games
+Kishin Douji Zenki: Battle Raiden,1995-08-04,0.0,,0,"Platformer, Action"
+Inazuma Serve Da!! Super Beach Volley,1995-08-04,0.0,,0,Sports
+ATR: All Terrain Racing,1995-01-01,0.0,,0,Racing
+Guardians,1995-01-01,0.0,,0,
+Best of Microsoft Entertainment Pack,1995-01-01,0.0,,0,"Strategy, Puzzle"
+Jack Bros.,1995-09-29,0.0,,0,Adventure
+Dust: A Tale of the Wired West,1995-06-30,0.0,,0,"Indie, Adventure, Action"
+Mighty Mike,1995-01-01,0.0,,0,"Platformer, Action"
+Kingpin Bowling,1995-01-01,0.0,,0,"Family, Sports"
+War 2410,1995-12-01,0.0,,0,Strategy
+Wild Woody,1995-01-01,0.0,,0,
+Crullo: Adventures of the Donut,1995-01-01,0.0,,0,Arcade
+The Martian Chronicles,1995-01-01,0.0,,0,"Adventure, Puzzle"
+Flying Tigers,1995-01-01,0.0,,0,Arcade
+Blackstar: Agent of Justice,1995-01-01,0.0,,0,Adventure
+Tough Guy,1995-01-01,0.0,,0,"Arcade, Action, Fighting"
+Custer's Last Command: The Battle of the Little Bighorn,1995-01-01,0.0,,0,Strategy
+Total Knockout Boxing,1995-01-01,0.0,,0,Sports
+Too Many Geckos!,1995-01-01,0.0,,0,Puzzle
+Amy's Fun-2-3-Adventure,1995-01-01,0.0,,0,Educational
+Vegas Knight's New Kasino Keno,1995-01-01,0.0,,0,
+Screamball: The Ultimate Pinball Experience,1995-01-01,0.0,,0,Arcade
+Panthers in the Shadows,1995-01-01,0.0,,0,Strategy
+Pocahontes,1995-01-01,0.0,,0,Arcade
+Uncover It!,1995-01-01,0.0,,0,Arcade
+"Operation Combat 2: By Land, Sea & Air",1995-01-01,0.0,,0,
+Skyborg: Into the Vortex,1995-01-01,0.0,,0,"Adventure, Puzzle"
+Fisher-Price ABC's,1995-01-01,0.0,,0,Educational
+Splatt!,1995-01-01,0.0,,0,Arcade
+Qwirks,1995-01-01,0.0,,0,Arcade
+Silverball Plus,1995-01-01,0.0,,0,Arcade
+ROOM: The Math Game from Hell!,1995-01-01,0.0,,0,
+Oasis Project,1995-01-01,0.0,,0,"Adventure, RPG"
+Laser Light,1995-01-01,0.0,,0,Puzzle
+Space Griffon VF-9,1995-01-27,0.0,,0,Shooter
+Linda³,1995-10-09,0.0,,0,RPG
+Backpacker,1995-01-01,0.0,,0,"Educational, Puzzle"
+Stars! 2,1995-01-01,0.0,,0,Strategy
+4th Super Robot Wars,1995-03-17,0.0,,0,
+NFL Quarterback Club,1995-02-24,0.0,,0,Sports
+Metal Head,1995-02-24,0.0,,0,
+Kyle Petty's No Fear Racing,1995-01-15,0.0,,0,Racing
+Hyper Iria,1995-10-13,0.0,,0,"Platformer, Action"
+NBA Give 'n Go,1995-09-29,0.0,,0,Sports
+Ninja Gaiden Trilogy,1995-08-10,0.0,,0,"Platformer, Arcade, Action, Fighting"
+The Museum Anything Goes,1995-01-01,0.0,,0,Adventure
+Corel Arcade Mania,1995-01-01,0.0,,0,Arcade
+Time Hunters,1995-01-01,0.0,,0,Arcade
+Funball,1995-01-01,0.0,,0,"Strategy, Arcade"
+Happy-Go-Lucky,1995-01-01,0.0,,0,Board Games
+Digital Photo Puzzle,1995-01-01,0.0,,0,Puzzle
+Dark Strike A.T.F. - Advanced Tactical Fighter,1995-01-01,0.0,,0,Arcade
+Space Dude,1995-01-01,0.0,,0,Arcade
+Triazzle: Rain Forest,1995-01-01,0.0,,0,Puzzle
+Virtual Valerie 2,1995-01-01,0.0,,0,Arcade
+Smart Games Puzzle Challenge,1995-01-01,0.0,,0,Puzzle
+Jewels of the Oracle,1995-01-01,0.0,,0,"Adventure, Puzzle"
+Living Pinball,1995-01-01,0.0,,0,Arcade
+Red Chamber Dream,1995-01-01,0.0,,0,
+Boulderoid,1995-01-01,0.0,,0,Arcade
+Iron Blood,1995-01-01,0.0,,0,Arcade
+Las Vegas Super Casino,1995-01-01,0.0,,0,
+Zelda's Adventure (1995),1995-06-05,0.0,,0,"Adventure, Action"
+Jeopardy! (1995),1995-07-01,0.0,,0,
+Fistfight,1995-01-01,0.0,,0,"Arcade, Fighting"
+Charly the Clown: Run for Fun,1995-01-01,0.0,,0,Arcade
+C.A.P.,1995-01-01,0.0,,0,Simulation
+Road Hog!,1995-01-01,0.0,,0,"Racing, Arcade"
+Football Limited,1995-01-01,0.0,,0,Strategy
+Virtual Karts,1995-01-01,0.0,,0,"Racing, Arcade"
+Armageddon (1995),1995-10-01,0.0,,0,Simulation
+Atmosfear: The 3rd Dimension,1995-01-01,0.0,,0,"Adventure, Puzzle"
+Dr. Seuss's ABC,1995-01-01,0.0,,0,Educational
+Bolo,1995-01-01,0.0,,0,Arcade
+Critical Mass - war in space,1995-01-01,0.0,,0,"Strategy, Simulation"
+Tecmo Stackers,1995-12-29,0.0,,0,Puzzle
+DonPachi,1995-11-25,0.0,,0,"Shooter, Action"
+Kishin Douji Zenki,1995-09-01,0.0,,0,"Platformer, Action"
+Buster (1995),1995-01-01,0.0,,0,"Platformer, Action"
+Midnight Rescue!,1995-01-01,0.0,,0,"Educational, Arcade"
+Puddle Books: The Lie,1995-01-01,0.0,,0,Educational
+Trial by Magic,1995-01-01,0.0,,0,RPG
+Red Rhino,1995-01-01,0.0,,0,Educational
+Zurk's Rainforest Lab,1995-01-01,0.0,,0,Educational
+Great Adventures: Castle,1995-01-01,0.0,,0,Adventure
+Q-Pop,1995-01-01,0.0,,0,Strategy
+World Empire 2,1995-01-01,0.0,,0,Strategy
+SuperHer,1995-01-01,0.0,,0,"Adventure, RPG"
+Stellar Explorer,1995-01-01,0.0,,0,Strategy
+Battleground: Ardennes,1995-01-01,0.0,,0,Strategy
+Laser Match Racing,1995-01-01,0.0,,0,"Racing, Simulation"
+Hole in One,1995-01-01,0.0,,0,Sports
+Carrier Aces,1995-07-28,0.0,,0,"Action, Simulation"
+Go Go Ackman 2,1995-07-21,0.0,,0,"Platformer, Adventure, Action"
+Coach K College Basketball,1995-01-01,0.0,,0,Sports
+Manchester United Championship Soccer,1995-01-01,0.0,,0,"Simulation, Sports"
+Crystal Beans From Dungeon Explorer,1995-01-01,0.0,,0,RPG
+Dirt Racer,1995-05-01,0.0,,0,Racing
+Bap,1995-02-18,0.0,,0,Arcade
+Stellar Police,1995-02-28,0.0,,0,RPG
+Magical Story Series: Majokko Kumi,1995-01-01,0.0,,0,Adventure
+Invitations from Fantastic Stories,1995-01-01,0.0,,0,Adventure
+Decoder,1995-01-01,0.0,,0,"Board Games, Puzzle"
+Marty Mouse and the Trouble With Cheese,1995-01-01,0.0,,0,Adventure
+Pizza Worm,1995-01-01,0.0,,0,Arcade
+Denture Man,1995-01-01,0.0,,0,Arcade
+Word Crazy,1995-01-01,0.0,,0,Puzzle
+Kileak: The DNA Imperative,1995-01-27,0.0,,0,
+The Outfoxies,1995-03-01,0.0,,0,"Arcade, Fighting"
+Sterling Sharpe: End 2 End,1995-03-01,0.0,,0,"Simulation, Sports"
+Rap Jam: Volume One,1995-01-01,0.0,,0,Sports
+Connections,1995-01-01,0.0,,0,Adventure
+In the 1st Degree,1995-08-31,0.0,,0,Adventure
+MLBPA Baseball,1995-08-11,0.0,,0,Sports
+Xtreme Racing,1995-01-01,0.0,,0,Racing
+Australian Rugby League,1995-01-01,0.0,,0,Sports
+Star Quest 1: In the 27th Century,1995-01-01,0.0,,0,"Arcade, Simulation"
+Card Player's Paradise,1995-01-01,0.0,,0,Card
+Jixxa,1995-01-01,0.0,,0,Puzzle
+Grandmaster Championship Chess,1995-01-01,0.0,,0,
+Ungaria,1995-01-01,0.0,,0,Puzzle
+Micro! Deluxe,1995-01-01,0.0,,0,
+Navy Strike: Task Force Command,1995-10-01,0.0,,0,Simulation
+Maximum Roadkill,1995-01-01,0.0,,0,"Racing, Arcade"
+Outer Ridge,1995-01-01,0.0,,0,Arcade
+Saturday Night Live Goes Political,1995-01-01,0.0,,0,"Arcade, Puzzle"
+Retrospectro,1995-01-01,0.0,,0,
+XenoBall,1995-01-01,0.0,,0,Arcade
+Terror T.R.A.X.: Track of the Vampire,1995-01-01,0.0,,0,Adventure
+May Club,1995-08-25,0.0,,0,Casual
+Mimi & the Mites,1995-01-01,0.0,,0,Arcade
+One-on-One with the SAT,1995-01-01,0.0,,0,Educational
+Hebereke's Popoitto,1995-03-03,0.0,,0,Puzzle
+Sylvan Tale,1995-01-27,0.0,,0,RPG
+Férias Frustradas do Pica-Pau,1995-01-01,0.0,,0,
+Death from Above (1995),1995-01-01,0.0,,0,Action
+Sensible Train Spotting,1995-08-01,0.0,,0,
+Troy Aikman NFL Football,1995-02-01,0.0,,0,"Simulation, Sports"
+Total Football,1995-01-01,0.0,,0,
+Chōkyūkai Miracle Nine,1995-07-21,0.0,,0,"Simulation, Sports"
+Tamori's Picross,1995-06-13,0.0,,0,Puzzle
+Monster Max,1995-01-01,0.0,,0,"Adventure, Puzzle"
+Super Chinese World 3,1995-12-22,0.0,,0,"Action, RPG"
+Jikkyou Oshaberi Parodius,1995-12-15,0.0,,0,Shooter
+SK-111 Star Killer,1995-01-01,0.0,,0,Arcade
+Hellfire Zone,1995-01-01,0.0,,0,Arcade
+Military Tetris,1995-01-01,0.0,,0,Arcade
+Rebel Runner,1995-01-01,0.0,,0,Arcade
+Polytris,1995-01-01,0.0,,0,Arcade
+Joyous Rebel,1995-12-27,0.0,,0,RPG
+DK Eyewitness: Virtual Reality Cats,1995-01-01,0.0,,0,"Casual, Educational"
+World at War: D-Day - America Invades!,1995-01-01,0.0,,0,Strategy
+Canon Bubble Mania,1995-01-01,0.0,,0,Arcade
+Jurassic Chess,1995-01-01,0.0,,0,
+Power Pinochle,1995-07-01,0.0,,0,Card
+Graditor,1995-03-01,0.0,,0,Arcade
+Super R.B.I. Baseball,1995-06-01,0.0,,0,"Simulation, Sports"
+Ultra Vortek,1995-01-01,0.0,,0,Fighting
+Behind the Iron Gate,1995-01-01,0.0,,0,
+Michael Andretti's Indy Car Challenge,1995-01-20,0.0,,0,Racing
+Gravon: Real Virtuality,1995-08-01,0.0,,0,"Action, Simulation"
+Foul Play: Mystery at Awkward Manor,1995-12-31,0.0,,0,Adventure
+Earth Defense,1995-01-01,0.0,,0,
+Sampras Tennis 96,1995-01-01,0.0,,0,Sports
+Super Chinese Land 3,1995-01-13,0.0,,0,
+Darxide,1995-01-01,0.0,,0,
+Clockwork Knight 2: Pepperouchau's Adventure,1995-10-27,0.0,,0,"Platformer, Action"
+Bask,1995-01-01,0.0,,0,Sports
+Fighter Duel,1995-01-01,0.0,,0,Simulation
+Drak,1995-01-01,0.0,,0,Arcade
+Firestorm Thunderhawk 2,1995-01-01,0.0,,0,Simulation
+Dreamworld-Adventure,1995-01-01,0.0,,0,Arcade
+Werewolf vs. Comanche 2.0,1995-01-01,0.0,,0,Simulation
+Backlash: A Turret Gunner Simulation,1995-11-24,0.0,,0,Arcade
+Air Power,1995-01-01,0.0,,0,Simulation
+Tornado: Operation Desert Storm,1995-01-01,0.0,,0,Simulation
+Reverse Time,1995-01-01,0.0,,0,Arcade
+Ghosts (FMV Adventure Game),1995-12-31,0.0,,0,Adventure
+Renegade: Battle for Jacob's Star,1995-01-01,0.0,,0,"Action, Simulation"
+The Scrabble Power,1995-01-01,0.0,,0,Board Games
+Mystic Ark,1995-07-14,0.0,,0,RPG
+Гаврила,1995-01-01,0.0,,0,
+Shockwave Assault,1995-12-05,0.0,,0,
+World Series Baseball Starring Deion Sanders,1995-01-01,0.0,,0,"Simulation, Sports"
+Toughman Contest,1995-01-01,0.0,,0,Sports
+Gunblade NY,1995-12-31,0.0,,0,Shooter
+Pokonyan! Henpokorin Adventure,1995-01-22,0.0,,0,Platformer
+Battle Racers,1995-03-17,0.0,,0,"Racing, Action"
+Virtual Chess,1995-01-01,0.0,,0,
+Funky Bubbles Puzz,1995-01-01,0.0,,0,Arcade
+Air Havoc Controller,1995-01-01,0.0,,0,"Strategy, Simulation"
+CyberTarot,1995-01-01,0.0,,0,"Card, Educational"
+Risky,1995-01-01,0.0,,0,
+"Great Naval Battles, Vol. 3: Fury in the Pacific",1995-01-01,0.0,,0,"Strategy, Simulation"
+Magic Bid 2,1995-01-01,0.0,,0,Card
+Corsa Grand Slam,1995-01-01,0.0,,0,
+HR2: The Simulator,1995-01-01,0.0,,0,Strategy
+Overdrive (1995),1995-01-01,0.0,,0,"Racing, Arcade"
+1944: Across the Rhine,1995-07-01,0.0,,0,Strategy
+Max Comes to Earth,1995-01-02,0.0,,0,Educational
+The Story of Kamikuishiki Village,1995-06-29,0.0,,0,"Strategy, Simulation"
+Amaranth IV,1995-08-04,0.0,,0,"Strategy, RPG"
+ArithmeTick-Tack-Toe,1995-01-01,0.0,,0,Educational
+PunkTris,1995-09-01,0.0,,0,Arcade
+Muppet Beginning to Read,1995-01-01,0.0,,0,Educational
+Cho Aniki: Bakuretsu Ranto Hen,1995-02-24,0.0,,0,"Shooter, Action"
+Area  51,1995-01-01,0.0,,0,Shooter
+Zaxxon's Motherbase 2000,1995-07-14,0.0,,0,
+World Masters Golf,1995-11-23,0.0,,0,"Simulation, Sports"
+Shinseiki Odysselya II,1995-10-06,0.0,,0,RPG
+Ball Bullet Gun: Survival Game Simulation,1995-12-01,0.0,,0,Strategy
+Kishin Douji Zenki: Denei Raibu,1995-11-24,0.0,,0,"Platformer, Action"
+Rendering Ranger R2,1995-11-17,0.0,,0,"Shooter, Platformer"
+Heart: The Patchwork,1995-01-01,0.0,,0,Arcade
+1995card Games,1995-01-01,0.0,,0,Card
+Millennia: Altered Destinies,1995-01-01,0.0,,0,"Strategy, Adventure"
+South Sea Tycoon,1995-01-01,0.0,,0,Strategy
+Championship Chess,1995-01-01,0.0,,0,
+Super Stardust '96,1995-01-01,0.0,,0,Arcade
+Legend of Pong Lonng Fighter Sunny'Na,1995-01-01,0.0,,0,RPG
+Kin Yeo Fighter,1995-01-01,0.0,,0,"Arcade, Fighting"
+Fight of Destiny,1995-01-01,0.0,,0,Arcade
+Trivia Mania!,1995-01-01,0.0,,0,
+HyperCycles,1995-01-01,0.0,,0,Racing
+Jigsaw Power,1995-01-01,0.0,,0,
+Oware! The National Game of Africa,1995-01-01,0.0,,0,Board Games
+Caverns of Xaskazien,1995-01-01,0.0,,0,RPG
+Power: The Game,1995-01-01,0.0,,0,Strategy
+Turoid,1995-01-01,0.0,,0,Arcade
+Donald Duck no Mahou no Boushi,1995-08-11,0.0,,0,Platformer
+Valhalla: Before the War,1995-01-01,0.0,,0,Adventure
+Star Trek: Deep Space Nine – Crossroads of Time,1995-01-01,0.0,,0,"Adventure, Action"
+Packy and Marlon,1995-06-01,0.0,,0,"Educational, Platformer"
+Ghostly Desires,1995-12-31,0.0,,0,Adventure
+Late Night Sexy TV Show,1995-01-01,0.0,,0,
+Марьяж 3,1995-01-01,0.0,,0,Card
+Runaway City,1995-12-22,0.0,,0,Casual
+Задави старушку,1995-10-19,0.0,,0,Arcade
+TZ-Minigolf,1995-01-01,0.0,,0,Sports
+Metamoqester,1995-11-01,0.0,,0,Arcade
+Coala,1995-01-01,0.0,,0,Action
+Don Quixote: A Dream in Seven Crystals,1995-01-01,0.0,,0,Adventure
+Nage Libre: Seijaku no Suishin,1995-02-24,0.0,,0,Strategy
+Disney's Bonkers: Wax Up!,1995-01-01,0.0,,0,"Platformer, Adventure"
+Mobile Suit Gundam,1995-06-23,0.0,,0,"Shooter, Action"
+Super Chinese Land 1-2-3,1995-09-13,0.0,,0,"Action, RPG"
+Atari Karts,1995-12-15,0.0,,0,"Racing, Family"
+Gloom (1995),1995-01-01,0.0,,0,"Adventure, Action"
+Base Jumpers,1995-01-01,0.0,,0,
+Marsupilami,1995-10-01,0.0,,0,Action
+Gourmet Warriors,1995-09-28,0.0,,0,Action
+Wolfsbane (1995),1995-06-01,0.0,,0,Adventure
+Criticom,1995-11-29,0.0,,0,Fighting
+Philosoma,1995-07-28,0.0,,0,"Shooter, Action"
+Goal Storm,1995-12-22,0.0,,0,Sports
+J.League Jikkyou Winning Eleven,1995-07-21,0.0,,0,"Action, Sports"
+Youkai Buster: Ruka no Daibouken,1995-06-09,0.0,,0,"Platformer, Action"
+Chicago Syndicate,1995-01-01,0.0,,0,"Action, Fighting"
+The Getaway: High Speed II,1995-12-01,0.0,,0,"Action, Board Games"
+Seifuku Densetsu: Pretty Fighter X,1995-06-16,0.0,,0,Fighting
+Lady Stalker: Kako kara no Chousen,1995-04-01,0.0,,0,"Action, RPG"
+Ninja Gaiden Triology,1995-08-04,0.0,,0,Action
+Combiner,1995-12-18,0.0,,0,
+"Penn And Teller's, Smoke And Mirrors",1995-04-01,0.0,,0,Arcade
+Phoenix 3,1995-01-01,0.0,,0,"Platformer, Action, Simulation"
+Snow Job,1995-01-01,0.0,,0,Adventure
+WarHawk (1995),1995-11-10,0.0,,0,Action
+Robotica: Cybernation Revolt,1995-01-01,0.0,,0,"Shooter, Action"
+Carmen Sandiego: Junior Detective,1995-06-01,0.0,,0,Educational
+Laplace no Ma,1995-07-14,0.0,,0,RPG
+Hermie Hopperhead: Scrap Panic,1995-09-29,0.0,,0,"Platformer, Action"
+Mahou Kishi Rayearth (GB),1995-06-02,0.0,,0,RPG
+Izzy's Quest for the Olympic Rings,1995-04-01,0.0,,0,Platformer
+Ninku,1995-07-21,0.0,,0,RPG
+Magic Knight RayEarth 2nd: The Missing Colors,1995-10-27,0.0,,0,RPG
+Farland Story 2,1995-12-22,0.0,,0,RPG
+Mahou Kishi Rayearth (SNES),1995-09-29,0.0,,0,RPG
+Fire Pro Gaiden: Blazing Tornado,1995-08-25,0.0,,0,Fighting
+PD Ultraman Invader,1995-12-22,0.0,,0,"Shooter, Action"
+LEGO Fun To Build,1995-12-01,0.0,,0,Educational
+Music Tryst,1995-01-01,0.0,,0,Indie
+Framed (1995),1995-01-01,0.0,,0,Platformer
+Crayon Shin-Chan: Showdown! Quantum Panic!!,1995-02-24,0.0,,0,"Indie, Puzzle, Simulation, Sports"
+Godzilla: Kaijuu no Daishingeki,1995-11-08,0.0,,0,Strategy
+Far East of Eden Zero,1995-12-22,0.0,,0,RPG
+Surfin' Sam (1995),1995-01-02,0.0,,0,Simulation
+Ginga Yukyou Densetsu RC Tobacker,1995-11-10,0.0,,0,"Strategy, Adventure"

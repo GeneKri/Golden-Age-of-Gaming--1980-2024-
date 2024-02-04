@@ -1,0 +1,753 @@
+name,release_date,rating,metacritic,playtime,genres
+Half-Life,1998-11-08,4.38,96.0,3,"Shooter, Action"
+Resident Evil 2 (1998),1998-01-21,4.33,90.0,13,Action
+Fallout 2,1998-09-30,4.35,86.0,2,RPG
+Crash Bandicoot 3: Warped,1998-10-31,4.33,91.0,5,"Platformer, Action"
+Metal Gear Solid,1998-09-03,4.42,94.0,1,Action
+STAR WARS Jedi Knight - Mysteries of the Sith,1998-02-17,3.33,,1,"Shooter, Action"
+Commandos: Behind Enemy Lines,1998-07-31,4.2,,1,Action
+The Legend of Zelda: Ocarina of Time,1998-11-21,4.39,99.0,7,"Adventure, Action, RPG"
+X-COM: Interceptor,1998-06-14,2.19,,1,"Strategy, Action"
+Banjo-Kazooie,1998-05-31,4.23,92.0,2,"Platformer, Adventure, Action, Puzzle"
+Spyro the Dragon,1998-09-09,4.2,,12,"Platformer, Adventure, Action"
+Oddworld: Abe's Exoddus,1998-11-17,4.09,,1,"Platformer, Adventure, Action"
+StarCraft,1998-03-31,4.38,88.0,1,Action
+QUAKE II Mission Pack: The Reckoning,1998-05-27,3.34,,1,"Shooter, Action"
+Sanitarium,1998-04-30,3.88,,3,"Adventure, Action, Puzzle"
+MediEvil I,1998-10-01,3.99,67.0,0,"Adventure, Action"
+Turok 2: Seeds of Evil,1998-10-21,4.07,,1,"Shooter, Adventure, Action"
+Sonic Adventure,1998-12-23,4.01,49.0,0,"Adventure, Action, RPG, Family, Platformer"
+METAL SLUG 2,1998-02-23,4.06,,1,"Shooter, Action, Fighting, Casual, Arcade"
+Tomb Raider 3: Adventures of Lara Croft,1998-11-21,3.83,,1,"Shooter, Adventure, Action"
+Deathtrap Dungeon,1998-03-18,2.64,,1,"Adventure, Action"
+Vangers,1998-06-18,4.09,,1,"Racing, Adventure, Action, Arcade, Indie"
+Caesar 3,1998-09-30,4.32,,1,"Strategy, Simulation"
+Star Wars: Rebellion,1998-02-27,2.61,,1,Strategy
+Carmageddon 2: Carpocalypse Now,1998-10-12,4.29,,3,"Racing, Indie, Action"
+STAR WARS: Rogue Squadron 3D,1998-12-01,3.74,,1,"Action, Simulation"
+Motocross Madness,1998-08-14,2.79,,25,"Racing, Sports"
+Robo Rumble,1998-02-23,1.73,,5,"Strategy, Indie"
+"Warhammer 40,000: Chaos Gate",1998-10-30,3.44,,1,Strategy
+Clash,1998-06-29,1.46,,3,"Strategy, Indie, Action"
+SiN Gold,1998-10-30,3.79,,1,Shooter
+Need for Speed 3: Hot Pursuit,1998-03-25,4.08,88.0,2,"Racing, Arcade"
+StarCraft: Brood War,1998-11-30,4.56,,0,
+Baldur's Gate,1998-12-21,4.36,91.0,76,"Strategy, RPG"
+Delta Force,1998-09-30,3.93,,1,Action
+Tex Murphy: Overseer,1998-03-12,3.45,,1,Adventure
+Parasite Eve,1998-03-15,4.38,81.0,12,RPG
+Quake 2 Mission Pack 2: Ground Zero,1998-09-11,2.89,,1,"Shooter, Action"
+Garou: Mark of the Wolves,1998-12-31,3.92,,1,"Arcade, Action, Fighting"
+Soulcalibur,1998-07-30,4.39,98.0,6,"Action, Fighting"
+Grim Fandango,1998-10-14,4.39,94.0,1,Adventure
+Xenogears (1998),1998-02-11,4.37,84.0,0,RPG
+NAM,1998-07-30,3.2,,1,Action
+SiN,1998-11-04,3.87,,1,"Shooter, Action"
+Tom Clancy's Rainbow Six,1998-08-21,3.84,85.0,1,"Strategy, Shooter, Adventure, Action"
+Populous: The Beginning,1998-11-30,4.04,,1,"Strategy, RPG"
+Freddi Fish 3: The Case of the Stolen Conch Shell,1998-03-30,4.11,,1,"Casual, Educational, Adventure"
+Shogo: Mobile Armor Division,1998-09-30,4.0,88.0,1,"Strategy, Shooter, Adventure, Action"
+Anno 1602 A.D.,1998-09-24,4.19,,1,Simulation
+The Last Blade 2,1998-11-25,4.29,,2,"Action, Fighting"
+The Elder Scrolls Adventures: Redguard,1998-10-31,3.21,,1,"Adventure, Action, RPG"
+Pajama Sam 2: Thunder and Lightning Aren't So Frightening,1998-05-01,4.11,,3,"Casual, Educational, Adventure"
+Black Moon Chronicles,1998-12-31,0.0,,1,Strategy
+Suikoden II,1998-12-17,4.34,82.0,12,RPG
+Airline Tycoon Deluxe,1998-07-31,3.12,,1,"Strategy, Simulation"
+Mario Party,1998-12-18,4.1,79.0,0,Board Games
+Unreal,1998-05-22,4.13,,1,"Shooter, Action"
+Battlezone 98 Redux,1998-02-28,3.0,75.0,3,"Strategy, Action"
+Radiant Silvergun,1998-07-23,3.82,,1,"Shooter, Action"
+Putt-Putt Enters the Race,1998-05-29,3.92,,2,"Casual, Educational, Adventure"
+Blood 2: The Blood Group,1998-10-30,2.57,,1,Shooter
+Rage of Mages,1998-04-09,4.28,,1,"Strategy, RPG"
+Thief: The Dark Project,1998-12-02,4.35,92.0,0,Action
+Pokémon Trading Card Game,1998-12-18,4.21,,2,"Card, Board Games"
+Return to Krondor,1998-11-29,2.17,,1,"Adventure, RPG"
+Colin McRae Rally (1998),1998-07-30,4.05,,0,Racing
+Heart of Darkness,1998-01-01,4.22,,6,Arcade
+MiG-29 Fulcrum,1998-09-07,0.0,,1,Simulation
+F-16 Multirole Fighter,1998-10-06,0.0,,1,Simulation
+Dune 2000,1998-08-31,4.02,,0,Strategy
+Age of Empires: The Rise of Rome,1998-10-31,4.42,,5,Strategy
+Street Fighter Alpha 3 (1998),1998-06-29,4.31,,0,Fighting
+Disney•Pixar A Bug's Life,1998-11-06,3.53,,0,"Strategy, Arcade, Action"
+Петька и Василий Иванович спасают Галактику,1998-01-01,4.0,,0,Adventure
+Gex: Enter the Gecko (1998),1998-01-31,3.94,,0,"Arcade, Platformer, Adventure, Action"
+Vigilante 8,1998-05-31,4.26,,0,Action
+Starship Titanic,1998-04-01,0.0,,2,"Casual, Adventure"
+FIFA '99,1998-11-01,4.19,,0,Sports
+Quake: The Offering,1998-10-04,4.0,,1,"Shooter, Action"
+Descent: Freespace Battle Pack,1998-03-11,3.29,,1,Simulation
+Tenchu: Stealth Assassins,1998-02-26,4.37,87.0,0,"Adventure, Action"
+Marvel vs. Capcom: Clash of Super Heroes,1998-01-23,4.25,,0,Fighting
+The Adventures of Alundra,1998-01-01,4.12,86.0,1,"Action, RPG, Puzzle"
+Moto Racer 2,1998-08-31,3.79,,1,"Racing, Action"
+Die By The Sword + Limb From Limb,1998-02-27,3.3,,1,"Adventure, Action"
+Might and Magic VI: The Mandate of Heaven,1998-04-30,4.21,,0,RPG
+Seven Kingdoms: Ancient Adversaries,1998-06-07,3.67,,1,Strategy
+F-Zero X,1998-07-14,4.41,85.0,0,Racing
+KKnD2: Krossfire,1998-10-31,4.22,,0,Strategy
+South Park (1998),1998-12-12,2.21,,0,
+Twisted Metal III,1998-10-31,4.19,,0,
+Descent: FreeSpace – The Great War (1998),1998-03-19,3.86,,1,"Action, Simulation"
+The Settlers 3,1998-11-30,4.0,,0,Strategy
+Duke Nukem: Time to Kill,1998-09-30,3.93,,4,"Shooter, Action"
+Army Men,1998-04-30,3.58,,1,"Strategy, Adventure, Action"
+Extreme-G 2,1998-10-07,4.36,,4,Racing
+Jazz Jackrabbit 2,1998-01-01,4.23,,0,Arcade
+Gangsters: Organized Crime,1998-11-30,3.76,,1,"Strategy, Simulation"
+Братья Пилоты 2: Дело о сеpийном маньяке,1998-12-02,4.03,,0,"Adventure, Puzzle"
+Krush Kill ‘N Destroy 2: Krossfire,1998-10-31,0.0,,1,Strategy
+Blood II: The Chosen,1998-10-31,3.16,72.0,0,"Shooter, Action"
+LSD: Dream Emulator,1998-10-22,4.17,,0,Adventure
+Wario Land 2,1998-03-01,4.24,,28,
+1080° Snowboarding (N64),1998-03-31,4.1,,0,"Racing, Sports"
+The X-Files Game,1998-05-31,4.28,56.0,0,Adventure
+The Fifth Element,1998-01-01,3.0,,0,"Shooter, Adventure, Action"
+Railroad Tycoon II,1998-10-31,4.3,89.0,0,Strategy
+Heretic 2,1998-10-31,3.75,,0,"Shooter, Action"
+BLAZING STAR,1998-02-18,2.88,,1,"Casual, Arcade, Action, Fighting"
+THE KING OF FIGHTERS '98,1998-07-23,4.26,,0,"Casual, Arcade, Action, Fighting"
+Dune 2000: Long Live the Fighters!,1998-09-04,4.18,,0,Strategy
+Uprising 2: Lead and Destroy,1998-12-30,0.0,,1,"Strategy, Action"
+Future Cop: LAPD,1998-08-31,4.35,,0,Shooter
+Pokémon Yellow Version: Special Pikachu Edition,1998-09-12,4.29,,0,RPG
+Glover,1998-10-26,2.83,,1,Platformer
+R4: Ridge Racer Type 4,1998-12-03,4.0,88.0,0,Racing
+Star Ocean: The Second Story,1998-07-30,4.33,80.0,0,RPG
+Guilty Gear,1998-05-14,4.36,,0,Fighting
+Castlevania (1999),1998-12-31,3.23,78.0,0,"Adventure, Action"
+Brave Fencer Musashi,1998-07-16,4.2,81.0,0,"Action, RPG"
+Nancy Drew: Secrets Can Kill,1998-01-01,3.36,,2,Adventure
+Warhammer: Dark Omen,1998-01-01,4.29,,0,Strategy
+The Journeyman Project 3: Legacy of Time,1998-01-30,0.0,,7,"Adventure, Puzzle"
+Wet: The Sexy Empire,1998-10-01,4.07,,0,"Strategy, Adventure"
+Knights and Merchants: The Shattered Kingdom,1998-09-18,4.31,,0,
+NHL 99,1998-09-01,3.84,,0,Sports
+World Cup 98,1998-03-31,3.92,,0,Sports
+Jade Cocoon: Story of the Tamamayu,1998-12-03,3.56,,0,RPG
+Rugrats: Search for Reptar,1998-10-31,3.27,,0,Adventure
+Mystical Ninja Starring Goemon (1997),1998-04-16,4.2,67.0,0,"Action, RPG"
+Command & Conquer: Red Alert - Retaliation,1998-08-28,4.17,,0,Strategy
+Ehrgeiz,1998-12-17,3.83,,1,"Action, Fighting"
+Bomberman Hero (1998),1998-04-30,3.71,,0,"Platformer, Adventure"
+Enemy Engaged: Apache vs Havoc,1998-10-17,0.0,,1,Simulation
+Road Rash 3D,1998-05-31,3.71,,0,Racing
+Bushido Blade 2,1998-03-19,4.41,,0,"Action, Fighting"
+Kula World,1998-11-30,4.12,,0,"Action, Puzzle"
+Skullmonkeys,1998-01-31,3.73,,0,Platformer
+Forsaken,1998-01-01,3.88,,0,"Racing, Shooter, Adventure, Action, Casual, Strategy"
+Darkstalkers 3,1998-11-30,4.0,,0,Fighting
+Redneck Rampage Rides Again,1998-05-31,3.71,,1,"Arcade, Shooter, Adventure, Action"
+Speed Busters: American Highways,1998-11-30,0.0,,0,"Racing, Arcade"
+Warlords III: Darklords Rising,1998-08-20,0.0,,1,
+Rival Schools: United by Fate,1998-07-30,4.19,,0,Fighting
+DethKarz,1998-11-01,4.2,,1,"Racing, Arcade, Action"
+Snowboard Kids,1998-02-12,4.15,,0,"Racing, Sports"
+Tonic Trouble,1998-01-01,3.82,,0,Arcade
+Quest 64,1998-06-01,2.17,,0,RPG
+Apocalypse,1998-10-31,3.62,,0,"Shooter, Adventure, Action"
+Test Drive 5,1998-09-30,3.6,,0,Racing
+Monster Truck Madness 2,1998-01-01,3.8,,0,"Racing, Arcade"
+Goemon's Great Adventure,1998-12-23,3.56,,0,"Adventure, Action"
+Panzer Dragoon Saga,1998-01-29,4.29,,0,"Shooter, Adventure, Action, RPG"
+Red Baron Pack,1998-10-30,0.0,,0,Simulation
+Trespasser,1998-10-28,3.88,,0,"Shooter, Adventure, Action, Puzzle, Strategy, Simulation"
+Powerslide,1998-11-30,0.0,,2,Racing
+Akuji the Heartless,1998-12-31,4.33,,0,
+Carmageddon 2: Carpocalypse Now!,1998-01-01,4.18,,0,"Racing, Arcade"
+Space Station Silicon Valley,1998-10-21,4.5,,0,Platformer
+Vanguard Bandits,1998-07-30,4.29,62.0,0,Strategy
+Sega Rally Championship 2,1998-02-28,4.0,,0,"Racing, Arcade, Simulation"
+Beavis and Butt-Head Do U,1998-01-01,3.89,,0,Adventure
+Myth 2: Soulblighter,1998-11-30,0.0,88.0,0,Strategy
+Dragon Warrior Monsters,1998-09-25,4.2,,0,RPG
+Clock Tower: Ghost Head,1998-03-12,4.0,49.0,0,Adventure
+Die by the Sword,1998-03-01,3.33,,0,Action
+"Hey You, Pikachu!",1998-12-12,2.86,,0,Simulation
+Bust a Groove,1998-01-29,4.15,,0,"Family, Action, Simulation"
+Battlezone (1998),1998-01-01,3.71,,0,"Shooter, Strategy, Action"
+Mega Man & Bass (1998),1998-04-24,3.29,,0,Action
+Kartia: The Word of Fate,1998-03-26,0.0,,0,"Strategy, RPG"
+Warcraft Adventures: Lord of the Clans,1998-01-01,3.86,,0,Adventure
+Thousand Arms,1998-12-17,0.0,,0,RPG
+Ninja: Shadow of Darkness,1998-09-30,4.12,,0,Action
+Outwars,1998-04-17,0.0,,1,"Shooter, Action"
+Spider Solitaire (Microsoft),1998-01-01,4.0,,0,Card
+Test Drive Off-Road 2,1998-01-01,3.45,,0,"Racing, Arcade"
+Galador - The Prince and the Coward,1998-04-09,0.0,,1,
+Incoming,1998-03-23,3.67,,1,"Arcade, Shooter, Strategy, Simulation"
+Baroque (1998),1998-05-21,0.0,,0,RPG
+Dance Dance Revolution,1998-11-18,0.0,,0,
+Quest for Glory 5: Dragon Fire,1998-01-01,3.44,,0,"Adventure, RPG"
+Rhapsody: A Musical Adventure (1998),1998-12-17,0.0,,0,"Action, RPG"
+Redneck Deer Huntin',1998-01-01,0.0,,0,"Shooter, Action, RPG"
+Cool Boarders 3,1998-09-30,4.0,,15,"Racing, Sports"
+Pro Pinball Big Race USA,1998-12-30,0.0,,0,"Action, Simulation"
+Cruis'n World,1998-06-25,4.0,,0,Racing
+Street Fighter EX2,1998-05-26,3.43,,0,"Action, Fighting"
+Rogue Trip: Vacation 2012,1998-09-30,4.23,,0,
+Mizzurna Falls,1998-12-23,0.0,,0,Adventure
+World Cup '98,1998-01-01,0.0,,0,Sports
+Batman & Robin,1998-07-31,2.12,,0,
+Jazz Jackrabbit 2 Collection,1998-04-08,0.0,,0,
+NBA Live 99,1998-10-31,3.5,,0,Sports
+Body Harvest,1998-09-30,0.0,,0,
+MechCommander,1998-01-01,4.5,,0,Strategy
+Bomberman World,1998-01-29,2.83,,0,Action
+ГЭГ+: Гарри в отпуске,1998-01-01,4.0,,0,Adventure
+NFL Blitz (1998),1998-09-10,0.0,,0,Sports
+Serial Experiments Lain,1998-11-26,0.0,,0,Adventure
+Excessive Speed,1998-01-01,3.88,,0,"Racing, Arcade"
+Carnivores,1998-12-18,2.57,,0,"Shooter, Action, Sports"
+DX-Ball 2,1998-12-16,4.33,,0,Arcade
+King's Quest: Mask of Eternity,1998-01-01,3.14,,0,"Adventure, Action, RPG"
+Blasto,1998-03-31,0.0,,0,
+Bio F.R.E.A.K.S.,1998-01-01,0.0,,0,"Arcade, Fighting"
+R-Type Delta,1998-11-19,0.0,,0,
+Disney's Animated Storybook: Mulan,1998-09-14,3.57,,0,"Educational, Family"
+Guardian's Crusade,1998-09-23,0.0,,0,RPG
+Close Combat 4: The Battle of the Bulge,1998-12-31,0.0,,0,
+Of Light and Darkness: The Prophecy,1998-04-12,0.0,58.0,1,"Adventure, Puzzle"
+Brigandine the Legend of Forsena,1998-04-02,0.0,,0,Strategy
+WarGames: Defcon 1,1998-06-30,4.11,,0,
+Crisis Beat,1998-06-18,0.0,,0,"Action, Fighting"
+Iggy's Reckin' Balls,1998-07-31,0.0,,0,"Platformer, Action, Puzzle"
+T.R.A.G.: Mission of Mercy,1998-12-03,0.0,,0,"Adventure, Action"
+Puzzle Bobble 4,1998-08-06,0.0,79.0,0,"Arcade, Puzzle"
+Wild 9,1998-09-30,0.0,,0,
+WCW Nitro,1998-02-01,3.38,,0,"Arcade, Action, Fighting"
+Jazz Jackrabbit 2 - Shareware Edition,1998-04-10,0.0,,0,Arcade
+Soul Caliber,1998-07-30,0.0,76.0,0,Fighting
+Chameleon Twist 2,1998-12-25,0.0,,0,Platformer
+Small Soldiers,1998-09-30,0.0,,0,"Adventure, Action"
+LEGO Chess,1998-11-11,0.0,,0,Strategy
+Interstate '76 Nitro Pack,1998-01-01,0.0,,0,"Racing, Action"
+"Дача Кота Леопольда, или Особенности мышиной охоты",1998-09-15,4.0,,0,Adventure
+Burning Rangers,1998-05-31,0.0,,0,"Platformer, Action"
+Dominion: Storm over Gift 3,1998-06-11,0.0,,0,Strategy
+Bomberman Wars,1998-04-16,0.0,,0,"Strategy, RPG"
+Hellnight,1998-06-11,0.0,,0,Adventure
+Bomberman Fantasy Race (1998),1998-08-06,0.0,,0,Racing
+Redline Racer,1998-08-10,0.0,,0,"Racing, Arcade"
+Liero,1998-01-01,0.0,,0,Action
+Airline Tycoon,1998-08-01,0.0,,0,Strategy
+Jazz Jackrabbit 2 Holiday Hare '98,1998-11-01,0.0,,0,Arcade
+Anna Kournikova's Smash Court Tennis,1998-11-12,0.0,,0,Sports
+Mission: Impossible (1998),1998-08-14,0.0,,0,"Adventure, Action"
+Neon Genesis Evangelion: Iron Maiden,1998-02-01,0.0,,0,Adventure
+NASCAR 99,1998-09-11,0.0,,0,Racing
+Wipeout 64,1998-11-03,0.0,,0,Racing
+Railroad Tycoon 2,1998-11-02,0.0,89.0,0,Strategy
+JoJo's Venture,1998-12-02,0.0,,0,"Arcade, Action, Fighting"
+WWF War Zone,1998-07-14,0.0,,0,"Fighting, Sports"
+Hexen 2 Mission Pack: Portal of Praevus,1998-03-31,0.0,,0,"Shooter, Action"
+Armored Core: Project Phantasma,1998-08-30,0.0,,0,"Shooter, Action, Simulation"
+Creatures 2,1998-01-05,0.0,,0,Simulation
+Buck Bumble,1998-09-30,0.0,,0,Action
+European Air War,1998-11-04,0.0,,1,Simulation
+Grand Prix Legends,1998-10-21,0.0,,0,"Racing, Simulation, Sports"
+Gunmetal,1998-01-01,0.0,,2,"Shooter, Action"
+Pop!,1998-01-01,0.0,,0,"Casual, Arcade, Action"
+Get Medieval,1998-01-01,0.0,,0,Arcade
+Insurrection: Campaigns for StarCraft,1998-07-31,0.0,,0,Strategy
+Nightlong: Union City Conspiracy,1998-01-01,0.0,,0,Adventure
+O.D.T.: Escape... Or Die Trying,1998-10-30,0.0,,0,"Adventure, Action, RPG"
+Divi-Dead,1998-01-01,0.0,,0,Adventure
+SimSafari,1998-03-19,0.0,,0,Strategy
+O.D.T.,1998-08-31,0.0,,0,RPG
+Zaero for Quake II,1998-01-01,0.0,,0,Shooter
+Emergency: Fighters for Life,1998-07-31,0.0,71.0,0,Strategy
+Die by the Sword: Limb from Limb,1998-09-30,0.0,,0,Action
+Wing Commander: Secret Ops,1998-08-01,0.0,,0,Simulation
+Asghan: The Dragon Slayer,1998-01-01,0.0,,0,"Shooter, Action"
+King's Quest 7+8,1998-11-29,0.0,,0,"Adventure, Action"
+C: The Contra Adventure,1998-08-31,0.0,,0,"Shooter, Action"
+Lineage,1998-09-03,0.0,,4,"Massively Multiplayer, RPG"
+Small Soldiers: Squad Commander,1998-01-01,0.0,,0,"Strategy, Arcade"
+Top Gear Overdrive,1998-11-23,0.0,,0,Racing
+Last Bronx,1998-01-01,0.0,,0,"Arcade, Fighting"
+Speed Busters,1998-01-01,0.0,,0,"Racing, Arcade"
+Enemy Infestation,1998-01-01,0.0,,0,"Strategy, Arcade"
+International Superstar Soccer Pro 98,1998-05-01,0.0,,0,Sports
+Hot Wheels Stunt Track Driver,1998-10-15,0.0,,0,"Racing, Arcade"
+Cybermercs,1998-01-01,0.0,,0,"Strategy, Action, RPG"
+Sakura Wars 2: Thou Shalt Not Die,1998-04-04,0.0,,0,"Adventure, RPG"
+Quest for Camelot,1998-12-01,0.0,,0,Action
+Radikal Bikers,1998-05-18,0.0,,0,Racing
+Gunbird 2 (1998),1998-01-01,0.0,,0,
+Pokémon Red Version,1998-09-28,0.0,,0,RPG
+Wetrix,1998-06-12,0.0,,0,Puzzle
+Tech Romancer,1998-01-01,0.0,,0,Fighting
+Magic: The Gathering - Duels of the Planeswalkers (1998),1998-01-14,0.0,,0,
+Madden NFL 99,1998-07-31,0.0,,0,Sports
+Colony Wars: Vengeance,1998-10-31,0.0,,0,
+Star Trek: The Next Generation - Klingon Honor Guard,1998-02-09,0.0,,0,"Shooter, Action"
+Motorhead (1998),1998-09-30,0.0,,0,Racing
+Burnout: Championship Drag Racing,1998-01-01,0.0,,0,"Racing, Simulation"
+Formula 1 '97,1998-01-01,0.0,,0,Racing
+Game Boy Camera,1998-06-01,0.0,,0,Educational
+Microsoft Pinball Arcade,1998-12-15,0.0,,0,Arcade
+Warlords 3: Darklords Rising,1998-08-31,0.0,,0,Strategy
+Ultimate Soccer Manager 98,1998-01-01,0.0,,0,"Strategy, Sports"
+ClueFinders 3rd Grade Adventures: Mystery of Mathra,1998-01-01,0.0,,0,"Educational, Adventure"
+Black Dahlia,1998-01-01,0.0,,0,"Adventure, Puzzle"
+Incubation: The Wilderness Missions,1998-01-01,0.0,,0,Strategy
+Bomberman Party Edition,1998-12-10,0.0,79.0,0,"Action, Puzzle"
+Backyard Soccer,1998-09-26,0.0,,0,Sports
+Jet Moto 3,1998-08-31,0.0,,0,Racing
+Clickomania!,1998-01-01,0.0,,0,
+Oddworld Adventures,1998-12-01,0.0,,0,Platformer
+S.C.A.R.S.,1998-08-31,0.0,,0,Racing
+Ludo Safari,1998-01-01,0.0,,0,Board Games
+Ring: The Legend of the Nibelungen,1998-01-01,0.0,,0,Adventure
+Fighters Destiny,1998-01-31,0.0,,0,Fighting
+Magical Tetris Challenge,1998-11-20,0.0,,0,Puzzle
+Rush 2: Extreme Racing USA,1998-11-10,0.0,,0,Racing
+Clue,1998-01-01,0.0,,0,"Strategy, Board Games"
+Rival Realms,1998-01-01,0.0,,0,"Strategy, RPG"
+Dark Vengeance,1998-01-01,0.0,,0,"Shooter, Action"
+Rent-A-Hero,1998-01-01,0.0,,0,Adventure
+Deep Fear (1998),1998-06-30,0.0,,0,Action
+All Star Tennis '99,1998-11-01,0.0,,0,Sports
+Cowboy Bebop,1998-05-14,0.0,,0,"Shooter, Simulation"
+Ubik (1998),1998-01-01,0.0,,0,"Strategy, Action"
+F-1 World Grand Prix,1998-07-31,0.0,71.0,0,"Racing, Sports"
+Gubble 2,1998-01-01,0.0,,0,Arcade
+Famicom Detective Club Part II: The Girl who Stands Behind,1998-04-01,0.0,,0,Adventure
+Ultim@te Race Pro,1998-01-01,0.0,,0,Racing
+Hopkins FBI,1998-01-01,0.0,,0,Adventure
+Viper Racing,1998-11-30,0.0,,0,Racing
+Aliens Online,1998-03-31,0.0,,0,"Shooter, Massively Multiplayer, Action"
+WarGames,1998-01-01,0.0,,0,Strategy
+Иван Ложкин: Цена свободы,1998-03-01,0.0,,0,Adventure
+The Unholy War,1998-09-30,0.0,,0,Fighting
+Microsoft Combat Flight Simulator: WWII Europe Series,1998-11-04,0.0,,0,Simulation
+O.D.T.: Escape or Die Trying,1998-01-01,0.0,,0,"Shooter, Action"
+Brunswick Circuit Pro Bowling,1998-09-28,0.0,,0,
+Hardwar,1998-01-01,0.0,,0,"Action, Simulation"
+Street Sk8er,1998-10-22,0.0,,0,Sports
+Tiny Toon Adventures: The Great Beanstalk,1998-10-27,0.0,,0,Adventure
+ClayFighter: Sculptor's Cut,1998-05-01,0.0,,0,"Action, Fighting"
+Jeff Wayne's The War of the Worlds,1998-01-01,0.0,,0,Strategy
+Pokémon Blue Version,1998-09-28,0.0,,0,RPG
+Pitfall 3D: Beyond the Jungle,1998-02-28,0.0,,0,Platformer
+Fish Fillets NG,1998-01-01,0.0,,0,Puzzle
+Ancient Evil,1998-01-01,0.0,,0,"Adventure, Action, RPG, Arcade, Indie"
+Starshot: Space Circus Fever (1998),1998-12-04,0.0,,0,Platformer
+Gates of Skeldal,1998-11-01,0.0,,0,RPG
+F-15: The Definitive Jet Combat Simulator,1998-01-01,0.0,,0,Simulation
+"Catz 3, Your Virtual Petz",1998-01-01,0.0,,0,
+"Echelon: Explore, Discover and Eliminate",1998-01-01,0.0,,0,Strategy
+BattleTanx,1998-12-31,0.0,,0,Action
+B.L.U.E.: Legend of Water,1998-07-09,0.0,,0,Adventure
+xBill,1998-08-19,0.0,,0,Arcade
+Wargasm,1998-06-01,0.0,,0,"Action, Simulation"
+Sakura Nomori,1998-01-01,0.0,,0,Adventure
+Fields of Fire: War Along the Mohawk,1998-01-01,0.0,,0,"Strategy, RPG"
+The Interstate '76 Arsenal,1998-02-27,0.0,,0,"Racing, Action"
+Chocobo's Dungeon 2,1998-12-23,0.0,,0,RPG
+LSD (1998),1998-10-22,0.0,,0,
+Rally Cross 2,1998-10-31,0.0,,0,Racing
+Picachu - Pocket Monsters (Bootleg),1998-09-01,0.0,,0,"Platformer, Adventure, Action"
+Cardinal Syn,1998-06-30,0.0,,0,Fighting
+Spec Ops: Rangers Lead the Way,1998-03-01,0.0,,0,"Shooter, Action"
+Team Apache,1998-01-01,0.0,,0,Simulation
+Vigilance,1998-10-19,0.0,,0,"Shooter, Action"
+"Dogz 3, Your Virtual Petz",1998-01-01,0.0,,0,
+M1 Tank Platoon II,1998-02-28,0.0,,1,"Strategy, Action, Simulation"
+OverBlood 2,1998-07-23,0.0,,0,
+Dead in the Water,1998-03-01,0.0,,0,"Action, Simulation"
+G Darius (1998),1998-04-09,0.0,78.0,0,"Shooter, Action"
+Madden NFL '99,1998-10-01,0.0,,0,Sports
+Icarus: Sanctuary of the Gods,1998-05-31,0.0,,0,"Action, RPG"
+Polda,1998-01-01,0.0,,0,Adventure
+Leisure Suit Larry's Casino,1998-01-01,0.0,,0,
+Bomberman Quest,1998-12-24,0.0,,0,Action
+Spice World,1998-07-31,0.0,,0,
+Kensei: Sacred Fist,1998-11-19,0.0,,0,Fighting
+Dark Reign: Rise of the Shadowhand,1998-01-01,0.0,,0,Strategy
+Genocide,1998-02-01,0.0,,0,Arcade
+Choro Q 64,1998-07-17,0.0,,0,Racing
+Devil Dice,1998-06-18,0.0,,0,Puzzle
+King of Fighters R-1,1998-10-28,0.0,,0,Fighting
+Bonkheads,1998-01-01,0.0,,0,Arcade
+Rock 'n Roll Racing 2: Red Asphalt,1998-11-30,0.0,,0,"Racing, Arcade, Action"
+I spy,1998-01-01,0.0,,0,"Casual, Adventure, Puzzle"
+Phantasy Star Collection,1998-02-04,0.0,,0,RPG
+Tunguska: Legend of Faith,1998-01-01,0.0,,0,"Adventure, Action"
+Top Shop,1998-02-11,0.0,,0,Board Games
+F-22 Air Dominance Fighter,1998-01-01,0.0,,0,Simulation
+Graal Kingdoms,1998-01-01,0.0,,0,RPG
+Descent: Freespace - Silent Threat,1998-01-01,0.0,,0,Simulation
+Formula 1 98,1998-10-30,0.0,,0,Racing
+Major League Baseball Featuring Ken Griffey Jr.,1998-05-31,0.0,,0,Sports
+Cameleon '98,1998-01-01,0.0,,0,
+Liberation Day,1998-01-01,0.0,,0,Strategy
+Jingle Cats,1998-07-16,0.0,,0,Strategy
+Urban Assault,1998-01-01,0.0,,0,"Casual, Racing, Strategy, Arcade"
+Jane's Combat Simulations: Israeli Air Force,1998-01-01,0.0,,0,Simulation
+Milo's Astro Lanes,1998-11-24,0.0,,0,Sports
+Addiction Pinball,1998-01-01,0.0,,0,Arcade
+Tiger Woods PGA Tour Golf '99,1998-01-01,0.0,,0,Sports
+Lucky Luke,1998-11-03,0.0,,0,"Shooter, Adventure"
+Wreckin' Crew,1998-01-01,0.0,,0,"Racing, Arcade"
+Spec Ops: Ranger Team Bravo,1998-01-01,0.0,,0,"Shooter, Action"
+Monaco Grand Prix Racing Simulation 2,1998-01-01,0.0,,0,"Racing, Simulation"
+Jack Orlando: A Cinematic Adventure,1998-01-01,0.0,,0,Adventure
+M.A.X. + M.A.X. 2,1998-07-30,0.0,,0,Strategy
+Samurai Shodown 64: Warriors Rage,1998-01-01,0.0,,0,Fighting
+G.A.S.P!! Fighters' NEXTream,1998-03-26,0.0,,0,Fighting
+Getter Love!!: Cho Renai Party Game Tanjou,1998-12-04,0.0,,0,"Adventure, Board Games"
+Берегись автомобиля!,1998-01-01,0.0,,0,"Racing, Arcade"
+Sentinel Returns,1998-01-01,0.0,,0,Puzzle
+Bugs Bunny & Lola Bunny: Operation Carrot Patch,1998-01-01,0.0,,0,Platformer
+Barbie Nail Designer,1998-01-01,0.0,,0,
+Nushi Tsuri 64,1998-11-27,0.0,,0,Sports
+Twisted Edge Extreme Snowboarding,1998-11-10,0.0,,0,Sports
+Attack of the Saucerman!,1998-01-01,0.0,,0,"Arcade, Adventure"
+Enigma (1998),1998-04-02,0.0,,0,Action
+Hugo: The Magic Journey,1998-01-01,0.0,,0,"Educational, Family"
+Outlaw Racers,1998-01-01,0.0,,0,"Racing, Arcade, Simulation"
+Gubble (1998),1998-09-17,0.0,,0,Puzzle
+ESP Ra.De.,1998-04-01,0.0,,0,Shooter
+Flesh Feast,1998-01-01,0.0,,0,"Indie, Strategy, Arcade, Action"
+Triple Play 99,1998-02-28,0.0,,0,
+Triple Play '99,1998-02-28,0.0,,0,Sports
+Beatdown,1998-01-01,0.0,,0,"Strategy, Arcade"
+The 3rd Millennium,1998-01-01,0.0,,0,Strategy
+Juggernaut,1998-11-19,0.0,,0,Adventure
+Total Annihilation: The Core Contingency,1998-01-01,0.0,,0,Strategy
+ParanoiaScape,1998-05-28,0.0,,0,Action
+No One Can Stop Mr. Domino!,1998-01-08,0.0,,0,Puzzle
+Knife Edge: Nose Gunner,1998-11-27,0.0,,0,
+Kobe Bryant in NBA Courtside,1998-04-01,0.0,,0,Sports
+China: The Forbidden City,1998-01-01,0.0,,0,Adventure
+Pool Hustler,1998-05-21,0.0,,0,Sports
+Speedy Blupi,1998-01-01,0.0,,0,Arcade
+Star Soldier: Vanishing Earth,1998-07-10,0.0,,0,Shooter
+Rascal,1998-03-31,0.0,,0,"Platformer, Action"
+Space Bunnies Must Die,1998-01-01,0.0,,0,"Shooter, Action"
+"Robopon Sun, Star, and Moon Versions",1998-12-04,0.0,,0,RPG
+Аквариум: Кольцо времени,1998-02-10,0.0,,0,Adventure
+Bicycle Poker,1998-01-01,0.0,,0,Card
+Speedy Zone,1998-01-01,0.0,,0,Racing
+3D Hunting: Trophy Whitetail,1998-01-01,0.0,,0,Sports
+История приключения,1998-01-01,0.0,,0,Adventure
+Horké léto,1998-01-01,0.0,,0,Adventure
+Johnny Herbert's Grand Prix Championship 1998,1998-01-01,0.0,,0,Racing
+Adrenix,1998-01-01,0.0,,0,"Shooter, Action"
+Trap Gunner,1998-08-06,0.0,,0,"Strategy, Action, Puzzle"
+Profitania Deluxe,1998-01-01,0.0,,0,Strategy
+DK Eyewitness: History of the World 2.0,1998-01-01,0.0,,0,"Casual, Educational"
+A2 Racer 2,1998-10-29,0.0,,0,Racing
+Mario no Photopi,1998-12-02,0.0,,0,Educational
+Godzilla Generations,1998-11-27,0.0,,0,Action
+ReBoot (1998),1998-01-09,0.0,,0,Action
+Assault: Retribution,1998-10-31,0.0,,0,Action
+Medieval,1998-01-01,0.0,,0,Strategy
+V2000,1998-08-17,0.0,,0,Arcade
+The Big One,1998-01-01,0.0,,0,"Indie, Strategy, Adventure, Action"
+Mordeth,1998-02-21,0.0,,0,Shooter
+RedJack: Revenge of the Brethren,1998-04-01,0.0,,0,Adventure
+Dungeon Master Nexus,1998-03-26,0.0,,0,RPG
+B-Jigsaw,1998-01-01,0.0,,0,Puzzle
+Diamond Caves 2,1998-06-29,0.0,,0,Puzzle
+Fox Sports Soccer '99,1998-12-01,0.0,,0,Sports
+AstroRock 2000,1998-12-01,0.0,,0,Arcade
+Castrol Honda Superbike World Champions,1998-01-01,0.0,,0,"Racing, Simulation"
+Turok 2: Seeds Of Evil (GBC),1998-10-01,0.0,,0,"Platformer, Action"
+Robotron 64,1998-01-06,0.0,,0,"Shooter, Arcade, Action"
+Circuit Breakers (1998),1998-07-31,0.0,,0,Racing
+Cydonia: Mars - The First Manned Mission,1998-09-01,0.0,,0,Adventure
+The Prince and the Coward,1998-04-10,0.0,,0,Adventure
+Dragon Seeds,1998-08-06,0.0,,0,"Strategy, Simulation"
+Police Quest: SWAT 1+2,1998-06-29,0.0,,0,"Strategy, Simulation"
+Montezuma's Return!,1998-09-30,0.0,,0,
+Shuusaku,1998-03-27,0.0,,0,Casual
+Pingus,1998-01-01,0.0,,0,Puzzle
+Microshaft Winblows 98,1998-01-01,0.0,,0,"Arcade, Board Games, Puzzle"
+Hoyle Card Games,1998-01-01,0.0,,1,"Card, Board Games"
+Sensible Soccer '98,1998-06-01,0.0,,0,"Arcade, Sports"
+Neophyte: Koplio's Story,1998-01-01,0.0,,0,RPG
+Soldiers at War,1998-01-01,0.0,,0,Strategy
+Running Wild,1998-10-07,0.0,,0,Racing
+Fighter Pilot,1998-09-30,0.0,,0,Simulation
+Asteroids,1998-11-10,0.0,,0,"Indie, Arcade, Action"
+Tetris 64,1998-11-13,0.0,,0,Puzzle
+Dragonseeds,1998-08-06,0.0,,0,
+Sinenharetuden,1998-01-01,0.0,,0,"Arcade, Fighting"
+3-D Ultra NASCAR Pinball,1998-11-01,0.0,,0,Arcade
+Final Odyssey,1998-01-01,0.0,,0,Strategy
+Rakugakids,1998-07-23,0.0,,0,Fighting
+Pop'n Music (1998),1998-09-28,0.0,,0,
+Robosaurs vs. The Space Bastards,1998-01-01,0.0,,0,Arcade
+Double Agent,1998-01-01,0.0,,0,"Arcade, Adventure"
+"The Operational Art of War, Vol. 1: 1939-1955",1998-01-01,0.0,,0,Strategy
+Rune War,1998-01-01,0.0,,0,Board Games
+Sentimental Graffiti,1998-01-22,0.0,,0,"Adventure, Simulation"
+Peret em Heru: For the Prisoners,1998-01-01,0.0,,0,RPG
+Azure Dreams,1998-06-30,0.0,,0,RPG
+Gem Jam,1998-01-01,0.0,,0,"Casual, Strategy"
+Skirmax,1998-01-01,0.0,,0,Board Games
+Cabela's Big Game Hunter,1998-01-01,0.0,,0,Sports
+Brickanoid,1998-01-01,0.0,,0,Arcade
+Puzz Loop (1998),1998-12-01,0.0,,0,Puzzle
+Laura's Happy Adventures,1998-01-01,0.0,,0,Adventure
+NCAA Football '99,1998-08-01,0.0,,0,Sports
+GAROU: MARK OF THE WOLVES (1998),1998-12-31,0.0,,0,
+Pitfall: Beyond the Jungle,1998-12-19,0.0,,0,"Platformer, Action"
+M.I.A.: Missing in Action,1998-01-01,0.0,,0,Arcade
+Water Margin - The Tale of Clouds and Wind,1998-12-31,0.0,,0,"Adventure, Action"
+NFL Quarterback Club 99,1998-11-10,0.0,,0,Sports
+NHL Breakaway 99,1998-11-27,0.0,,0,Sports
+Virtual Pool 64,1998-12-17,0.0,,0,Sports
+Capcom Generation 5: Dai 5 Shuu Kakutouka Tachi,1998-08-27,0.0,,0,"Arcade, Fighting"
+Blaze and Blade: Eternal Quest,1998-01-28,0.0,,0,
+Pen Pen TriIcelon,1998-11-27,0.0,,0,Racing
+Sanctum (1998),1998-07-09,0.0,,0,"Card, Strategy"
+Theme Aquarium,1998-12-17,0.0,,0,"Strategy, Simulation"
+Clue: Murder at Boddy Mansion,1998-12-15,0.0,,0,"Casual, Strategy, Board Games"
+Monopoly World Cup Edition,1998-01-01,0.0,,0,Board Games
+Pro Pinball: Big Race USA,1998-01-01,0.0,,0,"Arcade, Action"
+The Ultimate Tapan Kaikki,1998-01-01,0.0,,0,Shooter
+The Chessmaster 6000,1998-01-01,0.0,,0,
+World Wide Soccer '98,1998-01-01,0.0,,0,Sports
+Judge Dredd Pinball,1998-01-01,0.0,,0,Arcade
+Super Adventure Rockman,1998-06-25,0.0,,0,
+Invasion from Beyond,1998-11-30,0.0,,0,Action
+Vegas Games 2000,1998-01-01,0.0,,0,Card
+Air Boarder 64,1998-03-27,0.0,,0,Racing
+Big Mountain 2000,1998-12-26,0.0,,0,Sports
+GT 64: Championship Edition,1998-04-14,0.0,,0,Racing
+Virtual Chess 64,1998-06-10,0.0,,0,Strategy
+UBIK,1998-01-01,0.0,,0,Strategy
+F-22 Total Air War,1998-01-01,0.0,,0,Simulation
+Stratosphere: Conquest of the Skies,1998-01-01,0.0,,0,Strategy
+Poy Poy 2,1998-07-09,0.0,,0,Action
+Speed Power Gunbike,1998-04-23,0.0,,0,"Racing, Action"
+Soccer Nation,1998-01-01,0.0,,0,"Strategy, Sports"
+iPanzer '44,1998-01-01,0.0,,0,Simulation
+CyberLaw,1998-01-01,0.0,,0,"Arcade, Fighting"
+Slayers Royal,1998-04-23,0.0,,0,
+Tellurian Defense,1998-12-01,0.0,,0,"Arcade, Simulation"
+Sporting Clays,1998-01-01,0.0,,0,Arcade
+Zebco Pro Fishing 3D,1998-01-01,0.0,,0,Sports
+Centipede (1998),1998-01-01,0.0,,0,Arcade
+"Game, Net & Match!",1998-01-01,0.0,,0,Sports
+Links LS 1998 Edition,1998-01-01,0.0,,0,Sports
+Microsoft Golf 1998 Edition,1998-01-01,0.0,,0,Sports
+Super Robot Spirits,1998-07-17,0.0,,0,Fighting
+Military Madness (Nectaris) (1998),1998-01-01,0.0,,0,Strategy
+Chill,1998-04-01,0.0,,0,
+Armed Police Batrider,1998-01-01,0.0,,0,Arcade
+WCW/nWo Revenge,1998-09-01,0.0,,0,"Action, Fighting, Sports"
+Tribal Rage,1998-01-01,0.0,,0,Strategy
+DK The New Way Things Work,1998-10-26,0.0,,0,"Casual, Educational"
+Photopia,1998-10-01,0.0,,0,Adventure
+Crime Killer,1998-06-01,0.0,,0,"Racing, Arcade"
+Real Golf,1998-01-01,0.0,,0,Sports
+Semper Fi,1998-01-01,0.0,,0,
+Digital Monster Ver. S,1998-09-23,0.0,,0,RPG
+Luftwaffe Commander,1998-01-01,0.0,,0,Simulation
+Atlantis Rising,1998-01-01,0.0,,0,Arcade
+C3 Racing,1998-01-01,0.0,,0,Racing
+Carax '95,1998-01-01,0.0,,0,Arcade
+JetFighter: Full Burn,1998-01-01,0.0,,0,Simulation
+Dawn of Aces,1998-01-01,0.0,,0,Simulation
+Dead Reckoning,1998-01-01,0.0,,0,"Shooter, Action"
+Xtris,1998-01-01,0.0,,0,Arcade
+KAtomic,1998-01-01,0.0,,0,Puzzle
+Princess Quest,1998-03-19,0.0,,0,RPG
+Arcade's Greatest Hits: The Atari Collection 2,1998-04-05,0.0,,0,Racing
+Bottom of the 9th '99,1998-08-31,0.0,,0,Sports
+GUNNM Martian Memory,1998-08-27,0.0,,0,"Adventure, Action, RPG, Puzzle"
+Axis & Allies (1998),1998-09-02,0.0,,0,"Strategy, Board Games"
+Animated Keno,1998-01-01,0.0,,0,
+Panzer Commander,1998-01-01,0.0,,0,Simulation
+Comer,1998-01-01,0.0,,0,"Adventure, Puzzle"
+Plane Crazy,1998-01-01,0.0,,0,"Racing, Arcade"
+Lode Runner 2,1998-01-01,0.0,,0,Arcade
+3D Railroad Master,1998-01-01,0.0,,0,Simulation
+Seventh Cross: Evolution,1998-12-23,0.0,,0,
+Three Lions,1998-01-01,0.0,,0,Sports
+Xadlak Plus,1998-01-01,0.0,,0,Arcade
+iF-22,1998-01-01,0.0,,0,Simulation
+Saltwater Fly Fishing,1998-01-01,0.0,,0,Sports
+Power Quest,1998-11-27,0.0,,0,"RPG, Fighting"
+Global Domination (1998),1998-01-01,0.0,,0,Arcade
+My Little Pony: Friendship Gardens,1998-01-01,0.0,,0,Adventure
+VR Sports Powerboat Racing,1998-01-01,0.0,,0,Racing
+Slayers Royal 2,1998-09-03,0.0,,0,
+Extreme Tactics,1998-01-01,0.0,,0,Strategy
+Bakushō Jinsei 64: Mezase! Resort Ō,1998-12-24,0.0,,0,Board Games
+Morita Shogi 64,1998-04-03,0.0,,0,Board Games
+Centre Court Tennis,1998-10-09,0.0,,0,Sports
+Animaniacs: Ten Pin Alley,1998-12-01,0.0,,0,Sports
+Star Wars: DroidWorks,1998-10-21,0.0,,0,Educational
+Yu-Gi-Oh! Duel Monsters,1998-12-16,0.0,,0,Strategy
+The Sun and the Moon,1998-01-01,0.0,,0,Educational
+Titanic: A Mysterious Undersea Adventure,1998-08-01,0.0,,0,"Adventure, Puzzle"
+Kyodai Mahjongg,1998-01-01,0.0,,0,"Board Games, Puzzle"
+Return Fire 2,1998-01-01,0.0,,0,Arcade
+Knuddel's Minigolf,1998-01-01,0.0,,0,
+Pastel Princess,1998-01-01,0.0,,0,Arcade
+LiberoGrande,1998-11-26,0.0,,0,Sports
+The Race to Galamax 3D,1998-01-01,0.0,,0,"Racing, Arcade"
+HardBall 6,1998-01-01,0.0,,0,Sports
+Arm Joe,1998-01-01,0.0,,0,Fighting
+CyberStorm 2: Corporate Wars,1998-01-01,0.0,,0,Strategy
+CarnEvil,1998-10-31,0.0,,0,Action
+Olympic Hockey Nagano '98,1998-02-23,0.0,,0,Sports
+Play This Play That,1998-01-01,0.0,,0,"Arcade, Board Games"
+Leo the Lion's Puzzles,1998-11-27,0.0,,0,
+Man of War 2,1998-06-01,0.0,,0,Strategy
+Fish Fillets,1998-01-01,0.0,,0,Puzzle
+Deo Gratias,1998-01-01,0.0,,0,Strategy
+After Dark Games,1998-01-01,0.0,,0,"Card, Arcade, Puzzle"
+ARA NGC 6397,1998-01-01,0.0,,0,"Arcade, Adventure"
+Top Gun: Hornet's Nest,1998-01-01,0.0,,0,Simulation
+Flying Saucer,1998-01-01,0.0,,0,Arcade
+Adidas Power Soccer '98,1998-01-01,0.0,,0,Sports
+MVP Checkers,1998-01-01,0.0,,0,Board Games
+CyberBall,1998-01-01,0.0,,0,Arcade
+KSpaceduel,1998-01-01,0.0,,0,Arcade
+Pop'n Pop,1998-10-22,0.0,,0,Puzzle
+Dominant Species,1998-09-01,0.0,,0,Strategy
+Timon & Pumbaa's Jungle Games (1998),1998-03-26,0.0,,0,
+Baseball Mogul '99,1998-01-01,0.0,,0,"Strategy, Sports"
+Daikoukai Jidai Gaiden,1998-02-02,0.0,,0,"RPG, Simulation"
+Evil Core: The Fallen Cities,1998-01-01,0.0,,0,Arcade
+Fatal Abyss,1998-11-12,0.0,,0,Action
+Monster Seed,1998-11-05,0.0,,0,RPG
+Spearhead,1998-01-01,0.0,,0,"Casual, Indie, Simulation"
+Golden Nugget 64,1998-12-01,0.0,,0,
+Mike Piazza's Strike Zone,1998-06-16,0.0,,0,Sports
+Super B-Daman: Battle Phoenix 64,1998-07-24,0.0,,0,Action
+Waialae Country Club: True Golf Classics,1998-07-29,0.0,,0,Sports
+Kagero: Deception II,1998-07-23,0.0,,0,"Strategy, Action"
+Chickens 2,1998-01-09,0.0,,0,"Shooter, Action"
+Operation,1998-01-01,0.0,,0,"Arcade, Board Games"
+Mitsumete Knight,1998-03-19,0.0,,0,
+Waku Waku Volley,1998-11-26,0.0,,0,Sports
+Dokapon! Okori no Tetsuken,1998-11-05,0.0,,0,"Board Games, RPG"
+Astra Superstars,1998-06-06,0.0,,0,Fighting
+Astronouka,1998-08-27,0.0,,0,Strategy
+Capcom Generation 3: Dai 3 Shuu Koko ni Rekishi Hajimaru,1998-10-15,0.0,,0,Arcade
+Joe & Mac 2 (1994),1998-02-18,0.0,,0,"Platformer, Action"
+Combination Pro Soccer,1998-06-18,0.0,,0,Sports
+Remington Top Shot,1998-01-04,0.0,,0,"Shooter, Arcade, Action, Simulation"
+The game of life 1998,1998-09-30,0.0,,0,Board Games
+Fighting Illusion: K-1 Grand Prix ’98,1998-11-26,0.0,,0,"Fighting, Sports"
+Arsenal: Taste the Power,1998-01-01,0.0,,0,Strategy
+Dan Kan,1998-01-01,0.0,,0,Arcade
+Rummel & Rabalder,1998-01-01,0.0,,0,"Racing, Platformer"
+Ganbare Goemon: Kuru Nara Koi! Ayashige Ikka no Kuroi Kage,1998-12-23,0.0,,0,
+Puzzle Uo Poko,1998-02-01,0.0,,0,Puzzle
+Hesperian Wars,1998-01-01,0.0,,0,Strategy
+ZZ-Darts,1998-01-01,0.0,,0,Sports
+Gihren's Greed,1998-01-01,0.0,,0,Strategy
+I'm Your Man,1998-09-01,0.0,,0,Adventure
+Fox Sports College Hoops '99,1998-10-31,0.0,,0,Sports
+Snowmobile Racing,1998-12-15,0.0,,0,"Racing, Arcade"
+Hello Kitty's Cube Frenzy,1998-06-25,0.0,,0,Puzzle
+Las Vegas Cool Hand,1998-12-01,0.0,,0,
+Ares Rising,1998-01-01,0.0,,0,Simulation
+Frenzy! (1998),1998-06-01,0.0,,0,Shooter
+Music: Music Creation for the PlayStation,1998-01-01,0.0,,0,"Massively Multiplayer, Family, Board Games"
+Another Mind,1998-11-12,0.0,,0,Adventure
+Jeremy McGrath Supercross 98,1998-05-31,0.0,,0,Racing
+Bakusou Kyoudai Let's & Go!! Eternal Wings,1998-07-30,0.0,,0,Racing
+Incidente em Varginha,1998-09-10,0.0,,0,Shooter
+Internet Playable Board Games,1998-01-01,0.0,,0,Board Games
+Wachenroder,1998-07-06,0.0,,0,Strategy
+Kira tto Kaiketsu! 64 Tanteidan,1998-10-23,0.0,,0,
+NCAA Basketball series,1998-02-28,0.0,,0,Sports
+Pro Bass Fishing,1998-01-01,0.0,,0,Sports
+Wall Street Trader '98,1998-01-01,0.0,,0,Strategy
+Extreme Angler,1998-01-01,0.0,,0,Sports
+SpikeOut: Digital Battle Online,1998-01-01,0.0,,0,Arcade
+Capcom Generation 2: Dai 2 Shuu Makai to Kishi,1998-09-23,0.0,,0,"Platformer, Arcade"
+WarBreeds,1998-01-01,0.0,,0,Strategy
+SpellCross,1998-08-01,0.0,,0,Strategy
+Nonsense Madness,1998-01-01,0.0,,0,Arcade
+Looney Tunes: Twouble!,1998-12-31,0.0,,0,"Platformer, Action"
+Hang Sim,1998-01-01,0.0,,0,Simulation
+ThunderChrome,1998-01-01,0.0,,0,"Racing, Arcade"
+TwinBee RPG,1998-04-02,0.0,,0,RPG
+101: The Airborne Invasion of Normandy,1998-01-01,0.0,,0,
+Probowl 3D,1998-01-01,0.0,,0,Sports
+Fly Hunter,1998-01-01,0.0,,0,"Shooter, Action"
+Xenocracy,1998-01-01,0.0,,0,"Shooter, Simulation"
+3D Hunting: Grizzly,1998-01-01,0.0,,0,Sports
+NBA Jam 99,1998-12-04,0.0,,0,Sports
+Elifoot 98,1998-01-01,0.0,,0,Sports
+Jane's Combat Simulations: F-15,1998-03-01,0.0,,0,Simulation
+Bounty Sword - Double Edge,1998-07-30,0.0,,0,RPG
+The Realms of Hell,1998-01-01,0.0,,0,Adventure
+Super Match Soccer,1998-01-01,0.0,,0,Sports
+The Sentinel Returns,1998-01-01,0.0,,0,
+Ultraman Tiga & Ultraman Dyna: New Generations,1998-01-01,0.0,,0,Fighting
+Wild Ball Keno,1998-01-01,0.0,,0,
+Barrage,1998-01-01,0.0,,0,Arcade
+Choro Q 3,1998-02-19,0.0,,0,"Racing, Adventure"
+V-Ball: Beach Volley Heroes,1998-01-01,0.0,,0,"Massively Multiplayer, Sports"
+Baseball Stars (NGP),1998-10-28,0.0,,0,"Strategy, Action, Sports"
+WWF Warzone,1998-07-24,0.0,,0,"Arcade, Fighting"
+Flip shot,1998-01-01,0.0,,0,Sports
+Polaris Rebellion,1998-01-01,0.0,,0,Arcade
+Capcom Generation 4: Dai 4 Shuu Kokou no Eiyuu,1998-11-12,0.0,,0,"Arcade, Action"
+Stellar Assault SS,1998-02-01,0.0,,0,Shooter
+Winning Post 3,1998-02-26,0.0,,0,"Racing, Simulation"
+Slayers Wonderful,1998-10-22,0.0,,0,RPG
+Power Rangers Zeo: Full Tilt Battle Pinball,1998-09-30,0.0,,0,Action
+Shadow Gunner: The Robot Wars,1998-01-01,0.0,,0,
+Shura no Mon,1998-04-02,0.0,,0,
+Blue's Clues: Blue's Birthday Adventure,1998-09-01,0.0,,0,Family
+Capcom Generation 1: Dai 1 Shuu Gekitsuiou no Jidai,1998-08-27,0.0,,0,Arcade
+The Ocean Hunter,1998-09-01,0.0,,0,Arcade
+Soulcalibur (1998),1998-07-30,0.0,98.0,0,Fighting
+Chaos Heat,1998-01-01,0.0,,0,Arcade
+Psybadek,1998-11-17,0.0,,0,Platformer
+Tides of War (1998),1998-12-31,0.0,,0,Strategy
+J.League Jikkyou Winning Eleven '98-'99,1998-12-03,0.0,,0,Action
+James Bond 007 (1998),1998-02-09,0.0,,0,"Adventure, Action"
+Initial D: Koudou Saisoku Densetsu,1998-06-18,0.0,,0,Sports
+Mission Sunlight,1998-01-01,0.0,,0,"Educational, Adventure"
+Dezaimon 3D,1998-06-26,0.0,,0,"Shooter, Educational"
+Dolphin's Dream,1998-08-10,0.0,,0,"Adventure, Action, Simulation"
+Liath: World Spiral,1998-01-01,0.0,,0,Adventure
+Master of Monsters: Disciples of Gaia,1998-08-31,0.0,,0,"Strategy, RPG"
+Dr. Seuss Kindergarten,1998-01-01,0.0,,0,Educational
+MLB '98,1998-06-30,0.0,,0,Sports
+Ski Air Mix,1998-07-23,0.0,,0,Sports
+World League Soccer 98,1998-05-01,0.0,,0,
+Zombie Massacre,1998-01-01,0.0,,0,"Adventure, Action"
+Soukaigi,1998-05-28,0.0,,0,"Adventure, Action"
+First Kiss Story,1998-04-24,0.0,,0,Adventure
+Kitchen Panic,1998-05-28,0.0,,0,"Platformer, Action"
+Super Famicom Wars,1998-04-01,0.0,,0,Strategy
+Simple 1500 Series Vol. 7: The Card,1998-01-01,0.0,,0,Sports
+L.A. Machineguns: Rage Of The Machines,1998-12-01,0.0,,0,Shooter
+Tokyo Majin Gakuen Kenpuu Chou,1998-06-18,0.0,,0,Strategy
+Farland Saga: Toki no Michishirube,1998-12-03,0.0,,0,RPG
+Kitchenette,1998-01-01,0.0,,0,Educational
+Wonder Trek,1998-12-10,0.0,,0,"Platformer, Adventure, Action"
+Judge Dredd (1998),1998-03-31,0.0,,0,"Shooter, Action"
+TNN Outdoors Pro Hunter,1998-11-30,0.0,,0,Sports
+Lupin Sansei,1998-11-26,0.0,,0,Action
+Ultraman Fighting Evolution,1998-02-19,0.0,,0,Fighting
+Choose Your Own Nightmare: How I Became a Freak,1998-01-01,0.0,,0,Adventure
+PoPoRoGue,1998-11-26,0.0,,0,RPG
+Cabela's Sportsman's Challenge,1998-01-01,0.0,,0,Arcade
+Пятно (1998),1998-01-01,0.0,,0,Adventure
+Год Зайца,1998-01-01,0.0,,0,Adventure
+От плуга до лазера 2.0,1998-01-01,0.0,,0,Educational
+Winning Post 3 Program '98,1998-10-01,0.0,,0,"Racing, Simulation"
+Практическая самооборона. Мультимедиа Альбом НПО «Зареалье»,1998-01-01,0.0,,0,Casual
+Superman Activity Center,1998-01-01,0.0,,0,Educational
+East,1998-09-01,0.0,,0,Strategy
+Wacki: Kosmiczna Rozgrywka,1998-01-01,0.0,,0,Adventure
+Шестое измерение,1998-01-01,0.0,,0,Adventure
+SKB Papi,1998-01-01,0.0,,0,Arcade

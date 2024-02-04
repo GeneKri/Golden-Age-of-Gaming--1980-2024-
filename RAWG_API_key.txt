@@ -1,0 +1,24 @@
+8:53 PM 2/3/2024
+
+Your Current Plan
+Free
+
+Number of requests left for the period
+20000
+
+Number of requests will renew on
+3/4/2024
+
+Full name
+Ken Dooley
+
+Contact email
+k4dooley@gmail.com
+
+Site/App url
+
+Describe in a few words how you would like to use RAWG’s API
+Personal Use. Pull data for learning data analysis purposes.
+
+API Key
+e1da0c7cc6d94de2b4a97e1ce1e34775

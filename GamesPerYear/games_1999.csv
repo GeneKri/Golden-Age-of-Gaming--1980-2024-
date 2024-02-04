@@ -1,0 +1,811 @@
+name,release_date,rating,metacritic,playtime,genres
+Half-Life: Opposing Force,1999-11-01,3.85,,3,Action
+Team Fortress Classic,1999-04-01,2.93,,1,Action
+System Shock 2,1999-08-11,4.14,92.0,2,"Shooter, Action, RPG"
+Thief Gold,1999-10-29,4.0,92.0,1,"Action, Simulation"
+Worms Armageddon,1999-01-29,4.31,,2,Strategy
+Crazy Taxi (1999),1999-01-01,3.83,82.0,1,"Racing, Arcade, Action"
+Quake III Arena,1999-12-02,4.32,69.0,1,"Shooter, Action"
+Tomb Raider IV: The Last Revelation,1999-10-31,3.71,,1,"Shooter, Adventure, Action, Puzzle"
+Legacy of Kain: Soul Reaver,1999-08-16,4.11,91.0,1,"Platformer, Adventure, Action"
+Gorky 17,1999-09-28,3.4,,4,"Strategy, RPG"
+Tyrian 2000,1999-11-29,2.37,,1,"Shooter, Action"
+Grand Theft Auto 2,1999-10-22,4.03,70.0,1,"Racing, Action"
+Commandos: Beyond the Call of Duty,1999-04-07,4.04,,1,Action
+FINAL FANTASY VIII,1999-01-11,4.27,90.0,3,RPG
+The Longest Journey,1999-11-18,4.37,91.0,1,"Adventure, Puzzle"
+Septerra Core: Legacy of the Creator,1999-10-31,2.88,70.0,4,"Adventure, RPG"
+Spyro 2: Ripto's Rage!,1999-10-31,4.14,,0,"Arcade, Platformer, Adventure, Action"
+Metal Slug X,1999-02-28,4.13,,3,"Casual, Arcade, Action, Fighting"
+Silent Hill,1999-01-31,4.37,86.0,23,Action
+Aliens Versus Predator,1999-04-30,3.72,,1,"Shooter, Action"
+Freespace 2,1999-09-30,3.14,91.0,1,"Action, Simulation"
+Outcast 1.1,1999-07-31,2.82,,5,"Adventure, Action, RPG"
+"Warhammer 40,000: Rites of War",1999-07-22,2.68,,1,Strategy
+Age of Wonders,1999-11-11,3.24,,1,"Strategy, RPG"
+STAR WARS - X-Wing Alliance,1999-02-28,2.87,,1,"Shooter, Action, Simulation"
+"Pokémon Gold, Silver",1999-11-21,4.38,,900,RPG
+Age of Empires II: Age of Kings,1999-09-30,4.41,92.0,0,Strategy
+Heroes of Might and Magic 3: The Restoration of Erathia,1999-03-03,4.36,,0,Strategy
+X: Beyond the Frontier,1999-07-01,3.35,67.0,1,"Strategy, Simulation"
+Resident Evil 3: Nemesis,1999-09-22,4.32,75.0,18,Action
+Mob Rule Classic,1999-08-27,2.57,,1,Simulation
+Planescape: Torment,1999-12-12,4.36,91.0,2,"Strategy, RPG"
+Shadow Man,1999-08-31,3.24,,1,"Adventure, Action"
+Crash Team Racing,1999-09-30,4.35,88.0,0,"Racing, Action"
+Rayman 2: The Great Escape,1999-10-29,4.12,68.0,1,"Platformer, Adventure, Action"
+Dungeon Keeper 2,1999-06-30,4.42,,1,"Strategy, Action"
+"Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",1999-11-19,3.14,80.0,1,Adventure
+King of Dragon Pass,1999-10-31,3.69,,6,"Strategy, RPG"
+EverQuest (1999),1999-03-16,2.65,85.0,0,"Massively Multiplayer, RPG"
+Unreal Tournament,1999-11-22,4.37,92.0,2,"Shooter, Action"
+Super Smash Bros. (1999),1999-01-21,4.22,79.0,0,"Action, Fighting"
+Disciples Sacred Lands Gold,1999-10-04,3.9,,1,Strategy
+DARKSTONE,1999-07-30,3.52,,1,"Action, RPG"
+Pharaoh + Cleopatra,1999-10-31,4.31,,1,"Strategy, Simulation"
+Urban Chaos,1999-11-29,3.81,52.0,1,"Shooter, Adventure, Action, Puzzle"
+Dino Crisis,1999-07-01,4.07,59.0,7,"Adventure, Action"
+Pokémon Snap,1999-03-21,3.94,77.0,2,Simulation
+Disney's Tarzan,1999-06-29,3.82,,0,"Platformer, Action"
+Chrono Cross,1999-11-18,4.39,94.0,42,RPG
+Command & Conquer: Tiberian Sun,1999-08-27,4.37,,1,Strategy
+Delta Force 2,1999-11-03,3.77,,1,Action
+Shenmue,1999-12-29,4.29,,0,"Adventure, RPG, Simulation"
+Kingpin — Life of Crime,1999-06-30,3.75,,1,"Shooter, Action"
+Pokémon Stadium,1999-04-30,3.98,,24,Strategy
+Sid Meier's Alpha Centauri Planetary Pack,1999-02-12,3.41,,1,Strategy
+Donkey Kong 64,1999-11-22,3.98,90.0,0,"Platformer, Adventure, Action"
+Need for Speed: High Stakes,1999-03-01,4.06,86.0,30,"Racing, Arcade"
+Medal of Honor (1999),1999-10-31,4.21,92.0,0,"Shooter, Action"
+STAR WARS: Episode I Racer,1999-05-16,4.08,66.0,0,"Racing, Arcade, Action"
+Tony Hawk's Pro Skater,1999-08-31,4.41,92.0,0,Sports
+Heroes of Might and Magic 3: Armageddon's Blade,1999-09-30,4.53,,0,Strategy
+Syphon Filter,1999-01-31,4.05,90.0,2,"Shooter, Action"
+Earthworm Jim 3D,1999-08-31,2.97,,1,"Platformer, Adventure, Action"
+Silver,1999-08-31,3.97,,1,"Card, Adventure, Action, RPG"
+Requiem: Avenging Angel,1999-03-31,3.18,,1,"Shooter, Action"
+Might and Magic 7: For Blood and Honor,1999-06-09,4.17,,1,RPG
+Seven Kingdoms 2 HD,1999-07-31,3.11,,1,"Strategy, Indie, Simulation"
+Shin Megami Tensei Persona 2: Innocent Sin,1999-06-24,4.31,75.0,0,RPG
+Gran Turismo 2,1999-12-11,4.41,93.0,0,Racing
+Slave Zero,1999-10-31,3.09,,1,"Shooter, Action"
+RollerCoaster Tycoon,1999-03-31,4.34,,1,Strategy
+Redline,1999-03-31,2.73,,1,"Racing, Shooter, Action"
+Re-Volt,1999-07-30,4.18,,1,"Racing, Arcade"
+Omikron: The Nomad Soul,1999-10-31,3.97,,1,"Adventure, Action, RPG"
+Grand Theft Auto: London 1961,1999-06-01,3.6,,0,Action
+Toy Story 2: Buzz Lightyear to the Rescue,1999-11-30,3.94,57.0,0,"Platformer, Adventure, Action"
+Parasite Eve II,1999-12-16,4.36,79.0,0,RPG
+Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch,1999-01-01,4.43,,1,"Casual, Educational, Adventure"
+Ultima IX: Ascension,1999-11-29,3.0,,1,"Action, RPG"
+"Spy Fox 2 ""Some Assembly Required""",1999-01-01,4.0,,3,"Casual, Educational, Adventure"
+The Legend of Dragoon,1999-12-02,4.43,74.0,1,RPG
+Rayman Forever,1999-05-30,3.64,,1,"Platformer, Adventure, Action"
+Mario Party 2,1999-12-17,4.15,,5,Board Games
+Tomb Raider: The Times Exclusive Playable Level,1999-12-01,3.25,,1,"Platformer, Adventure, Action"
+Atlantis 2: Beyond Atlantis,1999-11-15,3.12,,1,"Adventure, Puzzle"
+Revenant,1999-10-26,4.06,,1,"Indie, Action, RPG"
+Ape Escape,1999-05-31,4.0,90.0,0,Platformer
+Rage of Mages II: Necromancer,1999-07-30,4.28,,3,"Strategy, RPG"
+F-22 Lightning 3,1999-04-30,0.0,,2,Simulation
+Armored Fist 3,1999-09-01,0.0,,1,Simulation
+Valkyrie Profile,1999-12-22,4.35,81.0,0,RPG
+FIFA 2000,1999-01-01,3.77,,0,Sports
+Digimon World,1999-01-28,4.0,,0,RPG
+Front Mission 3,1999-09-02,4.42,,0,"Strategy, RPG"
+Bugs Bunny: Lost in Time,1999-05-31,4.0,,21,
+Star Wars: Episode I - The Phantom Menace,1999-05-19,3.49,,0,"Adventure, Action"
+Homeworld,1999-09-01,4.38,93.0,0,Strategy
+Amerzone: The Explorer's Legacy,1999-10-17,2.9,,1,Adventure
+Legend of Mana (1999),1999-07-15,4.32,,42,RPG
+Pepsiman,1999-03-04,3.9,,0,Action
+Army Men: Sarge's Heroes,1999-09-30,3.54,,0,"Shooter, Action"
+Crusaders of Might and Magic,1999-12-20,2.92,,1,Action
+LEGO Racers,1999-07-31,4.0,,20,"Racing, Arcade"
+SimCity 3000,1999-01-31,3.98,,14,Strategy
+Петька и Василий Иванович 2: Судный день,1999-09-30,4.05,,0,Adventure
+Pharaoh,1999-10-01,4.38,,1,Strategy
+The House of the Dead 2,1999-03-25,4.04,,10,Arcade
+Pokémon Pinball,1999-04-14,3.7,,0,Action
+Street Fighter III: 3rd Strike,1999-05-12,4.43,,0,Fighting
+Lands of Lore 3,1999-03-03,3.56,,1,RPG
+Alien Nations,1999-05-11,3.78,,1,Strategy
+Total Annihilation: Kingdoms + Iron Plague,1999-06-24,2.82,,1,Strategy
+Fleet Command,1999-05-15,0.0,,1,Strategy
+Warcraft 2: Battle.net Edition,1999-01-01,4.05,,0,Strategy
+Tom Clancy's Rainbow Six: Rogue Spear,1999-08-31,3.77,75.0,60,"Shooter, Strategy, Action"
+Mario Golf (1999),1999-06-11,3.7,,0,Sports
+TrickStyle,1999-09-08,3.45,,5,"Racing, Arcade, Action, Sports"
+Baldur's Gate: Tales of the Sword Coast,1999-04-30,4.15,,0,RPG
+Missile Command,1999-01-01,2.5,,0,"Arcade, Shooter, Strategy, Action"
+Vigilante 8: 2nd Offense,1999-10-31,4.24,,0,Action
+Twisted Metal 4,1999-10-31,4.11,,0,
+Yu-Gi-Oh! Forbidden Memories,1999-12-09,4.03,,52,
+Exist,1999-01-01,0.0,,1,"Shooter, Adventure, Action, Casual, Indie, Massively Multiplayer"
+Grand Theft Auto Mission Pack: London 1969,1999-03-31,3.39,,0,"Racing, Arcade"
+Corsairs Gold,1999-04-29,0.0,,1,Strategy
+Super Mario Bros. Deluxe,1999-05-01,4.0,,3,Platformer
+Descent 3,1999-06-17,3.56,89.0,1,Action
+Midtown Madness,1999-05-01,4.24,,2,"Racing, Arcade"
+Ace Combat 3: Electrosphere,1999-05-27,4.34,,0,"Arcade, Action, Simulation"
+Expendable,1999-05-14,3.33,,1,"Shooter, Adventure, Action"
+Sid Meier's Alpha Centauri,1999-02-12,4.16,92.0,1,Strategy
+The King of Fighters '99,1999-06-24,4.07,67.0,0,"Arcade, Fighting"
+007: Tomorrow Never Dies,1999-11-16,3.34,,0,"Shooter, Action"
+Tomba! 2: The Evil Swine Return,1999-10-28,4.48,,0,"Platformer, Action"
+Croc 2,1999-06-30,3.67,,0,Arcade
+Xena: Warrior Princess,1999-09-30,3.77,,0,
+Dead or Alive 2,1999-10-16,4.11,,0,Fighting
+Harvest Moon: Back To Nature,1999-12-16,4.15,82.0,0,RPG
+Pac-Man World,1999-08-30,3.86,,0,
+Konung: Legends of the North,1999-09-01,4.13,,0,"Strategy, Action, RPG"
+World War II GI,1999-03-14,0.0,,1,Action
+MechWarrior 3,1999-06-01,4.21,,1,Simulation
+Koudelka,1999-12-16,4.14,,0,RPG
+Army Men II,1999-02-28,2.86,67.0,2,"Strategy, Action"
+Jet Force Gemini,1999-10-11,3.95,80.0,0,"Shooter, Action"
+Theme Park World,1999-11-20,4.04,,0,Strategy
+Bloody Roar 2,1999-01-28,4.24,,0,Fighting
+Hidden & Dangerous,1999-01-01,3.63,,0,"Shooter, Strategy, Action"
+Army Men: Toys In Space,1999-10-12,3.62,,1,"Strategy, Arcade, Action"
+Harvest Moon 64 (1999),1999-11-30,4.33,78.0,0,"Adventure, Simulation"
+Gex 3: Deep Cover Gecko (1999),1999-03-01,4.0,,0,"Arcade, Action"
+Toy Story 2,1999-11-30,4.0,,0,Arcade
+Imperium Galactica II,1999-12-01,0.0,,2,"Strategy, Simulation"
+JoJo's Bizarre Adventure,1999-10-14,4.4,,0,"Arcade, Fighting"
+The Pink Panther Hocus Pocus Pink,1999-01-01,4.24,,0,Adventure
+Fighting Force 2,1999-11-30,3.74,,0,Action
+Power Stone,1999-02-13,4.11,,0,Fighting
+Drakan: Order of the Flame,1999-07-14,4.28,,0,"Adventure, Action"
+Hard Truck: The Road to Victory,1999-07-06,4.27,,0,"Racing, Simulation"
+V-Rally 2,1999-10-31,4.0,,0,Racing
+Interstate '82,1999-10-30,3.88,,1,"Racing, Action"
+Prince of Persia 3D,1999-08-31,2.74,76.0,0,"Adventure, Action, Puzzle"
+Discworld Noir,1999-07-05,4.0,,0,Adventure
+Tomb Raider 2: Golden Mask,1999-06-01,3.81,,0,"Shooter, Action"
+The Wheel of Time,1999-10-31,3.33,,1,"Shooter, Action"
+Warzone 2100,1999-04-10,4.23,,3,Strategy
+Outcast,1999-06-25,4.0,,0,"Shooter, Adventure, Action"
+SWAT 3: Close Quarters Battle,1999-01-01,3.88,,0,"Shooter, Action, Simulation"
+40 Winks,1999-11-13,3.56,,0,"Family, Adventure, Action, Puzzle"
+Threads of Fate (1999),1999-10-10,3.33,,0,"Action, RPG"
+Ogre Battle 64: Person of Lordly Caliber,1999-07-14,4.0,82.0,0,Strategy
+Enemy Engaged: Comanche vs Hokum,1999-03-25,0.0,,1,Simulation
+Imperialism 2: The Age of Exploration,1999-03-30,0.0,,1,Strategy
+Wild Arms 2 (1999),1999-09-02,3.57,,0,"Action, RPG"
+Castlevania: Legacy of Darkness,1999-11-30,3.46,,0,"Platformer, Adventure, Action"
+Unreal Mission Pack: Return to Na Pali,1999-06-01,3.88,,0,"Shooter, Action"
+Civilization 2: Test of Time,1999-08-01,4.12,,45,Strategy
+SaGa Frontier 2,1999-04-01,3.71,,0,RPG
+Nocturne,1999-10-28,4.09,,0,"Shooter, Adventure, Action"
+Nancy Drew: Stay Tuned for Danger,1999-01-01,3.44,,0,Adventure
+Wild Metal Country,1999-01-01,0.0,,1,"Arcade, Action"
+Um Jammer Lammy,1999-03-18,4.23,,0,"Action, Simulation"
+Gauntlet Legends,1999-08-31,3.73,,0,
+Army Men 3D,1999-03-09,3.69,,0,Action
+Vib-Ribbon (1999),1999-12-12,3.73,,0,Action
+Test Drive 6,1999-10-31,3.82,,0,"Racing, Arcade"
+Wipeout 3 (1999),1999-09-08,4.25,,0,Racing
+Legend of Legaia,1999-03-17,3.85,,0,"Adventure, RPG"
+Rollcage,1999-03-24,4.21,,2,"Racing, Arcade"
+Space Channel 5,1999-12-16,3.57,,0,
+Demolition Racer,1999-01-01,3.93,,0,"Racing, Arcade"
+The Misadventures of Tron Bonne,1999-07-22,4.38,,0,"Adventure, Action"
+Vandal Hearts II,1999-07-08,4.27,,0,"Strategy, RPG"
+Incredible Crisis,1999-06-24,4.36,80.0,0,Action
+Ready 2 Rumble Boxing,1999-09-08,3.92,,0,"Fighting, Sports"
+Rage of Mages 2: Necromancer,1999-04-15,4.25,,0,"Strategy, RPG"
+South Park Rally,1999-11-30,2.58,,20,"Racing, Arcade"
+Echo Night,1999-07-31,3.9,,0,Adventure
+Tomb Raider: The Last Revelation + Chronicles,1999-11-23,2.83,,0,"Platformer, Adventure, Action"
+Virtua Tennis (1999),1999-11-15,4.28,80.0,0,Sports
+Mortal Kombat Gold,1999-09-09,3.76,,0,Fighting
+Neopets,1999-11-15,4.25,,0,Simulation
+Shadow Tower (1999),1999-10-31,2.89,,0,RPG
+Metal Gear Solid: VR Missions (DLC),1999-09-30,3.77,,0,"Shooter, Adventure, Action"
+Sled Storm,1999-07-31,4.24,,0,Racing
+Sim Theme Park,1999-11-01,3.92,,0,"Strategy, Simulation"
+ChuChu Rocket!,1999-11-11,3.78,,0,Puzzle
+Disciples: Sacred Lands,1999-09-27,3.56,,0,Strategy
+Imperium Galactica II: Alliances,1999-12-01,0.0,,1,Strategy
+NHL 2000,1999-01-01,3.75,,0,Sports
+Duke Nukem: Zero Hour,1999-08-01,3.29,,0,"Shooter, Action"
+Sword of the Berserk: Guts' Rage,1999-12-16,4.12,,0,Action
+Jazz Jackrabbit 2 - The Secret Files,1999-03-15,4.33,,0,Arcade
+Army Men: Air Attack (1999),1999-10-13,3.92,,0,"Shooter, Arcade"
+Seaman,1999-07-29,0.0,,0,Simulation
+Mortyr 2093-1944,1999-06-01,3.71,,0,"Shooter, Action"
+Beetle Adventure Racing,1999-02-28,4.29,90.0,0,Racing
+Blue Stinger,1999-03-25,3.78,,0,Action
+Hydro Thunder (1999),1999-09-09,4.14,,0,Racing
+Monster Rancher 2,1999-02-25,3.86,83.0,46,RPG
+LEGO Rock Raiders,1999-11-15,4.08,,0,"Strategy, Action"
+Catan - Die Erste Insel,1999-02-01,4.14,,0,Strategy
+NBA Live 2000,1999-10-31,3.38,,0,Sports
+Panzer General 3D Assault,1999-09-28,0.0,,1,Strategy
+Vampire Hunter D,1999-12-09,3.88,,0,
+Amerzone,1999-10-18,0.0,,0,Adventure
+Winback: Covert Operations,1999-09-30,0.0,,0,"Shooter, Action"
+Magic & Mayhem,1999-05-01,4.33,,0,"Strategy, RPG"
+Jazz Jackrabbit 2 - The Christmas Chronicles,1999-11-25,0.0,,0,Arcade
+Microsoft Flight Simulator 2000,1999-10-01,0.0,,0,Simulation
+Civilization: Call to Power,1999-03-01,4.23,,6,Strategy
+WWF Attitude,1999-07-31,3.64,,0,"Fighting, Sports"
+Rampage 2: Universal Tour,1999-03-31,0.0,,12,Action
+Gruntz,1999-02-28,4.33,,0,"Strategy, Arcade"
+Garage: Bad Dream Adventure,1999-10-10,0.0,,6,"Indie, Adventure, RPG"
+Zombie Revenge,1999-11-25,0.0,,0,Shooter
+Silent Bomber,1999-10-28,4.5,,0,Action
+Kingsley's Adventure,1999-10-07,0.0,,0,"Platformer, Adventure, Action"
+Test Drive: Off-Road 3,1999-10-31,4.14,,0,"Racing, Arcade"
+Arc the Lad III,1999-10-28,0.0,,0,"Strategy, RPG"
+Snowboard Kids 2,1999-02-19,0.0,,0,"Racing, Sports"
+Chocobo Racing,1999-03-18,4.0,,0,Racing
+Strider 2 (1999),1999-12-13,0.0,69.0,0,"Platformer, Arcade"
+Pro Pinball Fantastic Journey,1999-12-30,0.0,,1,"Action, Simulation"
+Azure Dreams GB,1999-02-13,3.43,,0,RPG
+Close Combat 3: The Russian Front,1999-01-14,0.0,,1,
+Superman: The New Adventures,1999-05-31,1.82,,0,"Adventure, Action"
+Road Rash 64,1999-08-31,3.67,,0,Racing
+Rugrats: Studio Tour,1999-11-10,0.0,,0,
+Turok: Rage Wars,1999-10-31,0.0,,0,
+Harvest Moon 2 GBC (1999),1999-08-06,0.0,,0,"RPG, Simulation"
+Hugo: Jungle Island,1999-06-01,3.86,,0,"Platformer, Arcade"
+Rocket: Robot on Wheels,1999-10-31,0.0,,0,Platformer
+Орда: Северный ветер,1999-11-03,0.0,,0,Strategy
+Recoil,1999-03-11,0.0,,0,"Adventure, Action, Casual, Strategy, Arcade, Simulation, Sports, Indie"
+They Hunger,1999-01-01,4.17,,0,"Shooter, Action"
+T'ai Fu: Wrath of the Tiger,1999-02-28,0.0,,0,Action
+Darkstone: Evil Reigns,1999-07-31,0.0,,0,
+3Xtreme,1999-04-21,3.5,,0,Racing
+ISS Pro Evolution,1999-05-11,4.67,,0,Sports
+Hype: The Time Quest,1999-01-01,3.33,,0,"Adventure, Action, RPG"
+WCW Mayhem,1999-08-31,3.5,,0,"Fighting, Sports"
+Reah: Face the Unknown,1999-03-30,0.0,,9,
+AirXonix,1999-01-01,4.43,,0,"Casual, Arcade, Puzzle"
+WWF WrestleMania 2000,1999-01-01,3.75,,0,Fighting
+ShadowMan,1999-08-01,0.0,,0,"Shooter, Action"
+Barbie Super Sports,1999-12-30,0.0,,0,Sports
+Close Combat 5: Invasion: Normandy - Utah Beach to Cherbourg,1999-12-31,0.0,,0,
+Shadow Madness,1999-04-30,0.0,,0,RPG
+International Superstar Soccer 2000,1999-07-29,0.0,,0,Sports
+South Park: Chef's Luv Shack,1999-10-12,2.0,,0,
+Countdown Vampires,1999-12-22,0.0,41.0,0,"Adventure, Action"
+Growlanser,1999-11-25,0.0,,0,
+Sega Bass Fishing (1999),1999-04-01,0.0,,0,
+New Robinson,1999-12-01,4.11,,0,"Family, Educational, Adventure, Puzzle"
+Giga Wing,1999-11-11,0.0,,0,
+Fatal Fury: Wild Ambition,1999-01-28,0.0,,0,Fighting
+Soul of the Samurai,1999-04-28,0.0,,0,
+Warpath: Jurassic Park,1999-10-31,3.33,,0,Fighting
+Panzer Front,1999-12-22,0.0,,0,Simulation
+The Nations,1999-07-01,0.0,,0,Strategy
+Cool Boarders 4,1999-11-10,0.0,,0,"Racing, Sports"
+Carnivores 2,1999-11-03,0.0,,0,"Shooter, Action, Sports"
+Championship Manager Season 99/00,1999-01-01,0.0,,0,"Strategy, Sports"
+Hot Shots Golf 2,1999-07-29,3.86,,0,"Simulation, Sports"
+Pandora's Box (1999),1999-09-02,0.0,,0,Puzzle
+Hot Wheels Turbo Racing,1999-05-11,0.0,,0,Racing
+Doshin the Giant,1999-12-01,0.0,,0,Simulation
+This Is Football,1999-01-01,3.83,,0,
+Earthworm Jim: Menace 2 the Galaxy,1999-12-07,0.0,,0,"Platformer, Action"
+Monaco Grand Prix,1999-06-30,0.0,,0,Racing
+Tokyo Xtreme Racer,1999-06-24,0.0,,0,Racing
+Dragon Valor,1999-12-02,0.0,,12,
+Omega Boost,1999-04-22,0.0,,0,
+Mobil 1 Rally Championship,1999-11-19,0.0,,0,Racing
+Bust a Groove 2,1999-03-31,0.0,66.0,0,"Family, Action, Simulation"
+Armored Core: Master of Arena,1999-02-04,0.0,,0,"Shooter, Action, Simulation"
+Toy Commander,1999-09-30,0.0,,0,Action
+Racing Lagoon,1999-06-10,0.0,,0,"Racing, RPG"
+Dynamite Cop,1999-05-27,3.5,,0,Arcade
+The Silver Case (1999),1999-10-07,0.0,,0,Adventure
+Tank Racer,1999-03-30,4.0,,0,"Racing, Action"
+Madden NFL 2000,1999-07-31,0.0,,0,Sports
+Animaniacs: A Gigantic Adventure,1999-06-15,0.0,,0,Arcade
+Faust: The Seven Games of the Soul,1999-10-01,0.0,,0,Adventure
+TOCA 2: Touring Cars,1999-10-31,0.0,,0,Racing
+Collapse!,1999-01-01,0.0,,0,Puzzle
+Supreme Snowboarding,1999-11-01,0.0,,0,"Arcade, Sports"
+BattleTanx: Global Assault,1999-08-31,0.0,,0,Action
+Hybrid Heaven,1999-08-05,0.0,,0,RPG
+V-Rally,1999-04-01,0.0,,0,"Racing, Simulation"
+Survival Kids,1999-06-17,0.0,,0,RPG
+Knockout Kings 2000,1999-01-01,0.0,,0,Action
+Evolution: The World of Sacred Device,1999-12-16,0.0,,0,RPG
+Total Annihilation: Kingdoms,1999-06-25,0.0,74.0,0,Strategy
+SNK vs. Capcom: The Match of the Millennium,1999-01-01,0.0,,1,"Casual, Strategy, Action, Fighting"
+Kanon,1999-06-04,0.0,,0,"Casual, Adventure, Simulation"
+Pong,1999-01-01,0.0,,0,"Arcade, Action, Simulation"
+Torneko: The Last Hope,1999-09-15,0.0,,0,RPG
+Shadowgate 64: Trials of the Four Towers,1999-05-31,0.0,,0,Adventure
+Echo Night 2: The Lord of Nightmares,1999-08-05,0.0,,0,Adventure
+Metal Gear Solid Integral (DLC),1999-06-24,0.0,,0,"Adventure, Action, RPG"
+BoomBots,1999-10-31,0.0,,0,Fighting
+Millennium Soldier: Expendable,1999-05-28,0.0,,0,
+Dracula Trilogy,1999-09-30,0.0,,0,Adventure
+Thrasher Presents Skate and Destroy,1999-09-26,0.0,,0,Sports
+Creatures 3,1999-01-03,0.0,,0,Simulation
+Disney's Tarzan Activity Center,1999-06-15,0.0,,0,Arcade
+Nicktoons Racing,1999-01-01,0.0,,0,Racing
+Disney's Winnie the Pooh: Preschool,1999-04-09,0.0,,0,Educational
+Pong Pong's Learning Adventure: Mysteries of Human Body,1999-12-01,0.0,,0,"Educational, Adventure"
+Sports Car GT,1999-01-01,0.0,,0,"Racing, Arcade, Simulation"
+Suzuki Alstare Extreme Racing,1999-11-10,0.0,,0,"Racing, Arcade"
+Destrega (1998),1999-01-31,0.0,,0,"Action, Fighting"
+Planet Laika,1999-10-21,0.0,,0,RPG
+Wu-Tang: Shaolin Style,1999-10-31,0.0,,0,Fighting
+Corsairs: Conquest at Sea,1999-10-15,0.0,,0,Strategy
+Codename: Eagle,1999-12-01,0.0,,0,"Shooter, Action"
+Megami Tensei Gaiden: Last Bible II,1999-04-16,0.0,,0,RPG
+Saga: Rage of the Vikings,1999-05-01,0.0,,0,Strategy
+Conker's Pocket Tales,1999-06-08,0.0,,0,Adventure
+Русская рулетка 2: Закрытые планеты,1999-03-26,0.0,,0,Action
+Star Trek: Hidden Evil,1999-10-31,0.0,,1,
+Vib Ribbon,1999-12-09,0.0,,0,Action
+3-D Ultra Radio Control Racers,1999-01-01,0.0,,0,"Racing, Arcade"
+Tail Concerto,1999-08-31,0.0,,0,"Adventure, Action"
+Super Robot Wars 64,1999-10-29,0.0,,0,
+Rugrats: Scavenger Hunt,1999-06-29,0.0,,0,Board Games
+Akuma: Demon Spawn,1999-01-01,0.0,,0,"Action, RPG"
+Demise: Rise of the Ku'Tan,1999-01-01,0.0,,0,RPG
+Asheron's Call,1999-10-31,0.0,81.0,1,"Massively Multiplayer, RPG"
+Heavy Gear 2,1999-01-01,0.0,,0,"Shooter, Action, Simulation"
+NASCAR 2000,1999-09-24,0.0,,0,Racing
+Hazard,1999-01-01,0.0,,0,"Action, RPG"
+Sonic the Hedgehog Pocket Adventure,1999-12-04,0.0,,0,Platformer
+Громада,1999-07-27,0.0,,0,Arcade
+Tiny Toon Adventures: Toonenstein,1999-11-02,0.0,,0,Adventure
+Creatures Adventures,1999-09-03,0.0,,0,"Educational, Simulation"
+NASCAR Road Racing,1999-05-26,0.0,,0,"Racing, Arcade, Simulation, Sports"
+Seven Kingdoms 2: The Fryhtan Wars,1999-01-01,0.0,,0,Strategy
+Billionaire,1999-01-01,0.0,,0,"Casual, Strategy, Indie, Board Games"
+Moomintrolls: The Quest for Hobgoblin's Ruby,1999-01-01,0.0,,0,"Educational, Puzzle"
+M.U.G.E.N.,1999-07-27,0.0,,0,Fighting
+Gearhead Garage: The Virtual Mechanic,1999-11-01,0.0,,0,"Racing, Simulation"
+Speed Demons,1999-01-01,0.0,,0,"Racing, Arcade"
+Space Invaders,1999-01-01,0.0,,0,"Casual, Arcade, Action"
+Neon Genesis Evangelion (N64),1999-06-25,0.0,,0,Action
+Swedish Touring Car Championship,1999-12-01,0.0,,0,"Racing, Simulation"
+Pizza Syndicate,1999-01-01,0.0,,0,Strategy
+Breakneck (N.I.C.E. 2),1999-01-01,0.0,,0,"Racing, Arcade"
+FA Premier League Football Manager 2000,1999-11-01,0.0,,0,"Strategy, Sports"
+Dr. Slump,1999-03-18,0.0,,0,Adventure
+Realmz,1999-01-01,0.0,,0,RPG
+Wet Attack: The Empire Cums Back,1999-01-01,0.0,,0,"Strategy, Adventure"
+Yuuyami Doori Tankentai,1999-10-07,0.0,,0,Adventure
+Z.A.R. Mission Pack,1999-01-01,0.0,,0,"Shooter, Action"
+Speed Freaks,1999-09-15,0.0,,0,Racing
+Mob Rule,1999-07-01,0.0,,0,Strategy
+Cyber Troopers Virtual-On Oratorio Tangram,1999-12-09,0.0,,0,Action
+F-16 Aggressor,1999-02-01,0.0,,0,Simulation
+Monkey Hero,1999-02-28,0.0,,0,RPG
+Driver's Education '99,1999-01-01,0.0,,0,"Racing, Educational, Simulation"
+Battlezone 2: Combat Commander,1999-12-30,0.0,,0,"Shooter, Strategy, Action, Simulation"
+Nerf ArenaBlast,1999-01-01,0.0,,0,"Shooter, Action"
+Monster Rancher Battle Card Game,1999-12-24,0.0,,0,Strategy
+Mayday,1999-01-01,0.0,,0,Strategy
+Xena: Warrior Princess: The Talisman of Fate,1999-11-30,0.0,,0,Fighting
+Hidden & Dangerous: Devil's Bridge,1999-12-01,0.0,,0,"Shooter, Strategy, Action"
+Spirit of Speed 1937,1999-12-01,0.0,,0,"Racing, Simulation, Sports"
+Commandos Ammo Pack,1999-03-30,0.0,,0,Strategy
+California Speed,1999-02-28,0.0,,0,Racing
+Evil Zone,1999-01-14,0.0,,0,Fighting
+Starsiege,1999-01-01,0.0,,0,Simulation
+EVE: Burst Error,1999-06-09,0.0,,0,Adventure
+Pong Pong's Learning Adventure: Back to the Future,1999-01-01,0.0,,0,"Educational, Adventure"
+Fly!,1999-08-01,0.0,,0,Simulation
+No Fear Downhill Mountain Biking,1999-10-18,0.0,,0,Sports
+AeroWings,1999-03-04,0.0,,0,Simulation
+NBA Showtime: NBA on NBC,1999-10-31,0.0,,0,Sports
+Star Wars: Episode I - Gungan Frontier,1999-05-01,0.0,,0,Strategy
+Battle Hunter (1999),1999-03-17,0.0,,0,Strategy
+Digger Remastered,1999-03-28,0.0,,0,Arcade
+In the Raven Shadow,1999-01-01,0.0,,0,Adventure
+Yoot Tower,1999-01-01,0.0,,0,Strategy
+CatDog: The Quest for the Golden Hydrant,1999-11-01,0.0,,0,Arcade
+Guardian of Darkness,1999-05-01,0.0,,0,"Shooter, Action"
+Jungle Legend,1999-09-01,0.0,,0,"Shooter, Action, Puzzle"
+The Crystal Key,1999-11-22,0.0,,0,Adventure
+Disney's Magic Artist Studio,1999-01-01,0.0,,0,Family
+Turok: Rage Wars (GBC),1999-11-01,0.0,,0,"Shooter, Action"
+Goemon Mononoke Sugoroku,1999-12-25,0.0,,0,"Platformer, Adventure, Action"
+Pong: The Next Level,1999-10-31,0.0,,0,"Arcade, Sports"
+Spec Ops 2: US Army Green Berets,1999-01-01,0.0,,0,"Shooter, Action"
+The Dukes of Hazzard: Racing for Home,1999-11-30,0.0,,0,"Racing, Arcade"
+Densha de Go! 2 Kōsoku-hen,1999-07-30,0.0,,0,Simulation
+The War in Heaven,1999-01-01,0.0,,0,"Shooter, Action"
+Grand Prix 500,1999-10-01,0.0,,0,"Racing, Simulation"
+Arcade Pool 2,1999-07-01,0.0,,0,Sports
+Rugrats: Time Travelers,1999-01-01,0.0,,0,
+Speed Devils,1999-10-14,0.0,,0,Racing
+Virtual Tennis,1999-03-01,0.0,,0,Sports
+BVS Solitaire Collection,1999-01-01,0.0,,0,"Casual, Card, Puzzle"
+The Legend of Heroes III - Song of the Ocean,1999-12-09,0.0,58.0,0,RPG
+Killer Loop,1999-10-31,0.0,,0,Racing
+Moomintrolls: Wonder Winterland,1999-01-01,0.0,,0,Educational
+Metal Slug: 1st Mission,1999-05-27,0.0,,0,"Shooter, Platformer, Action"
+Diplomacy (1999),1999-01-01,0.0,,0,"Strategy, Board Games"
+Words Worth,1999-03-25,0.0,,0,RPG
+F/A-18,1999-01-01,0.0,,0,Simulation
+Transformers: Beast Wars Transmetals,1999-10-01,0.0,,0,Fighting
+Raising Dead,1999-01-01,0.0,,0,"Shooter, Action"
+Army Men 2,1999-02-01,0.0,,0,"Strategy, Arcade"
+Time Stalkers,1999-09-15,0.0,,0,RPG
+NASCAR Revolution,1999-03-01,0.0,,0,"Racing, Simulation, Sports"
+Egypt,1999-01-01,0.0,,0,Adventure
+Go Kart Challenge,1999-11-01,0.0,,0,"Racing, Sports"
+Puyo Puyo~n,1999-03-04,0.0,,0,Puzzle
+Formula One 99,1999-10-20,0.0,,0,Racing
+Corum 3: Chaotic Magic,1999-01-01,0.0,,0,"Action, RPG"
+Moomintrolls: The Invisible Child,1999-01-01,0.0,,0,Educational
+The Smurfs (1999),1999-01-01,0.0,,0,Platformer
+Plasma Sword: Nightmare of Bilstein,1999-12-09,0.0,,0,Fighting
+King of Fighters R-2,1999-03-19,0.0,,0,Fighting
+Jane's Fleet Command,1999-05-01,0.0,,0,"Strategy, Simulation"
+Rippin' Riders Snowboarding,1999-08-26,0.0,,0,"Racing, Sports"
+Picross NP Vol.1,1999-04-01,0.0,,0,Puzzle
+Rising Zan: The Samurai Gunman,1999-03-25,0.0,,0,"Adventure, Action"
+Dark Arms: Beast Buster,1999-10-21,0.0,,0,"Action, RPG"
+Shattered Light,1999-01-01,0.0,,0,"Massively Multiplayer, Action, RPG"
+Traitors Gate,1999-09-01,0.0,63.0,0,"Adventure, Puzzle"
+Star Wars: Pit Droids,1999-09-13,0.0,,0,Puzzle
+Lode Runner 3-D,1999-03-26,0.0,,0,"Platformer, Action, Puzzle"
+NIRA Intense Import Drag Racing,1999-01-01,0.0,,0,"Racing, Simulation"
+Fighting Steel: World War II Surface Combat 1939-1942,1999-01-01,0.0,,0,Strategy
+Dick Johnson V8 Challenge,1999-12-01,0.0,,0,"Racing, Arcade"
+Roland Garros '99,1999-07-01,0.0,,0,Sports
+RollerCoaster Tycoon: Added Attractions Pack,1999-11-01,0.0,,0,Simulation
+Fisherman's Bait: A Bass Challenge,1999-01-31,0.0,,0,Simulation
+Mupper Babies Toyland Train,1999-01-01,0.0,,0,Educational
+Microsoft International Football 2000,1999-01-01,0.0,,0,Sports
+Premier Manager: Ninety Nine,1999-08-01,0.0,,0,Sports
+Игровая матрица,1999-12-01,0.0,,0,"Adventure, RPG, Puzzle, Arcade, Board Games"
+Natuk,1999-01-01,0.0,,0,RPG
+Rat Attack!,1999-08-31,0.0,,0,Puzzle
+KO: Ultra-Realistic Boxing,1999-02-01,0.0,,0,Sports
+NASCAR Racing 3,1999-01-01,0.0,,0,"Racing, Simulation, Sports"
+Disney's Animated Storybook: Winnie The Pooh & Tigger Too,1999-04-30,0.0,,0,Family
+Bangai-O,1999-09-03,0.0,,0,
+Bomberman Max,1999-12-17,0.0,,0,Action
+NBA Basketball 2000,1999-11-01,0.0,,0,Sports
+Abomination: The Nemesis Project,1999-10-01,0.0,,0,Strategy
+Armorines: Project S.W.A.R.M.,1999-11-30,0.0,,0,
+Jeremy McGrath Supercross 2000,1999-09-29,0.0,,0,Racing
+Tokimeki Memorial 2,1999-11-25,0.0,,0,Simulation
+Fisherman's Bait 2: Big Ol' Bass,1999-11-24,0.0,,0,Simulation
+Battlecruiser 3000AD v2.0,1999-01-01,0.0,,0,
+Biosys,1999-02-01,0.0,,0,Adventure
+Total Soccer 2000,1999-01-01,0.0,,0,Sports
+Colt's Wild West Shootout,1999-01-04,0.0,,0,"Shooter, Arcade, Action"
+Flight Unlimited 3,1999-10-01,0.0,,0,Simulation
+The Smurfs' Nightmare,1999-02-28,0.0,,0,"Platformer, Adventure, Action, Puzzle"
+Super Donkey Kong 99 (Bootleg),1999-01-01,0.0,,0,"Platformer, Action"
+Tiny Tank,1999-08-31,0.0,,0,"Platformer, Action"
+Busters,1999-01-01,0.0,,0,"Arcade, Fighting"
+Jazz Jackrabbit 2 - The Secret Files Shareware Edition,1999-03-15,0.0,,0,Arcade
+F-1 World Grand Prix II,1999-09-30,0.0,,0,
+Supercross 2000,1999-10-31,0.0,,0,Racing
+Clan Lord,1999-12-31,0.0,,0,"Massively Multiplayer, RPG"
+Planet DOB,1999-11-18,0.0,,0,"Adventure, Puzzle"
+The Adventure of Little Ralph,1999-06-03,0.0,,0,"Platformer, Action"
+Hell-Copter,1999-01-01,0.0,,0,Arcade
+Railroad Tycoon 2: The Second Century,1999-01-01,0.0,,0,Strategy
+Flanker 2.0: Combat Flight Simulator,1999-09-30,0.0,81.0,0,Simulation
+Picross NP Vol.2,1999-06-01,0.0,,0,Puzzle
+Point Blank 2,1999-04-30,0.0,,0,"Shooter, Arcade"
+Puma Street Soccer,1999-01-01,0.0,,0,Sports
+UFO: A Day in the Life,1999-06-24,0.0,,0,"Adventure, Puzzle"
+North vs. South,1999-02-01,0.0,,0,
+NASCAR Legends,1999-01-01,0.0,,0,"Racing, Simulation, Sports"
+Cutthroats: Terror on the High Seas,1999-01-01,0.0,,0,Strategy
+Star Trek: Starfleet Command,1999-01-01,0.0,,0,Strategy
+Panzer Elite,1999-11-01,0.0,,0,"Action, Simulation"
+Jetboat Superchamps,1999-01-01,0.0,,0,"Racing, Arcade"
+MiG Alley,1999-01-01,0.0,,0,Simulation
+Picross NP Vol.5,1999-12-01,0.0,,0,Puzzle
+Picross NP Vol.4,1999-10-01,0.0,,0,Puzzle
+X-Plane,1999-05-01,0.0,69.0,0,Simulation
+Sega Smash Pack,1999-02-01,0.0,,0,
+F355 Challenge,1999-10-11,0.0,,0,"Racing, Simulation"
+Blast Thru,1999-08-01,0.0,,0,Arcade
+NBA Jam 2000,1999-10-31,0.0,,0,Sports
+Typing Ougi Hokuto no Ken Gekiuchi,1999-03-01,0.0,,0,"Educational, Arcade, Fighting"
+Men in Black: The Series,1999-03-01,0.0,,0,"Shooter, Action"
+Antz,1999-09-24,0.0,,0,
+Soul Fighter,1999-11-22,0.0,,0,Adventure
+Battle Commander: The Return of Waroid,1999-11-01,0.0,,0,Strategy
+NBA Courtside 2: Featuring Kobe Bryant,1999-10-31,0.0,,0,Sports
+NHL Blades of Steel '99,1999-04-05,0.0,,0,Sports
+Crazy Drake,1999-01-01,0.0,,0,Arcade
+Case Closed,1999-01-01,0.0,,0,"Adventure, Board Games"
+Campaign 1776: The American Revolution,1999-01-01,0.0,,0,
+Medabots,1999-07-23,0.0,,0,RPG
+Attack of the Saucerman,1999-07-01,0.0,,0,Action
+The 4th Coming,1999-05-11,0.0,,0,"Massively Multiplayer, RPG"
+Force 21,1999-01-01,0.0,,0,Strategy
+Crazy Balls,1999-01-01,0.0,,0,Arcade
+MindRover: The Europa Project,1999-01-01,0.0,,0,"Racing, Strategy, Arcade, Educational"
+Robot Ponkottsu 64: Nanatsu no Umi no Caramel,1999-12-24,0.0,,0,RPG
+Snowboard Racer,1999-11-01,0.0,,0,Sports
+Tournament of Warriors,1999-01-01,0.0,,0,"Arcade, Fighting"
+Formula One '99,1999-01-01,0.0,,0,"Racing, Simulation, Sports"
+Official Formula 1 Racing,1999-01-01,0.0,,0,"Racing, Simulation, Sports"
+Street Fighter III,1999-12-16,0.0,,0,Fighting
+X: Gold,1999-06-30,0.0,,0,"Action, Simulation"
+Crush Roller,1999-04-15,0.0,,0,"Strategy, Arcade, Puzzle"
+Moomintrolls: The Magic Lamp,1999-01-01,0.0,,0,Educational
+M25 Racer,1999-10-01,0.0,,0,"Racing, Arcade"
+Actua Ice Hockey 2,1999-01-01,0.0,,0,"Simulation, Sports"
+Elemental Gimmick Gear,1999-05-27,0.0,,0,"Action, RPG"
+Extreme 500,1999-01-01,0.0,,0,"Racing, Simulation, Sports, Card, Board Games"
+Slot City 2 Plus Video Poker,1999-01-01,0.0,,0,Card
+Frame Gride,1999-07-15,0.0,,0,Fighting
+Shadow Company: Left for Dead,1999-01-01,0.0,,0,Strategy
+Rich Diamond,1999-06-01,0.0,,0,
+Extreme Mountain Biking,1999-01-01,0.0,,0,"Racing, Arcade, Sports"
+Bionic Commando: Elite Forces,1999-01-01,0.0,,0,
+Irritating Stick,1999-01-30,0.0,,0,"Action, Puzzle"
+Gex 3: Deep Pocket Gecko (GBA),1999-12-14,0.0,,0,Platformer
+NBA Inside Drive 2000,1999-01-01,0.0,,0,Sports
+Sinistar Unleashed,1999-01-01,0.0,,0,Arcade
+Choro Q 64 2,1999-12-24,0.0,,0,Racing
+CyberTiger,1999-09-30,0.0,,0,Sports
+Klaymen Gun Hockey,1999-11-25,0.0,,0,"Casual, Arcade, Sports"
+Nekopara,1999-04-24,0.0,,0,Adventure
+Dope Wars,1999-04-27,0.0,,0,Strategy
+3-D Ultra Cool Pool,1999-01-01,0.0,,0,Sports
+Inherent Evil,1999-11-01,0.0,,0,Adventure
+MiniGolf Master: The Planets of Miniverse,1999-01-01,0.0,,0,
+Sid Meier's Antietam!,1999-01-01,0.0,,0,Strategy
+Mystery at Greveholm 2: The Journey to Planutus,1999-01-01,0.0,,0,"Adventure, Puzzle"
+Hatfields & McCoys: Families at War,1999-01-01,0.0,,0,Strategy
+Skydive!,1999-07-01,0.0,,0,Sports
+3-D Ultra Lionel Train Town,1999-01-01,0.0,,0,Puzzle
+Machines (1999),1999-04-01,0.0,,0,Strategy
+NFL Quarterback Club 2000,1999-08-31,0.0,,0,Sports
+The FA Premier League Stars,1999-01-01,0.0,,0,Sports
+Picross NP Vol.3,1999-08-01,0.0,,0,Puzzle
+Arkanoid 2000,1999-12-12,0.0,,0,Arcade
+31,1999-01-01,0.0,,0,Card
+Moomintrolls: Hide and Seek,1999-01-01,0.0,,0,Educational
+Berušky,1999-01-02,0.0,,0,Puzzle
+Ikusa Megami,1999-01-29,0.0,,0,RPG
+Wild Wild West: The Steel Assassin,1999-11-30,0.0,,0,Adventure
+Karate Fighter,1999-01-01,0.0,,0,"Casual, Arcade, Action, Fighting"
+Rhapsody II: Ballad of the Little Princess,1999-11-25,0.0,,0,RPG
+Spec Ops II - Omega Squad,1999-10-31,0.0,50.0,0,"Shooter, Action"
+Roadsters,1999-11-30,0.0,,0,Racing
+Bass Masters 2000,1999-12-16,0.0,,0,
+World Driver Championship,1999-05-31,0.0,,0,Racing
+Castrol Honda Superbike Racing,1999-04-30,0.0,,0,Racing
+Braveheart (1999),1999-07-01,0.0,,0,Strategy
+Start-Up,1999-01-01,0.0,,0,Strategy
+Wargamer: Napoleon 1813,1999-09-01,0.0,,0,Strategy
+Argosy 2325,1999-01-01,0.0,,0,"Action, Simulation"
+BHunter,1999-01-01,0.0,,0,"Racing, Action"
+Shadow of Power,1999-01-01,0.0,,0,Adventure
+Respect Inc.,1999-07-01,0.0,,0,"Strategy, Arcade"
+Original Mugen,1999-07-27,0.0,,0,"Arcade, Fighting"
+Aztec: The Curse at the Heart of the City of Gold,1999-01-01,0.0,,0,"Educational, Adventure"
+Airforce Delta,1999-09-08,0.0,,0,"Action, Simulation"
+Disney's Winnie The Pooh: Toddler,1999-01-01,0.0,,0,Educational
+The Sacred Amulet,1999-11-01,0.0,,0,Adventure
+Barbie: Ocean Discovery,1999-05-01,0.0,,0,Action
+TNN Motorsports Hardcore Heat,1999-07-08,0.0,,0,Racing
+Simon the Sorcerer Pinball,1999-01-01,0.0,,0,
+X-Games Pro Boarder,1999-07-24,0.0,,0,"Arcade, Sports"
+The Chessmaster 7000,1999-01-01,0.0,,0,
+Legend of the River King 2,1999-07-16,0.0,,0,
+Metal Walker,1999-12-24,0.0,,0,RPG
+All-Star Baseball 2000,1999-04-07,0.0,,0,Action
+Top Gear Rally 2,1999-10-31,0.0,,0,Racing
+"The Operational Art of War, Vol. 2: 1956-2000",1999-01-01,0.0,,0,Strategy
+WCW/nWo Thunder,1999-01-15,0.0,,0,"Action, Fighting, Sports"
+Hoyle Casino 4,1999-01-01,0.0,,0,Card
+Blaze & Blade: Eternal Quest,1999-01-01,0.0,,0,RPG
+Jersey Devil,1999-11-01,0.0,,0,Arcade
+Dr. Goo 3: The Rubbledum War,1999-12-31,0.0,,0,Arcade
+Charlie Blast's Territory,1999-04-30,0.0,,0,Puzzle
+Ultimate 8 Ball,1999-01-01,0.0,,0,Sports
+Deer Avenger 2,1999-01-01,0.0,,0,Arcade
+Angel Egg,1999-01-01,0.0,,0,Arcade
+Heated Wind,1999-01-01,0.0,,0,Arcade
+Jet de GO!,1999-01-01,0.0,,0,Simulation
+Advanced Video Poker,1999-01-01,0.0,,0,Card
+KTuberling,1999-01-01,0.0,,0,Casual
+CTris 2000,1999-05-30,0.0,,0,Arcade
+Laser Burst,1999-01-01,0.0,,0,"Casual, Indie, Arcade"
+Zool: Majuu Tsukai Densetsu,1999-06-11,0.0,,0,RPG
+R-Type DX,1999-07-20,0.0,,0,Shooter
+Baseball Stars Color,1999-03-19,0.0,,0,"Strategy, Action, Sports"
+Scrabble 2,1999-10-04,0.0,,0,Board Games
+Hoyle Word Games,1999-10-01,0.0,,0,
+"Thrust, Twist 'n' Turn",1999-01-01,0.0,,0,"Racing, Arcade"
+Kids Tetris,1999-01-01,0.0,,0,Arcade
+Ferazel's Wand,1999-01-01,0.0,,0,Platformer
+Panzer Campaigns: Smolensk '41,1999-12-01,0.0,,0,Strategy
+Meteor (1999),1999-03-06,0.0,,0,Shooter
+Bomber Pingouin,1999-01-01,0.0,,0,Arcade
+Challenge Pool for Windows,1999-01-01,0.0,,0,Sports
+Fighter Maker,1999-01-01,0.0,,0,Fighting
+Mickey's Racing Adventure,1999-11-22,0.0,,0,"Racing, Adventure"
+Flag to Flag,1999-03-25,0.0,,0,Racing
+Xtom 3D,1999-01-01,0.0,,0,"Shooter, Arcade, Action"
+US Slots,1999-01-01,0.0,,0,
+秋之回忆,1999-09-30,0.0,,0,Adventure
+Xenic,1999-02-01,0.0,,0,Arcade
+Coaster Works,1999-12-09,0.0,,0,Simulation
+Stuart Little's Big City Adventures,1999-12-31,0.0,,0,Arcade
+Space Battleship Yamato,1999-02-04,0.0,,0,"Strategy, Action"
+Little Magic,1999-11-26,0.0,,0,Puzzle
+Pet Wings,1999-01-01,0.0,,0,Arcade
+Geo Shooters,1999-01-01,0.0,,0,Arcade
+Integral Arm DX,1999-01-01,0.0,,0,Arcade
+Spellbinder: The Nexus Conflict,1999-01-01,0.0,,0,"Massively Multiplayer, Action"
+Armies of Armageddon: The Wargamers Development Kit 2K,1999-01-01,0.0,,0,Strategy
+Spawn (GBC),1999-09-15,0.0,,0,"Adventure, Action"
+Expert Pool,1999-01-01,0.0,,0,Sports
+Psycho Rhythm,1999-10-29,0.0,,0,Casual
+Tanktics: War and Pieces,1999-10-08,0.0,,0,"Strategy, Arcade"
+Trick'N Snowboarder,1999-02-04,0.0,,0,Sports
+G-Police: Weapons of Justice,1999-08-31,0.0,,0,Shooter
+Links LS 2000,1999-01-01,0.0,,0,Sports
+Hoyle Slots and Video Poker,1999-05-01,0.0,,0,
+Shoot Sam,1999-01-01,0.0,,0,Arcade
+Super Hero Operations,1999-01-01,0.0,,0,RPG
+BoaBite 3D,1999-09-04,0.0,,0,Arcade
+Wow Mix Club,1999-01-01,0.0,,0,Arcade
+Ferion,1999-12-12,0.0,,0,Strategy
+F1 World Grand Prix 1999 Season,1999-12-30,0.0,,0,"Racing, Sports"
+Arcade Party Pak,1999-09-30,0.0,,0,
+Barbie: Race & Ride,1999-01-01,0.0,,0,
+Blood Lines,1999-01-01,0.0,,0,Action
+Disney's Villains' Revenge,1999-09-28,0.0,,0,Puzzle
+Tonka Construction 2,1999-01-01,0.0,,0,
+Nations: WWII Fighter Command,1999-11-01,0.0,,0,Simulation
+Scooby-Doo! Mystery of the Fun Park Phantom,1999-12-28,0.0,,0,"Adventure, Puzzle"
+Amazin Spispopd,1999-01-01,0.0,,0,Arcade
+Perfect Checkmate,1999-01-01,0.0,,0,
+Curse of Ra,1999-01-01,0.0,,0,Board Games
+The Rugrats Movie,1999-02-28,0.0,,0,Adventure
+Sleepwalker (1999),1999-01-01,0.0,,0,Arcade
+PeaceMaker,1999-06-01,0.0,,0,"Arcade, Simulation"
+iS: Internal Section,1999-01-28,0.0,,0,Shooter
+Space Marauder,1999-07-23,0.0,,0,
+The New Tetris,1999-07-31,0.0,,0,Puzzle
+Monkey Magic,1999-11-27,0.0,,0,
+Tactical Manager 2,1999-10-01,0.0,,0,"Strategy, Sports"
+Intellivision Lives!,1999-04-30,0.0,,0,
+KBlackbox,1999-01-01,0.0,,0,Puzzle
+Triple Play 2000,1999-02-28,0.0,,0,Sports
+Action Man: Raid on Island X,1999-11-01,0.0,,0,"Racing, Arcade"
+Pokemon Gotta MAKE'em All! (Blue Version),1999-11-09,0.0,,0,Casual
+Ken Griffey Jr.'s Slugfest,1999-05-10,0.0,,0,Sports
+In-Fisherman Bass Hunter 64,1999-06-30,0.0,,0,"Simulation, Sports"
+Aisle (interactive fiction),1999-05-28,0.0,,0,Simulation
+Malkari,1999-04-01,0.0,,0,Strategy
+Dirt Track Racing,1999-01-01,0.0,,0,"Racing, Arcade, Action, Simulation"
+Star Trek: The Next Generation - Birth of the Federation,1999-01-01,0.0,,0,Strategy
+Gulf War: Operation Desert Hammer,1999-01-01,0.0,,0,"Arcade, Simulation"
+DK: 20th Century Day by Day,1999-01-01,0.0,,0,"Casual, Educational"
+Tasmanian Devil: Munching Madness,1999-01-01,0.0,,0,"Platformer, Action"
+Ed Hunter,1999-01-01,0.0,,0,Arcade
+FireCrow,1999-01-01,0.0,,0,Shooter
+Jugular Street Luge Racing,1999-12-14,0.0,,0,"Racing, Arcade"
+Armada (1999),1999-10-31,0.0,,0,"Shooter, RPG"
+Gundam Side Story 0079: Rise from the Ashes,1999-08-26,0.0,,0,Action
+Landmaker,1999-12-09,0.0,,0,Puzzle
+Backyard Football (1999),1999-01-01,0.0,,0,Sports
+Lil' Monster,1999-07-30,0.0,,0,Adventure
+Hot Chix 'n' Gear Stix,1999-01-01,0.0,,0,"Racing, Arcade"
+SuperChix '76,1999-01-01,0.0,,0,"Racing, Arcade"
+Eliminator,1999-01-01,0.0,,0,Arcade
+Big Air,1999-02-28,0.0,,0,Sports
+J-League Tactics Soccer,1999-01-15,0.0,,0,Sports
+360: Three Sixty,1999-07-01,0.0,,0,Racing
+AMA Superbike,1999-01-01,0.0,,0,"Racing, Arcade, Simulation"
+Mike Stewart's Pro Bodyboarding,1999-01-01,0.0,,0,"Arcade, Sports"
+Virtual Pool Hall,1999-01-01,0.0,,0,Sports
+Lander,1999-01-01,0.0,,0,Simulation
+Slingo,1999-01-01,0.0,,0,
+Harley-Davidson's Race Across America,1999-01-01,0.0,,0,"Racing, Arcade"
+Snowmobile Championship 2000,1999-10-01,0.0,,0,"Racing, Arcade"
+Chōkūkan Night: Pro Yakyū King 2,1999-03-19,0.0,,0,Sports
+Jikkyō GI Stable,1999-04-28,0.0,,0,Sports
+Rally Challenge 2000,1999-08-06,0.0,,0,Racing
+Circadia (1999),1999-01-14,0.0,,0,RPG
+4x4 World Trophy,1999-10-31,0.0,,0,Racing
+Street Sk8er 2,1999-03-01,0.0,,0,"Simulation, Sports"
+Ecsaform,1999-01-28,0.0,,0,"Strategy, RPG"
+Zill O'll,1999-10-07,0.0,,0,RPG
+Rocky Mountain Trophy Hunter,1999-08-01,0.0,,0,
+Sweet Ange,1999-01-01,0.0,,0,Simulation
+Pocket MuuMuu,1999-02-04,0.0,,0,Action
+Makai-Mura for WonderSwan,1999-07-22,0.0,,0,"Platformer, Action"
+Jinsei Game 64,1999-03-19,0.0,,0,Board Games
+Dragon Warrior I & II,1999-09-23,0.0,,0,RPG
+Championship Motocross Featuring Ricky Carmichael,1999-09-13,0.0,70.0,0,Action
+Comic Party,1999-05-28,0.0,,0,
+Jeff Gordon XS Racing,1999-05-31,0.0,,0,Racing
+15-Pack,1999-01-01,0.0,,0,
+Konami 80's Arcade Gallery,1999-05-13,0.0,,0,Arcade
+Parlor! Pro 64: Pachinko Jikki Simulation,1999-01-29,0.0,,0,
+Ganbare Goemon: Tengu-tō no Gyakushū!,1999-01-14,0.0,,0,RPG
+Initial D,1999-01-07,0.0,,0,Racing
+3D Hunting: Extreme,1999-05-01,0.0,,0,Sports
+Skout,1999-09-01,0.0,,0,Action
+Show do Milhão,1999-11-28,0.0,,0,"Educational, Family"
+Nise Taxi,1999-07-27,0.0,,0,Casual
+Cookie’s Bustle,1999-03-18,0.0,,0,Adventure
+Fighter Squadron: The Screamin' Demons Over Europe,1999-03-01,0.0,,0,
+LEGO Friends (1999),1999-01-01,0.0,,0,Casual
+Descent 3: Retribution,1999-01-01,0.0,,0,"Shooter, Action"
+Uno (1999),1999-12-16,0.0,,0,Card
+Phoenix,1999-12-01,0.0,,0,Simulation
+Tanktics,1999-03-01,0.0,,0,Strategy
+Tenshi ni Chijoku no Senrei o…,1999-03-04,0.0,,0,Casual
+Superbike World Championship,1999-04-10,0.0,,0,"Racing, Simulation, Sports"
+The Queen of Heart '99: Dream Match Never Ends,1999-12-24,0.0,,0,"Arcade, Fighting"
+Kettō Transformers Beast Wars: Beast Senshi Saikyō Ketteisen,1999-04-02,0.0,,0,Fighting
+Blast Radius,1999-02-28,0.0,,0,
+Deception III: Dark Delusion,1999-12-09,0.0,,0,"Strategy, RPG"
+DBA Online,1999-01-01,0.0,,0,Strategy
+Jakkal: Flesh + Bones,1999-01-01,0.0,,0,Strategy
+"Alchemist, The (1999)",1999-01-01,0.0,,0,Puzzle
+Animaniacs Splat Ball,1999-10-30,0.0,,0,Arcade
+Dead of the Brain 1 & 2,1999-06-03,0.0,,0,Adventure
+Robbit Mon Dieu,1999-10-14,0.0,,0,
+Dancing Blade Katteni Momotenshi II: Tears of Eden,1999-09-30,0.0,,0,Adventure
+Field & Stream Trophy Hunting,1999-11-08,0.0,,0,Sports
+Pokémon Picross (Game Boy Color),1999-12-31,0.0,,0,Puzzle
+"Blue's Clues: Lights On, Lights Off",1999-01-01,0.0,,0,Family
+Playmobil: Alex Builds His Farm,1999-01-01,0.0,,0,"Educational, Adventure"
+Gungage,1999-09-24,0.0,,0,"Shooter, Arcade, Action"
+Kakutou Ryouri Densetsu Bistro Recipe,1999-12-10,0.0,,0,RPG
+Lunatic Dawn Odyssey,1999-12-02,0.0,,0,RPG
+My Garden (1999),1999-09-02,0.0,,0,Adventure
+Tahl: Uncover the Evil Within,1999-01-01,0.0,,0,RPG
+Buriki One,1999-05-21,0.0,,0,Fighting
+Choose Your Own Nightmare: Bite of the Vampire,1999-01-01,0.0,,0,"Casual, Adventure"
+Little Ida,1999-01-01,0.0,,0,"Platformer, Arcade"
+Top Gear Pocket,1999-03-25,0.0,,0,Racing
+NFL Fever 2000,1999-08-13,0.0,,0,Sports
+Gaia Crusaders,1999-07-01,0.0,,0,"Arcade, Action"
+Power Shovel,1999-01-01,0.0,,0,Arcade
+Mystic Ark: Maboroshi Gekijo,1999-03-18,0.0,,0,RPG
+Blue's Clues: Laundry Time,1999-01-02,0.0,,0,Family
+Ore no Ryouri,1999-09-09,0.0,,0,Simulation
+Retro Force,1999-03-17,0.0,,0,Shooter
+Virus: It is Aware,1999-06-01,0.0,,0,Action
+Kaze no Klonoa: Moonlight Museum,1999-05-20,0.0,,0,"Platformer, Adventure"
+Zook: Hero Z,1999-01-01,0.0,,0,Platformer
+Germs Nerawareta Machi,1999-07-22,0.0,,0,"Shooter, Action"
+Kkoma Tokki Toby,1999-01-01,0.0,,0,Platformer
+The Red Odyssey: Authorized Battlezone Mission Pack,1999-02-24,0.0,,0,"Shooter, Strategy, Action"
+3D Sea Battle 2,1999-05-01,0.0,,0,Board Games
+Stray Sheep: The Adventure of Poe & Merry,1999-09-09,0.0,,0,"Indie, Adventure, Action"
+Monsterseed,1999-03-31,0.0,,0,"Strategy, RPG"
+Tokyo Bus Guide,1999-12-23,0.0,,0,Simulation
+Asuka 120% Return BURNING Fest.,1999-09-24,0.0,,0,"Action, Fighting"
+D's Garage 21: Koubo's Game - Tana o Maku Tori,1999-12-22,0.0,,0,Puzzle
+Virus War II: Final,1999-01-01,0.0,,0,"Casual, Action"
+Jambo! Safari,1999-01-01,0.0,,0,"Racing, Arcade"
+Psychometrer Eiji,1999-02-18,0.0,,0,Adventure
+Мортал Комбат 5 Вован,1999-01-01,0.0,,0,Puzzle
+DeviceReign,1999-02-25,0.0,,0,Strategy
+Chocobo Collection-Happy 10th Anniversary,1999-11-22,0.0,,0,Family
+Snoboard Kids Plus,1999-05-13,0.0,,0,"Racing, Sports"
+Mini in Wonderland,1999-01-01,0.0,,0,Adventure
+Why we Die,1999-12-01,0.0,,0,Educational
+Private Castle,1999-01-01,0.0,,0,Adventure
+Козульский квест,1999-01-01,0.0,,0,"Casual, Adventure"
+Gekisou Tomarunner,1999-07-22,0.0,,0,Racing
+TNN Outdoors Pro Hunter 2,1999-11-04,0.0,,0,Sports
+KURT - DER FUSSBALLMANAGER,1999-01-31,0.0,,0,"Simulation, Sports"
+Odens öga,1999-01-01,0.0,,0,Action
+Space Adventure Cobra: Galaxy Nights,1999-02-18,0.0,,0,"Casual, Educational"
+Tokyo Majin Gakuen Oboro-Kitan,1999-04-21,0.0,,0,"Adventure, Action"
+Dream Land: Final Solution,1999-01-01,0.0,,0,Adventure
+Přítmí: Twilight,1999-01-01,0.0,,0,Adventure
+Oksan,1999-01-01,0.0,,0,Board Games
