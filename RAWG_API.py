@@ -26,7 +26,8 @@ def fetch_games_by_year(api_key: str, start_year: int, end_year: int) -> None:
                 "key": api_key,
                 "dates": f"{year}-01-01,{year}-12-31",
                 "page": page,
-                "page_size": 40  # Adjust based on your API's allowed maximum to minimize requests
+                "page_size": 40,  # Adjust based on your API's allowed maximum to minimize requests
+                "ordering": "-metacritic"  # Order by Metacritic score, descending
             }
             response = fetch_data_with_retry(url, params)
             if response and response.status_code == 200:
