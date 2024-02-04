@@ -1,4 +1,404 @@
 name,release_date,rating,metacritic,playtime,genres
+Portal 2,2011-04-18,4.61,95.0,11,"Shooter, Puzzle"
+The Elder Scrolls V: Skyrim,2011-11-11,4.42,94.0,46,"Action, RPG"
+Terraria,2011-05-16,4.06,81.0,14,"Platformer, Indie, Action"
+Saints Row: The Third,2011-11-15,3.95,84.0,14,"Adventure, Action"
+L.A. Noire,2011-05-17,4.17,83.0,7,"Adventure, Action"
+Bastion,2011-07-20,4.15,86.0,4,"Indie, Adventure, Action, RPG"
+Total War: SHOGUN 2,2011-03-14,3.61,90.0,5,Strategy
+Dead Island,2011-09-06,3.47,74.0,7,"Shooter, Action, RPG"
+Magicka,2011-01-25,3.8,74.0,5,"Action, RPG"
+The Binding of Isaac,2011-09-28,3.9,84.0,5,"Indie, Action, RPG"
+Dead Space 2,2011-01-25,4.37,87.0,5,"Shooter, Action"
+Uncharted 3: Drake's Deception,2011-11-01,4.37,92.0,12,"Adventure, Action"
+Batman: Arkham City,2011-10-18,4.42,94.0,20,Action
+Homefront,2011-03-15,2.95,70.0,2,Shooter
+Call of Duty: Modern Warfare 3,2011-11-08,3.77,85.0,8,"Shooter, Action"
+Deus Ex: Human Revolution,2011-08-22,4.37,89.0,17,"Action, RPG"
+To the Moon,2011-01-10,4.29,81.0,4,"Indie, Adventure, RPG"
+PAYDAY The Heist,2011-10-18,3.34,76.0,4,"Shooter, Action"
+"Warhammer 40,000: Space Marine",2011-09-05,3.46,74.0,5,"Shooter, Action"
+Tropico 4,2011-08-24,3.5,78.0,4,"Strategy, Simulation"
+Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2011-09-13,3.25,76.0,4,Action
+Serious Sam 3: BFE,2011-11-22,3.45,72.0,4,"Shooter, Indie, Action"
+F.E.A.R. 3,2011-03-25,3.35,74.0,3,"Shooter, Action"
+Battlefield 3,2011-10-25,4.07,86.0,4,"Shooter, Action"
+Crysis 2 - Maximum Edition,2011-03-22,3.72,,2,Action
+Assassin's Creed Revelations,2011-11-15,3.98,80.0,14,"Adventure, Action"
+Shadow of the Colossus (2011),2011-09-22,4.25,91.0,3,Action
+Rage,2011-10-03,3.42,79.0,5,"Shooter, Action"
+Red Faction: Armageddon,2011-06-07,3.03,75.0,2,"Shooter, Action"
+Sonic Generations,2011-11-01,3.9,77.0,2,"Family, Platformer, Arcade, Action"
+Outland,2011-04-26,2.89,83.0,3,"Indie, Platformer, Adventure, Action"
+Galactic Civilizations II: Ultimate Edition,2011-12-02,2.66,92.0,1,Strategy
+Renegade Ops,2011-09-13,2.98,76.0,2,"Shooter, Action"
+SpaceChem,2011-01-01,3.09,84.0,2,"Strategy, Indie, Simulation, Puzzle"
+Rayman Origins,2011-11-15,4.13,86.0,2,"Family, Platformer, Arcade, Action"
+Bulletstorm,2011-02-22,4.08,83.0,4,"Shooter, Action"
+Orcs Must Die!,2011-10-05,3.7,83.0,3,"Strategy, Indie, Action"
+Anomaly: Warzone Earth,2011-04-07,2.92,80.0,2,"Strategy, Indie, Action, Simulation"
+Lord of the Rings: War in the North,2011-11-01,3.34,66.0,3,"Action, RPG"
+Dark Souls,2011-09-22,4.34,89.0,48,"Action, RPG"
+Duke Nukem Forever,2011-06-09,2.87,54.0,3,"Shooter, Action"
+Alice: Madness Returns,2011-06-14,4.01,75.0,3,"Adventure, Action"
+Dino D-Day,2011-04-08,2.4,53.0,3,"Indie, Action"
+Catherine,2011-02-17,4.14,80.0,4,"Adventure, Action, RPG, Puzzle"
+Superbrothers: Sword & Sworcery,2011-03-24,3.5,,1,"Indie, Adventure, RPG"
+Dragon Age 2,2011-03-08,3.84,81.0,10,"Adventure, Action, RPG"
+Brink,2011-05-09,2.71,70.0,2,"Shooter, Action"
+DiRT 3,2011-05-24,3.67,87.0,2,"Racing, Arcade, Sports"
+"Warhammer 40,000: Dawn of War II: Retribution",2011-02-28,3.81,80.0,7,"Strategy, RPG"
+Gears of War 3,2011-09-20,4.2,91.0,16,Shooter
+Star Wars: The Old Republic,2011-12-20,3.85,85.0,5,"Massively Multiplayer, RPG"
+Dungeon Siege 3,2011-05-31,3.11,72.0,2,"Action, RPG"
+Crysis 2,2011-03-22,3.84,85.0,13,"Shooter, Action"
+Sanctum,2011-04-15,3.28,70.0,2,"Shooter, Action, Casual, Strategy, Indie"
+The Tiny Bang Story,2011-04-21,3.13,63.0,4,"Adventure, Puzzle, Casual, Family, Indie"
+Stacking,2011-02-07,3.35,80.0,3,"Adventure, Action, RPG, Puzzle, Indie"
+Frozen Synapse,2011-05-25,3.27,85.0,2,"Strategy, Indie, Action"
+APB Reloaded,2011-12-06,2.31,,3,"Shooter, Massively Multiplayer, Action"
+Sonic CD,2011-12-14,3.66,,1,"Adventure, Action"
+inFAMOUS 2,2011-06-07,4.13,83.0,13,"Adventure, Action"
+Jamestown: Legend of the Lost Colony,2011-06-08,3.32,81.0,1,"Indie, Arcade, Action"
+Rocketbirds: Hardboiled Chicken,2011-10-18,3.08,74.0,3,"Indie, Adventure"
+Puzzle Agent 2,2011-06-29,3.32,63.0,3,"Casual, Adventure, Puzzle"
+Edna & Harvey: Harvey's New Eyes,2011-08-26,3.27,75.0,3,"Indie, Adventure, RPG, Puzzle"
+Worms Ultimate Mayhem,2011-09-18,3.69,66.0,2,"Strategy, Action"
+Really Big Sky,2011-06-29,2.37,,2,"Indie, Action"
+Back to the Future: The Game - Episode 2. Get Tannen,2011-02-17,3.19,,3,Adventure
+Back to the Future: The Game - Episode 4. Double Visions,2011-04-29,3.15,,3,Adventure
+Back to the Future: The Game - Episode 3. Citizen Brown,2011-03-05,3.19,,3,Adventure
+Back to the Future: The Game - Episode 5. OUTATIME,2011-06-23,3.16,,3,Adventure
+Unepic,2011-09-29,3.98,68.0,4,"Platformer, Indie, Action, RPG"
+Treasure Adventure Game,2011-11-25,1.97,,1,"Adventure, Action, RPG, Indie, Platformer"
+FINAL FANTASY XIII-2,2011-12-15,3.55,,4,RPG
+LEGO Harry Potter: Years 5-7,2011-11-11,3.69,80.0,4,Action
+E.Y.E: Divine Cybermancy,2011-07-29,3.14,,5,"Shooter, Indie, Action, RPG"
+Spiral Knights,2011-04-04,2.87,64.0,2,Massively Multiplayer
+BEEP,2011-03-30,1.94,,3,"Racing, Adventure, Action, RPG, Casual, Strategy, Simulation, Sports, Indie"
+Trine 2,2011-12-07,3.94,,3,"Platformer, Arcade, Action"
+NightSky,2011-01-06,2.71,78.0,1,"Action, Puzzle, Casual, Strategy, Indie"
+Operation Flashpoint: Red River,2011-04-19,2.66,67.0,1,"Shooter, Strategy, Action"
+Dungeons of Dredmor,2011-07-13,3.46,79.0,3,"Indie, RPG"
+LittleBigPlanet 2,2011-01-18,4.08,,5,"Arcade, Action"
+Cthulhu Saves the World,2011-07-13,2.98,78.0,3,"Indie, Adventure, RPG"
+Capsized,2011-04-28,2.8,80.0,1,"Indie, Platformer, Adventure, Action"
+Rochard,2011-11-15,3.09,81.0,1,"Casual, Indie, Action"
+Space Pirates and Zombies,2011-08-14,3.11,74.0,2,"Strategy, Indie, Action, RPG"
+Grimm - GameClub,2011-01-04,1.94,,0,"Indie, Adventure, Action, Puzzle"
+Uncharted: Golden Abyss,2011-12-17,3.81,80.0,16,"Adventure, Action"
+Rock of Ages,2011-08-31,3.51,74.0,2,"Racing, Strategy, Platformer, Action"
+RIFT,2011-03-01,2.96,84.0,4,"Adventure, Action, RPG, Strategy, Massively Multiplayer"
+Breath of Death VII,2011-07-13,2.68,,1,"Indie, RPG"
+Serious Sam: The Random Encounter,2011-10-24,2.65,64.0,1,"Indie, Action, RPG"
+DC Universe Online,2011-01-11,2.95,72.0,5,"Massively Multiplayer, Adventure, Action, RPG"
+LEGO Star Wars III - The Clone Wars,2011-03-21,3.75,76.0,3,"Arcade, Family, Adventure, Action"
+Ni no Kuni: Wrath of the White Witch,2011-11-17,4.19,84.0,47,RPG
+Serious Sam Double D XXL,2011-08-30,2.68,67.0,1,"Shooter, Indie, Action"
+Driver San Francisco,2011-09-01,3.77,80.0,4,"Racing, Arcade, Action"
+Dead Rising 2: Off the Record,2011-04-13,3.5,66.0,5,"Adventure, Action"
+Gemini Rue,2011-02-23,3.67,82.0,2,"Indie, Adventure, RPG"
+Universe Sandbox,2011-04-29,3.02,83.0,2,"Casual, Indie, Simulation"
+Worms Crazy Golf,2011-10-18,2.57,73.0,1,"Action, Puzzle, Casual, Strategy, Arcade, Sports"
+Hector: Badge of Carnage - Full Series,2011-04-27,2.48,75.0,4,"Casual, Adventure"
+Jetpack Joyride,2011-09-01,3.57,90.0,5,"Arcade, Casual, Adventure, Action"
+ARMA: Gold Edition,2011-07-13,2.65,,1,"Strategy, Action, Simulation"
+STREET FIGHTER X TEKKEN,2011-09-05,3.32,81.0,4,"Action, Fighting"
+Steel Storm: Burning Retribution,2011-05-11,2.0,55.0,4,"Indie, Action"
+Worms Pinball,2011-10-19,2.05,,1,Casual
+The King of Fighters XIII,2011-11-18,3.63,,4,"Arcade, Action, Fighting"
+Men of War: Assault Squad,2011-02-23,3.67,77.0,2,Strategy
+Kingdom Rush,2011-12-19,4.15,,4,"Strategy, Indie, Action"
+Ultimate Marvel vs. Capcom 3,2011-11-15,3.86,,2,Fighting
+Atom Zombie Smasher,2011-03-14,2.97,75.0,1,"Strategy, Indie"
+Solar 2,2011-06-17,3.18,72.0,2,"Casual, Indie, Action, Simulation"
+FIFA 12,2011-09-27,3.43,85.0,0,Sports
+Might & Magic: Heroes VI,2011-10-13,3.41,77.0,9,"Strategy, RPG"
+Insanely Twisted Shadow Planet,2011-08-03,3.6,76.0,1,"Indie, Shooter, Adventure, Action"
+Dwarfs!?,2011-05-04,2.34,,1,"Casual, Strategy, Indie"
+DETOUR,2011-05-16,1.68,,3,"Racing, Adventure, Action, RPG, Casual, Strategy, Simulation, Sports, Indie"
+From Dust,2011-07-27,3.44,76.0,2,"Strategy, Adventure, Simulation"
+Anno 2070,2011-11-17,3.83,83.0,11,Strategy
+Nuclear Dawn,2011-09-25,2.72,71.0,3,"Strategy, Action"
+The Adventures of Shuggy,2011-06-15,2.46,,1,"Platformer, Indie, Action, Puzzle"
+Stronghold Kingdoms,2011-12-01,2.36,75.0,1,"Strategy, Massively Multiplayer"
+Gothic 3: Forsaken Gods Enhanced Edition,2011-03-22,2.99,,1,RPG
+Need for Speed: The Run,2011-11-15,3.7,66.0,6,"Racing, Arcade"
+Hacker Evolution Duality,2011-08-15,2.23,,1,Indie
+Hydrophobia: Prophecy,2011-05-09,2.69,64.0,1,"Shooter, Adventure, Action, Strategy, Indie"
+Test Drive Unlimited 2,2011-02-08,3.8,72.0,5,"Racing, Arcade"
+Sparkle 2 Evo,2011-11-29,2.58,,3,"Action, Casual, Arcade, Simulation, Family, Indie"
+Painkiller Redemption,2011-02-25,2.87,43.0,1,"Shooter, Action"
+Another World – 20th Anniversary Edition,2011-09-22,4.01,,1,"Arcade, Platformer, Adventure, Action"
+Blocks That Matter,2011-08-19,2.85,72.0,2,"Action, Puzzle, Casual, Platformer, Indie"
+SHIFT 2 UNLEASHED,2011-03-08,3.53,84.0,2,Racing
+TRAUMA,2011-08-08,2.3,62.0,1,"Casual, Indie, Adventure, Puzzle"
+Wizorb,2011-11-07,3.48,81.0,2,"Indie, Adventure, Action"
+Beyond Good & Evil HD,2011-03-02,3.91,84.0,1,"Adventure, Action"
+AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome,2011-11-23,2.71,,1,"Indie, Action, Sports"
+The Witcher 2: Assassins of Kings,2011-05-17,4.33,88.0,41,RPG
+Flatout 3: Chaos & Destruction,2011-12-13,2.01,23.0,1,Racing
+Deus Ex: Human Revolution - The Missing Link,2011-10-18,3.83,,4,"Shooter, Action, RPG"
+Take On Helicopters,2011-10-27,2.04,70.0,1,Simulation
+ArcaniA: Fall of Setarrif,2011-10-23,2.36,41.0,1,"Action, RPG"
+Avadon: The Black Fortress,2011-05-01,2.84,75.0,1,"Indie, Adventure, RPG"
+Jurassic Park: The Game,2011-11-15,2.91,54.0,3,"Adventure, Action"
+Galaxy on Fire 2 Full HD,2011-08-25,3.36,76.0,1,"Strategy, Adventure, RPG"
+Forza Motorsport 4,2011-01-03,3.9,91.0,65,Racing
+SpellForce 2: Faith in Destiny,2011-06-19,2.61,55.0,1,"Strategy, RPG"
+Majesty 2 Collection,2011-04-18,3.46,,3,Strategy
+MotorStorm: Apocalypse,2011-03-16,3.61,77.0,0,"Racing, Arcade"
+SkyDrift,2011-09-06,2.81,73.0,1,"Racing, Indie, Action"
+Champions Online,2011-06-14,2.23,72.0,3,"Massively Multiplayer, RPG"
+Q.U.B.E.,2011-12-16,3.47,69.0,1,"Indie, Adventure, Action, Puzzle"
+Killzone 3,2011-02-22,3.93,,60,"Shooter, Action"
+Fractal: Make Blooms Not War,2011-11-29,2.27,,1,"Casual, Indie"
+Waves,2011-11-16,3.5,82.0,1,"Casual, Indie, Arcade, Action"
+The Legend of Zelda: Ocarina of Time 3D,2011-06-19,4.54,94.0,13,"Adventure, RPG, Puzzle"
+No Time To Explain,2011-08-15,3.12,,2,Arcade
+Two Worlds II Castle Defense,2011-05-17,2.15,,3,"Strategy, Arcade, Action"
+Post Apocalyptic Mayhem,2011-03-17,2.74,44.0,3,"Racing, Action"
+Blackwell Deception,2011-10-12,3.9,73.0,4,"Indie, Adventure"
+Bloodline Champions,2011-01-13,2.68,79.0,1,"Massively Multiplayer, Action"
+The Legend of Zelda: Skyward Sword,2011-11-20,4.13,93.0,33,Adventure
+CHRONO TRIGGER (HD),2011-12-08,4.45,,3,RPG
+LEGO Pirates of the Caribbean: The Video Game,2011-05-10,3.92,73.0,5,"Adventure, Action"
+EverQuest II Free-To-Play. Your Way.,2011-12-07,2.29,83.0,2,"Massively Multiplayer, RPG"
+Snuggle Truck,2011-04-28,2.19,,2,"Casual, Racing, Arcade, Indie"
+Cities in Motion,2011-02-21,3.43,70.0,1,"Strategy, Simulation"
+Battle vs Chess,2011-05-17,3.11,69.0,4,"Casual, Strategy, Board Games, Puzzle"
+Elsword,2011-05-04,2.89,,1,"Adventure, Action, RPG, Casual, Massively Multiplayer"
+BlazBlue: Continuum Shift Extend,2011-12-17,3.5,66.0,5,"Action, Fighting"
+"Pokémon Black, White",2011-03-06,4.21,87.0,0,"Adventure, RPG"
+Shadows of the Damned,2011-06-07,3.89,76.0,2,"Shooter, Action"
+The First Templar,2011-05-05,3.24,57.0,1,"Adventure, Action"
+Before the Echo,2011-10-20,2.92,70.0,2,"Indie, RPG"
+BloodRayne Betrayal,2011-09-06,2.98,68.0,5,"Platformer, Adventure, Action"
+Ratchet & Clank: All 4 One,2011-10-18,3.51,70.0,0,"Arcade, Adventure, Action"
+Puzzle Pirates,2011-08-31,2.54,,1,"Casual, Massively Multiplayer, Strategy, Adventure"
+A.V.A. Alliance of Valiant Arms,2011-06-14,1.62,,1,Action
+Wasteland Angel,2011-09-01,1.92,,1,"Indie, Action"
+A.R.E.S.: Extinction Agenda,2011-01-19,2.85,68.0,2,"Indie, Action"
+Hunted: The Demon’s Forge,2011-05-31,3.27,61.0,2,"Adventure, Action"
+Fortix 2,2011-05-06,2.77,74.0,3,"Casual, Indie"
+Super Mario 3D Land,2011-11-03,4.17,90.0,17,Platformer
+Hard Reset,2011-09-13,3.15,,2,"Shooter, Action"
+Hamilton's Great Adventure,2011-05-31,2.67,77.0,2,"Casual, Indie, Adventure, Action"
+The Next BIG Thing,2011-04-20,3.83,75.0,2,"Family, Adventure"
+F1 2011,2011-09-19,3.48,83.0,2,"Racing, Sports"
+Bunch of Heroes,2011-09-21,1.87,,1,"Indie, Action"
+inMomentum,2011-10-31,2.47,59.0,1,"Racing, Indie"
+CrimeCraft: GangWars,2011-08-22,1.65,68.0,1,"Massively Multiplayer, Action, RPG"
+Men of War: Vietnam,2011-09-07,2.9,68.0,1,Strategy
+Resistance 3,2011-09-06,4.01,83.0,12,"Shooter, Action"
+DUNGEONS,2011-02-04,2.43,65.0,1,"Strategy, RPG"
+Critical Mass,2011-06-20,2.16,81.0,1,"Casual, Indie"
+The Baconing,2011-08-31,3.34,63.0,1,"Adventure, Action, RPG"
+Xotic,2011-06-01,2.18,67.0,1,"Shooter, Indie, Action"
+Lume,2011-05-09,3.0,69.0,1,"Casual, Indie, Adventure, Puzzle"
+Gray Matter,2011-02-21,3.64,72.0,3,"Casual, Adventure"
+Memoir '44 Online,2011-10-12,2.11,,1,"Casual, Strategy, Simulation"
+Runespell: Overture,2011-07-20,2.31,69.0,3,"Indie, Adventure, RPG"
+Trainz Simulator 12,2011-04-12,2.11,,2,Simulation
+Section 8: Prejudice,2011-03-01,3.0,77.0,3,"Shooter, Action"
+Dungeons - The Dark Lord,2011-09-27,2.4,72.0,1,"Strategy, RPG, Simulation"
+Darkest Hour: A Hearts of Iron Game,2011-04-05,2.61,81.0,1,Strategy
+Naval Warfare,2011-05-25,1.75,57.0,1,"Indie, Action"
+Rocksmith,2011-10-18,4.19,78.0,9,"Casual, Simulation"
+Call of Juarez: The Cartel,2011-05-20,2.71,51.0,4,"Shooter, Adventure, Action"
+Ghostbusters: Sanctum of Slime,2011-03-23,2.84,33.0,1,"Arcade, Shooter, Adventure, Action"
+Resident Evil Code: Veronica X HD,2011-09-08,4.06,,0,"Shooter, Adventure, Action"
+TrackMania² Canyon,2011-09-14,3.84,81.0,3,"Racing, Sports"
+Child of Eden,2011-06-14,3.32,,8,"Shooter, Arcade"
+Enigmatis: The Ghosts of Maple Creek,2011-08-31,3.67,66.0,4,"Casual, Adventure, Puzzle"
+Cargo! The Quest for Gravity,2011-04-21,3.11,,2,"Arcade, Adventure, Action, Simulation"
+Virtua Tennis 4,2011-04-29,3.8,,2,Sports
+Grotesque Tactics 2 – Dungeons and Donuts,2011-11-17,1.47,48.0,1,"Indie, Strategy, Adventure, RPG"
+Defy Gravity,2011-01-07,2.21,,2,Arcade
+"Warhammer 40,000: Kill Team",2011-07-13,2.88,66.0,2,"Shooter, Action"
+The Cat and the Coup,2011-06-15,3.87,,1,"Indie, Platformer, Adventure"
+Myst: Masterpiece Edition,2011-02-02,4.19,,1,"Casual, Adventure"
+Chantelise: A Tale of Two Sisters,2011-07-28,3.4,62.0,1,"Action, RPG"
+Mario Kart 7,2011-12-04,4.1,85.0,30,Racing
+Black Mirror II: Reigning Evil,2011-02-08,3.67,71.0,10,Adventure
+King’s Bounty: Legions,2011-08-09,2.35,,1,"Adventure, RPG, Strategy, Indie, Massively Multiplayer"
+Data Jammers: FastForward,2011-10-24,2.29,,1,"Indie, Action"
+Black Mirror III: Final Fear,2011-02-04,3.47,75.0,9,Adventure
+Sideway New York,2011-11-15,2.7,71.0,1,"Arcade, Indie, Adventure"
+Magic: The Gathering - Duels of the Planeswalkers 2012,2011-06-14,3.39,77.0,9,"Strategy, Adventure"
+Ignite,2011-10-28,1.71,59.0,1,"Racing, Action"
+Metal Gear Solid: Peace Walker HD Edition,2011-11-08,4.1,,0,"Adventure, Action"
+Mortal Kombat Arcade Kollection,2011-08-30,3.66,60.0,1,"Arcade, Fighting"
+Fruit Ninja Kinect,2011-06-06,3.48,,2,"Family, Action"
+Insane 2,2011-09-30,3.04,,1,Racing
+de Blob 2,2011-02-22,3.37,74.0,2,"Adventure, Action, Arcade, Indie, Platformer"
+MX vs. ATV Alive,2011-05-10,2.49,,0,"Racing, Arcade, Sports"
+RACE Injection,2011-11-18,3.2,72.0,1,Racing
+Explodemon,2011-02-08,2.6,,1,"Casual, Indie, Adventure, Action"
+SENGOKU Anthology,2011-09-12,2.14,70.0,2,"Strategy, RPG, Simulation"
+Hard Corps: Uprising,2011-02-16,3.62,,1,"Platformer, Shooter, Arcade, Action"
+Death Rally,2011-03-31,3.02,,2,"Racing, Arcade, Action"
+Muffin Knight,2011-09-01,2.23,,1,"Adventure, Action, Casual, Arcade, Indie"
+Garshasp: The Monster Slayer,2011-05-09,2.42,49.0,1,"Indie, Action"
+King Arthur: Fallen Champions,2011-09-16,2.78,54.0,1,"Strategy, RPG"
+Tobe's Vertical Adventure,2011-07-18,2.25,75.0,1,"Indie, Adventure, Action"
+NBA 2K12,2011-10-04,3.49,84.0,8,Sports
+Disney Universe,2011-09-26,3.32,,3,"Adventure, Action"
+Stellar Impact,2011-08-05,2.25,74.0,3,"Strategy, Indie, Action"
+Touch My Katamari,2011-12-17,3.58,69.0,3,"Action, Puzzle"
+Glowfish,2011-07-28,2.62,,1,"Casual, Indie, Adventure"
+Dynasty Warriors Next,2011-12-17,2.38,,0,Action
+American Conquest: Fight Back,2011-08-26,3.62,66.0,1,Strategy
+Pickers,2011-12-13,2.44,,2,"Casual, Strategy, Adventure, Simulation"
+Choplifter HD,2011-12-21,2.67,65.0,1,"Shooter, Adventure, Action"
+Crimson Alliance,2011-08-23,2.54,,0,"Action, RPG"
+Air Conflicts: Secret Wars,2011-07-01,2.5,65.0,1,"Shooter, Action, Simulation"
+Halo: Combat Evolved Anniversary,2011-11-15,4.01,80.0,13,Shooter
+Midnight Mysteries 3: Devil on the Mississippi,2011-05-26,3.57,,4,"Casual, Adventure, Puzzle"
+Luxor 2 HD,2011-06-30,3.25,,2,"Casual, Arcade, Action"
+Lucid,2011-07-19,3.33,,1,"Casual, Indie"
+Fate of the World,2011-02-28,2.47,70.0,1,"Casual, Strategy, Indie, Simulation"
+WAY OF THE SAMURAI 4,2011-03-03,3.86,72.0,5,"Adventure, Action"
+Dead Horde,2011-06-27,2.67,,1,"Indie, Action"
+CastleMiner Z,2011-11-09,2.19,,2,"Indie, Adventure, Action"
+A Game of Thrones - Genesis,2011-09-28,2.32,,1,Strategy
+Demolition Inc.,2011-09-19,3.24,,1,"Action, Casual, Strategy, Simulation, Indie"
+Earth Defense Force: Insect Armageddon,2011-07-05,3.2,69.0,3,"Shooter, Action"
+Nyan Cat: Lost In Space,2011-05-12,3.15,,4,"Action, Puzzle, Casual, Arcade, Family"
+Auditorium,2011-01-04,3.39,,1,"Casual, Indie, Puzzle"
+Luxor: Amun Rising HD,2011-03-24,3.29,,1,"Casual, Arcade, Action"
+SATAZIUS,2011-07-16,2.2,,2,"Indie, Action"
+Pirates of Black Cove,2011-08-02,2.7,56.0,1,Strategy
+Dance Central 2,2011-10-21,3.67,,6,Simulation
+CreaVures,2011-02-23,1.88,55.0,1,Indie
+Major Mayhem,2011-10-21,3.23,,2,"Adventure, Action, Casual, Simulation, Indie"
+The Great Jitters: Pudding Panic,2011-06-07,1.89,,1,"Action, Puzzle, Casual, Strategy, Indie"
+3079,2011-10-23,1.88,,3,"Shooter, Indie, Action, RPG"
+ilomilo,2011-01-05,3.48,,1,Platformer
+Airline Tycoon 2,2011-10-04,1.4,57.0,1,"Strategy, Simulation"
+Hitogata Happa,2011-09-27,3.13,,1,"Indie, Action"
+GundeadliGne,2011-09-27,3.0,,1,"Indie, Action"
+Gundemonium Recollection,2011-09-27,3.2,,1,"Indie, Action"
+WWE '12,2011-11-22,3.63,,0,"Arcade, Fighting"
+Shuffle Party,2011-11-03,2.43,,0,"Casual, Arcade, Simulation, Sports"
+The Gunstringer,2011-05-24,2.78,,0,"Shooter, Action"
+Lightfish,2011-10-19,2.17,,1,"Indie, Action"
+Galaga Legions DX,2011-06-29,3.14,,5,"Shooter, Arcade"
+Real Warfare 1242,2011-11-30,0.0,,1,Strategy
+Pro Evolution Soccer 2012,2011-09-27,3.73,,228,Sports
+Gatling Gears,2011-05-11,3.53,,2,"Shooter, Arcade, Action"
+Madden NFL 12,2011-08-30,2.83,76.0,1,Sports
+Heavy Fire: Afghanistan,2011-11-08,3.15,,2,"Shooter, Action"
+Ironclads: Anglo Russian War 1866,2011-06-21,1.57,,1,Strategy
+Ironclads: Schleswig War 1864,2011-06-21,1.67,,1,Strategy
+Ironclads: Chincha Islands War 1866,2011-06-21,1.57,,1,Strategy
+Scram,2011-11-18,1.8,,1,"Adventure, Action, Casual, Strategy, Simulation, Indie, Massively Multiplayer"
+Crazy Machines Elements,2011-03-25,0.0,,1,"Casual, Strategy, Puzzle"
+Where is my Heart?,2011-11-08,2.92,74.0,1,"Adventure, Action, Puzzle, Casual, Indie"
+7 Wonders: Magical Mystery Tour,2011-10-04,0.0,,1,"Casual, Strategy, Arcade, Puzzle"
+The Haunted: Hells Reach,2011-10-24,2.0,51.0,2,"Shooter, Indie, Action"
+Dragon Nest,2011-09-27,3.54,,7,"Massively Multiplayer, RPG"
+Just Dance 3,2011-10-07,3.53,,0,"Family, Arcade"
+Cannon Fodder 3,2011-12-19,2.87,49.0,1,Action
+The Cursed Crusade,2011-10-07,2.77,55.0,2,"Adventure, Action"
+Storm in a Teacup,2011-05-19,2.67,,1,"Casual, Indie, Adventure, Puzzle"
+BIT.TRIP FLUX,2011-02-27,3.35,,2,"Casual, Indie, Arcade, Action"
+The Sims 3 Pets,2011-10-18,3.81,79.0,45,"Strategy, Simulation"
+Dracula: Love Kills,2011-06-08,0.0,,4,"Casual, Adventure"
+Global Ops: Commando Libya,2011-10-07,2.43,37.0,1,Action
+WWE All Stars,2011-02-08,3.6,,0,"Arcade, Fighting, Sports"
+Ace Combat: Assault Horizon,2011-10-11,3.59,,5,"Shooter, Action, Simulation"
+Age of Empires Online,2011-08-16,2.6,,5,"Strategy, Massively Multiplayer"
+Vertex Dispenser,2011-06-10,0.0,70.0,1,"Strategy, Indie, Action"
+Puzzler World 2,2011-10-10,0.0,,1,"Casual, Strategy, Indie"
+Real Warfare 2: Northern Crusades,2011-11-18,0.0,,1,Strategy
+Dungeon Hunter: Alliance,2011-04-06,3.23,,0,"Action, RPG"
+Gunslingers,2011-08-05,1.88,,1,Strategy
+NHL 12,2011-09-09,3.26,86.0,0,Sports
+METAL GEAR SOLID HD EDITION,2011-11-08,4.36,90.0,178,"Shooter, Adventure, Action"
+Forsaken World,2011-03-09,2.89,,2,"Massively Multiplayer, RPG"
+Yakuza: Dead Souls,2011-06-09,3.06,64.0,0,Action
+The Sims Medieval,2011-03-22,3.77,78.0,24,"Strategy, Simulation"
+Alien Zombie Megadeath,2011-06-21,0.0,,1,"Shooter, Indie, Action"
+El Shaddai: Ascension of the Metatron,2011-04-28,3.82,76.0,12,"Action, Fighting"
+Mafia II: Director’s Cut,2011-12-01,4.28,,21,"Adventure, Action"
+Rusty Hearts,2011-04-15,2.38,,1,"Massively Multiplayer, Action"
+Mass Effect 2: Arrival,2011-03-29,4.1,65.0,54,RPG
+Harry Potter and the Deathly Hallows: Part 2,2011-07-12,2.61,43.0,5,"Shooter, Action"
+Full Auto,2011-05-17,3.68,70.0,0,"Shooter, Action"
+Dynasty Warriors 7,2011-03-29,3.78,,50,"Action, Fighting"
+Disney•Pixar Cars 2: The Video Game,2011-06-21,2.95,67.0,1,"Arcade, Racing, Adventure, Action"
+Fallout: New Vegas - Old World Blues,2011-07-19,4.27,,0,"Action, RPG"
+Doodle Devil,2011-02-11,3.47,,3,"Educational, Puzzle, Casual, Simulation, Indie, Board Games"
+Brawl Busters,2011-12-14,2.5,,1,Arcade
+RIDGE RACER (2012),2011-12-17,3.78,44.0,0,Racing
+Agricultural Simulator 2011: Extended Edition,2011-02-23,1.57,,1,Simulation
+The Treasures of Montezuma 3,2011-12-21,3.92,,4,"Adventure, Puzzle, Casual, Arcade, Indie"
+YOU DON'T KNOW JACK,2011-02-08,4.1,,2,Family
+ArmA II: Free,2011-06-23,2.14,,1,"Shooter, Strategy, Action"
+Skylanders Spyro's Adventure,2011-10-13,3.32,79.0,0,"Platformer, Arcade, Action"
+Bodycount,2011-08-30,2.53,,0,"Shooter, Action"
+Spider-Man: Edge of Time,2011-10-04,3.51,55.0,0,Action
+Ascension: Deckbuilding Game,2011-06-30,4.24,84.0,2,"Adventure, Action, Casual, Strategy, Card, Indie, Board Games"
+Cubixx HD,2011-08-17,2.06,,2,"Indie, Action, Puzzle"
+Fallout: New Vegas - Honest Hearts,2011-05-17,3.93,,0,"Action, RPG"
+Supreme Ruler: Cold War,2011-07-19,0.0,63.0,2,Strategy
+Kirby's Return to Dream Land,2011-10-24,4.05,77.0,0,Platformer
+Angry Birds Rio,2011-03-22,3.53,87.0,2,"Casual, Arcade, Puzzle"
+Pinballistik,2011-10-19,2.79,,1,Arcade
+Fallout: New Vegas - Lonesome Road,2011-09-20,4.1,,0,"Action, RPG"
+Burnout Crash!,2011-09-20,3.26,71.0,1,"Racing, Arcade, Action"
+Top Spin 4,2011-03-15,4.53,83.0,2,Sports
+Bug Princess,2011-12-15,4.5,86.0,0,"Casual, Arcade, Action"
+Dragon Age 2: Legacy,2011-07-26,3.93,,0,RPG
+APOX,2011-01-20,0.0,48.0,1,"Strategy, Indie, Action"
+Football Manager 2012,2011-10-21,4.06,84.0,94,"Strategy, Sports"
+The ICO & Shadow of the Colossus Collection,2011-09-22,4.31,,0,"Adventure, Action"
+inFAMOUS Festival of Blood,2011-10-25,3.82,78.0,6,"Adventure, Action"
+STEINS;GATE: My Darling's Embrace,2011-12-10,4.43,73.0,4,"Indie, Adventure, RPG"
+Captain Backwater,2011-10-10,0.0,,0,"Casual, Strategy, Indie"
+UberStrike,2011-05-27,0.0,,1,"Shooter, Action"
+Professor Layton and the Last Specter,2011-10-17,4.25,,0,
+Hot Shots Golf: World Invitational,2011-12-17,3.76,,0,Sports
+Dragon Age 2: Mark of the Assassin,2011-10-11,4.0,,0,RPG
+PixelJunk Shooter 2,2011-03-01,3.83,,1,"Shooter, Arcade, Action"
+Bionic Commando Rearmed 2,2011-02-01,3.06,62.0,2,"Arcade, Action"
+Six-Guns,2011-12-05,3.23,59.0,0,"Adventure, Action"
+Cabals: Magic & Battle Cards,2011-11-21,0.0,,1,"Card, Strategy, RPG"
+Fantasy Defense,2011-12-01,0.0,,1,"Strategy, Indie, RPG"
+Rocks and Rockets,2011-01-24,0.0,,1,"Arcade, Indie, Adventure, Action"
+All Zombies Must Die!,2011-12-27,3.5,,1,Arcade
+Shin Megami Tensei: Devil Survivor Overclocked,2011-08-23,4.28,,0,"Strategy, RPG"
+Dungeons & Dragons: Daggerdale,2011-05-24,2.67,47.0,2,"Action, RPG"
+Shaun the Sheep - Home Sheep Home 2,2011-12-08,3.78,83.0,1,"Adventure, Action, Puzzle, Casual, Indie"
+League of Evil,2011-02-03,3.18,,5,"Arcade, Indie, Adventure, Action"
+MDK2 HD,2011-10-12,3.82,73.0,2,"Arcade, Shooter, Adventure, Action"
+Serious Sam: Kamikaze Attack!,2011-09-15,2.46,67.0,4,"Casual, Indie, Arcade, Action"
+IL-2 Sturmovik: Cliffs of Dover,2011-03-25,3.33,60.0,1,Simulation
+NCAA Football 12,2011-07-12,3.24,82.0,0,"Simulation, Sports"
+Shadow Harvest: Phantom Ops,2011-04-05,2.57,34.0,1,"Shooter, Action"
+Star Fox 64 3D,2011-07-14,4.07,81.0,0,"Shooter, Action"
+Ace Attorney Investigations 2,2011-02-03,4.32,,0,Adventure
+Dissidia 012: Final Fantasy,2011-03-22,3.85,,0,"Adventure, Action, RPG, Fighting"
+Thor: God of Thunder,2011-04-28,2.76,44.0,0,"Adventure, Action"
+Chime Super Deluxe,2011-03-29,2.0,,0,Puzzle
+Pride of Nations,2011-06-07,0.0,70.0,1,"Strategy, Simulation"
+Captain America: Super Soldier,2011-07-14,3.3,57.0,7,"Adventure, Action"
+God of War: Origins Collection,2011-09-13,4.0,84.0,0,"Adventure, Action"
+Minecraft: Pocket Edition,2011-08-16,4.03,,3,"Adventure, Simulation"
+Nancy Drew: Secrets Can Kill REMASTERED,2011-07-25,3.65,,3,Adventure
+Monster Island,2011-09-21,2.4,,0,"Indie, Action, Puzzle"
+The Sims FreePlay,2011-12-15,2.85,80.0,2,"Adventure, Simulation"
+MINDJACK,2011-01-18,2.41,44.0,0,"Shooter, Action"
+UFC Personal Trainer,2011-06-28,3.18,,0,"Fighting, Sports"
+Cities XL 2012,2011-10-20,0.0,61.0,3,Strategy
+Nancy Drew: Trail of the Twister,2011-07-25,3.53,,5,Adventure
+Battle: Los Angeles,2011-03-11,1.9,40.0,2,"Shooter, Adventure, Action"
+X-Men Destiny,2011-09-27,2.4,48.0,0,"Action, RPG"
+Storm: Frontline Nation,2011-06-10,0.0,,1,Strategy
+Corpse Party: Book of Shadows,2011-09-01,4.0,,4,Adventure
+Tetraminos,2011-06-28,3.11,,1,"Casual, Puzzle"
+Hack RUN,2011-04-07,0.0,,2,"Strategy, Adventure, Simulation, Puzzle"
 ClaDun x2,2011-03-24,0.0,74.0,1,RPG
 Inside a Star-filled Sky,2011-05-14,0.0,,1,"Strategy, Indie, Action"
 Kung Fu Panda 2,2011-05-24,3.1,,0,"Arcade, Action"
